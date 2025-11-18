@@ -1,0 +1,15 @@
+pdfplumber
+pdf2image
+pytesseract
+sentence-transformers
+faiss-cpu
+transformers
+streamlit
+pymupdf
+Pillow
+camelot-py
+tabula-py
+torch
+requests
+opencv-python
+numpy

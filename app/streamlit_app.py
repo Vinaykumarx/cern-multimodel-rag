@@ -100,8 +100,8 @@ else:
             st.success("Extraction completed automatically.")
         else:
             st.error("❌ Extraction failed. Check logs in the terminal.")
-else:
-    st.success("Extracted text found (pages_text.json).")
+# else:
+#     st.success("Extracted text found (pages_text.json).")
 
 
 st.divider()

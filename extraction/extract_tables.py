@@ -1,12 +1,7 @@
 # import pdfplumber, json
 # from pathlib import Path
-
 # BASE = Path(__file__).resolve().parent.parent
-PDF_ENV = os.getenv('PDF_PATH')
-if PDF_ENV:
-    pdf_path = Path(PDF_ENV)
-else:
-    pdf_path = BASE / 'data' / 'CERN_Yellow_Report_357576.pdf'
+
 # out_dir = BASE/'outputs'
 # out_dir.mkdir(exist_ok=True)
 
@@ -30,12 +25,11 @@ else:
 
 # print("Tables saved to", out_dir)
 
-
+import os
 import pdfplumber
 import json
 import csv
 from pathlib import Path
-import os
 
 BASE = Path(__file__).resolve().parent.parent
 pdf_path = BASE / "data" / "CERN_Yellow_Report_357576.pdf"
@@ -43,6 +37,12 @@ out_dir = BASE / "outputs"
 out_dir.mkdir(exist_ok=True)
 
 tables_index = []
+
+PDF_ENV = os.getenv('PDF_PATH')
+if PDF_ENV:
+    pdf_path = Path(PDF_ENV)
+else:
+    pdf_path = BASE / 'data' / 'CERN_Yellow_Report_357576.pdf'
 
 with pdfplumber.open(str(pdf_path)) as pdf:
     for i, page in enumerate(pdf.pages):

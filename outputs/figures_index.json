@@ -1,0 +1,662 @@
+[
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/images/page_1_img_1157.png",
+    "caption": "a scientific figure from a cern materials radiation report. describe briefly.",
+    "page": 1,
+    "kind": "image"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/images/page_2_img_3.png",
+    "caption": "a scientific figure from a cern materials radiation report. describe briefly.",
+    "page": 2,
+    "kind": "image"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/images/page_3_img_6.png",
+    "caption": "a scientific figure from a cern materials radiation report. describe briefly.",
+    "page": 3,
+    "kind": "image"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_103_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 103,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_113_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 113,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_114_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 114,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_115_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 115,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_116_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 116,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_117_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 117,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_118_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 118,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_119_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 119,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_120_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 120,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_121_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 121,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_122_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 122,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_123_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 123,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_124_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 124,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_125_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 125,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_126_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 126,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_127_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 127,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_128_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 128,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_129_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 129,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_130_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 130,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_131_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 131,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_132_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 132,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_133_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 133,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_134_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 134,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_135_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 135,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_136_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 136,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_137_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 137,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_138_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 138,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_139_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 139,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_13_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 13,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_140_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 140,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_141_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 141,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_142_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 142,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_143_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 143,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_144_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 144,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_145_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 145,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_146_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 146,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_147_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 147,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_148_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 148,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_149_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 149,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_14_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 14,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_150_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 150,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_151_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 151,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_152_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 152,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_153_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 153,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_154_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 154,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_155_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 155,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_156_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 156,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_157_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 157,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_15_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 15,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_163_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 163,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_164_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 164,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_171_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 171,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_28_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 28,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_29_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 29,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_30_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 30,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_31_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 31,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_32_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 32,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_33_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 33,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_34_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 34,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_35_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 35,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_36_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 36,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_37_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 37,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_38_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 38,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_44_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 44,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_45_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 45,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_46_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 46,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_47_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 47,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_48_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 48,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_49_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 49,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_50_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 50,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_51_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 51,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_52_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 52,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_58_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 58,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_59_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 59,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_60_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 60,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_61_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 61,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_62_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 62,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_63_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 63,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_64_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 64,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_65_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 65,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_66_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 66,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_67_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 67,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_68_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 68,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_69_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 69,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_70_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 70,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_71_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 71,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_72_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 72,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_73_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 73,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_74_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 74,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_75_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 75,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_76_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 76,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_77_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 77,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_78_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 78,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_79_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 79,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_80_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 80,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_81_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 81,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_82_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 82,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_83_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 83,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_84_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 84,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_85_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 85,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_86_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 86,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_87_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 87,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_88_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 88,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_89_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 89,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_90_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 90,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_91_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 91,
+    "kind": "graph"
+  },
+  {
+    "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_92_graph_1.png",
+    "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
+    "page": 92,
+    "kind": "graph"
+  }
+]

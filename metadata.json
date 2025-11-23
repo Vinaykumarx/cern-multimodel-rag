@@ -708,7 +708,7 @@
   "tables": [
     {
       "page": 13,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_13_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_13_table_1.csv",
       "preview": [
         [
           "KEEP",
@@ -809,7 +809,7 @@
     },
     {
       "page": 14,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_14_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_14_table_1.csv",
       "preview": [
         [
           "SEDIMYLOP",
@@ -905,7 +905,7 @@
     },
     {
       "page": 15,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_15_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_15_table_1.csv",
       "preview": [
         [
           "SENOCILIS",
@@ -1001,7 +1001,7 @@
     },
     {
       "page": 16,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_16_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_16_table_1.csv",
       "preview": [
         [
           "",
@@ -1011,7 +1011,7 @@
     },
     {
       "page": 16,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_16_table_2.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_16_table_2.csv",
       "preview": [
         [
           "",
@@ -1021,7 +1021,7 @@
     },
     {
       "page": 16,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_16_table_3.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_16_table_3.csv",
       "preview": [
         [
           "",
@@ -1031,7 +1031,7 @@
     },
     {
       "page": 16,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_16_table_4.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_16_table_4.csv",
       "preview": [
         [
           "",
@@ -1041,7 +1041,7 @@
     },
     {
       "page": 16,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_16_table_5.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_16_table_5.csv",
       "preview": [
         [
           "",
@@ -1051,7 +1051,7 @@
     },
     {
       "page": 16,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_16_table_6.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_16_table_6.csv",
       "preview": [
         [
           "",
@@ -1061,7 +1061,7 @@
     },
     {
       "page": 16,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_16_table_7.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_16_table_7.csv",
       "preview": [
         [
           "",
@@ -1071,7 +1071,7 @@
     },
     {
       "page": 16,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_16_table_8.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_16_table_8.csv",
       "preview": [
         [
           "",
@@ -1081,7 +1081,7 @@
     },
     {
       "page": 16,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_16_table_9.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_16_table_9.csv",
       "preview": [
         [
           "",
@@ -1091,7 +1091,7 @@
     },
     {
       "page": 16,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_16_table_10.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_16_table_10.csv",
       "preview": [
         [
           "",
@@ -1101,7 +1101,7 @@
     },
     {
       "page": 16,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_16_table_11.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_16_table_11.csv",
       "preview": [
         [
           "",
@@ -1111,7 +1111,7 @@
     },
     {
       "page": 16,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_16_table_12.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_16_table_12.csv",
       "preview": [
         [
           "",
@@ -1121,7 +1121,7 @@
     },
     {
       "page": 16,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_16_table_13.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_16_table_13.csv",
       "preview": [
         [
           "",
@@ -1131,7 +1131,7 @@
     },
     {
       "page": 16,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_16_table_14.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_16_table_14.csv",
       "preview": [
         [
           "",
@@ -1141,7 +1141,7 @@
     },
     {
       "page": 16,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_16_table_15.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_16_table_15.csv",
       "preview": [
         [
           "",
@@ -1151,7 +1151,7 @@
     },
     {
       "page": 16,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_16_table_16.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_16_table_16.csv",
       "preview": [
         [
           "",
@@ -1161,7 +1161,7 @@
     },
     {
       "page": 16,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_16_table_17.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_16_table_17.csv",
       "preview": [
         [
           "",
@@ -1171,7 +1171,7 @@
     },
     {
       "page": 16,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_16_table_18.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_16_table_18.csv",
       "preview": [
         [
           "",
@@ -1181,7 +1181,7 @@
     },
     {
       "page": 16,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_16_table_19.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_16_table_19.csv",
       "preview": [
         [
           "",
@@ -1191,7 +1191,7 @@
     },
     {
       "page": 16,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_16_table_20.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_16_table_20.csv",
       "preview": [
         [
           "",
@@ -1201,7 +1201,7 @@
     },
     {
       "page": 16,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_16_table_21.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_16_table_21.csv",
       "preview": [
         [
           "",
@@ -1211,7 +1211,7 @@
     },
     {
       "page": 16,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_16_table_22.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_16_table_22.csv",
       "preview": [
         [
           "",
@@ -1221,7 +1221,7 @@
     },
     {
       "page": 16,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_16_table_23.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_16_table_23.csv",
       "preview": [
         [
           "",
@@ -1231,7 +1231,7 @@
     },
     {
       "page": 17,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_17_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_17_table_1.csv",
       "preview": [
         [
           "",
@@ -1241,7 +1241,7 @@
     },
     {
       "page": 17,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_17_table_2.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_17_table_2.csv",
       "preview": [
         [
           "",
@@ -1251,7 +1251,7 @@
     },
     {
       "page": 17,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_17_table_3.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_17_table_3.csv",
       "preview": [
         [
           "",
@@ -1261,7 +1261,7 @@
     },
     {
       "page": 17,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_17_table_4.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_17_table_4.csv",
       "preview": [
         [
           "",
@@ -1271,7 +1271,7 @@
     },
     {
       "page": 17,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_17_table_5.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_17_table_5.csv",
       "preview": [
         [
           "",
@@ -1281,7 +1281,7 @@
     },
     {
       "page": 17,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_17_table_6.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_17_table_6.csv",
       "preview": [
         [
           "",
@@ -1291,7 +1291,7 @@
     },
     {
       "page": 17,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_17_table_7.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_17_table_7.csv",
       "preview": [
         [
           "",
@@ -1301,7 +1301,7 @@
     },
     {
       "page": 17,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_17_table_8.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_17_table_8.csv",
       "preview": [
         [
           "",
@@ -1311,7 +1311,7 @@
     },
     {
       "page": 17,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_17_table_9.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_17_table_9.csv",
       "preview": [
         [
           "",
@@ -1321,7 +1321,7 @@
     },
     {
       "page": 17,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_17_table_10.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_17_table_10.csv",
       "preview": [
         [
           "",
@@ -1331,7 +1331,7 @@
     },
     {
       "page": 17,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_17_table_11.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_17_table_11.csv",
       "preview": [
         [
           "",
@@ -1341,7 +1341,7 @@
     },
     {
       "page": 21,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_21_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_21_table_1.csv",
       "preview": [
         [
           "CH CH 3 3",
@@ -1367,7 +1367,7 @@
     },
     {
       "page": 21,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_21_table_2.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_21_table_2.csv",
       "preview": [
         [
           "",
@@ -1401,7 +1401,7 @@
     },
     {
       "page": 21,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_21_table_3.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_21_table_3.csv",
       "preview": [
         [
           "",
@@ -1415,7 +1415,7 @@
     },
     {
       "page": 21,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_21_table_4.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_21_table_4.csv",
       "preview": [
         [
           "",
@@ -1442,7 +1442,7 @@
     },
     {
       "page": 21,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_21_table_5.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_21_table_5.csv",
       "preview": [
         [
           "",
@@ -1478,7 +1478,7 @@
     },
     {
       "page": 21,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_21_table_6.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_21_table_6.csv",
       "preview": [
         [
           ""
@@ -1490,7 +1490,7 @@
     },
     {
       "page": 21,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_21_table_7.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_21_table_7.csv",
       "preview": [
         [
           "O",
@@ -1524,7 +1524,7 @@
     },
     {
       "page": 21,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_21_table_8.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_21_table_8.csv",
       "preview": [
         [
           "",
@@ -1538,7 +1538,7 @@
     },
     {
       "page": 21,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_21_table_9.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_21_table_9.csv",
       "preview": [
         [
           "O O CH CH CH 2 2"
@@ -1550,7 +1550,7 @@
     },
     {
       "page": 21,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_21_table_10.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_21_table_10.csv",
       "preview": [
         [
           ""
@@ -1562,7 +1562,7 @@
     },
     {
       "page": 21,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_21_table_11.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_21_table_11.csv",
       "preview": [
         [
           "CH 3 CH CH CH O C O CH CH CH 2 2 2 2 CH O 3 O",
@@ -1588,7 +1588,7 @@
     },
     {
       "page": 21,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_21_table_12.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_21_table_12.csv",
       "preview": [
         [
           "",
@@ -1606,7 +1606,7 @@
     },
     {
       "page": 21,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_21_table_13.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_21_table_13.csv",
       "preview": [
         [
           "",
@@ -1620,7 +1620,7 @@
     },
     {
       "page": 21,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_21_table_14.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_21_table_14.csv",
       "preview": [
         [
           ""
@@ -1632,7 +1632,7 @@
     },
     {
       "page": 21,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_21_table_15.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_21_table_15.csv",
       "preview": [
         [
           ""
@@ -1644,7 +1644,7 @@
     },
     {
       "page": 21,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_21_table_16.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_21_table_16.csv",
       "preview": [
         [
           ""
@@ -1656,7 +1656,7 @@
     },
     {
       "page": 21,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_21_table_17.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_21_table_17.csv",
       "preview": [
         [
           ""
@@ -1668,7 +1668,7 @@
     },
     {
       "page": 21,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_21_table_18.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_21_table_18.csv",
       "preview": [
         [
           ""
@@ -1680,7 +1680,7 @@
     },
     {
       "page": 21,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_21_table_19.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_21_table_19.csv",
       "preview": [
         [
           ""
@@ -1692,7 +1692,7 @@
     },
     {
       "page": 22,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_22_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_22_table_1.csv",
       "preview": [
         [
           "CH 2",
@@ -1708,7 +1708,7 @@
     },
     {
       "page": 22,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_22_table_2.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_22_table_2.csv",
       "preview": [
         [
           "CH 3 CH N 2 CH 3",
@@ -1722,7 +1722,7 @@
     },
     {
       "page": 22,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_22_table_3.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_22_table_3.csv",
       "preview": [
         [
           "",
@@ -1736,7 +1736,7 @@
     },
     {
       "page": 22,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_22_table_4.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_22_table_4.csv",
       "preview": [
         [
           ""
@@ -1748,7 +1748,7 @@
     },
     {
       "page": 22,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_22_table_5.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_22_table_5.csv",
       "preview": [
         [
           "O C O C O",
@@ -1762,7 +1762,7 @@
     },
     {
       "page": 23,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_23_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_23_table_1.csv",
       "preview": [
         [
           "O C O C O",
@@ -1776,7 +1776,7 @@
     },
     {
       "page": 23,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_23_table_2.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_23_table_2.csv",
       "preview": [
         [
           "O C O C CH 2 O CH 3"
@@ -1788,7 +1788,7 @@
     },
     {
       "page": 23,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_23_table_3.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_23_table_3.csv",
       "preview": [
         [
           ""
@@ -1800,7 +1800,7 @@
     },
     {
       "page": 23,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_23_table_4.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_23_table_4.csv",
       "preview": [
         [
           ""
@@ -1812,7 +1812,7 @@
     },
     {
       "page": 24,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_24_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_24_table_1.csv",
       "preview": [
         [
           "0|C 0|C | | N N\u2013R C C || || 0 0",
@@ -1822,7 +1822,7 @@
     },
     {
       "page": 25,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_25_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_25_table_1.csv",
       "preview": [
         [
           "O O CH CH CH CH CH CH 2 2 2 2 N CH N 2 CH CH CH CH CH CH 2 2 2 2 O O",
@@ -1848,7 +1848,7 @@
     },
     {
       "page": 25,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_25_table_2.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_25_table_2.csv",
       "preview": [
         [
           ""
@@ -1860,7 +1860,7 @@
     },
     {
       "page": 25,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_25_table_3.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_25_table_3.csv",
       "preview": [
         [
           ""
@@ -1872,7 +1872,7 @@
     },
     {
       "page": 25,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_25_table_4.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_25_table_4.csv",
       "preview": [
         [
           "",
@@ -1886,7 +1886,7 @@
     },
     {
       "page": 25,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_25_table_5.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_25_table_5.csv",
       "preview": [
         [
           "",
@@ -1900,7 +1900,7 @@
     },
     {
       "page": 25,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_25_table_6.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_25_table_6.csv",
       "preview": [
         [
           ""
@@ -1912,7 +1912,7 @@
     },
     {
       "page": 25,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_25_table_7.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_25_table_7.csv",
       "preview": [
         [
           ""
@@ -1924,7 +1924,7 @@
     },
     {
       "page": 25,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_25_table_8.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_25_table_8.csv",
       "preview": [
         [
           ""
@@ -1936,7 +1936,7 @@
     },
     {
       "page": 25,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_25_table_9.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_25_table_9.csv",
       "preview": [
         [
           ""
@@ -1948,7 +1948,7 @@
     },
     {
       "page": 25,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_25_table_10.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_25_table_10.csv",
       "preview": [
         [
           ""
@@ -1960,7 +1960,7 @@
     },
     {
       "page": 25,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_25_table_11.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_25_table_11.csv",
       "preview": [
         [
           ""
@@ -1972,7 +1972,7 @@
     },
     {
       "page": 25,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_25_table_12.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_25_table_12.csv",
       "preview": [
         [
           ""
@@ -1984,7 +1984,7 @@
     },
     {
       "page": 28,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_28_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_28_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -2004,7 +2004,7 @@
     },
     {
       "page": 29,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_29_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_29_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -2024,7 +2024,7 @@
     },
     {
       "page": 30,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_30_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_30_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -2044,7 +2044,7 @@
     },
     {
       "page": 31,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_31_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_31_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -2064,7 +2064,7 @@
     },
     {
       "page": 32,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_32_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_32_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -2084,7 +2084,7 @@
     },
     {
       "page": 33,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_33_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_33_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -2104,7 +2104,7 @@
     },
     {
       "page": 34,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_34_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_34_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -2124,7 +2124,7 @@
     },
     {
       "page": 35,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_35_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_35_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -2144,7 +2144,7 @@
     },
     {
       "page": 36,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_36_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_36_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -2164,7 +2164,7 @@
     },
     {
       "page": 37,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_37_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_37_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -2184,7 +2184,7 @@
     },
     {
       "page": 38,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_38_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_38_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -2204,7 +2204,7 @@
     },
     {
       "page": 44,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_44_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_44_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -2224,7 +2224,7 @@
     },
     {
       "page": 45,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_45_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_45_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -2244,7 +2244,7 @@
     },
     {
       "page": 46,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_46_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_46_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -2264,7 +2264,7 @@
     },
     {
       "page": 47,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_47_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_47_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -2284,7 +2284,7 @@
     },
     {
       "page": 48,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_48_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_48_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -2304,7 +2304,7 @@
     },
     {
       "page": 49,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_49_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_49_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -2324,7 +2324,7 @@
     },
     {
       "page": 50,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_50_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_50_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -2344,7 +2344,7 @@
     },
     {
       "page": 51,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_51_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_51_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -2364,7 +2364,7 @@
     },
     {
       "page": 52,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_52_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_52_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -2384,7 +2384,7 @@
     },
     {
       "page": 58,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_58_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_58_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -2404,7 +2404,7 @@
     },
     {
       "page": 59,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_59_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_59_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -2424,7 +2424,7 @@
     },
     {
       "page": 60,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_60_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_60_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -2444,7 +2444,7 @@
     },
     {
       "page": 61,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_61_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_61_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -2464,7 +2464,7 @@
     },
     {
       "page": 62,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_62_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_62_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -2484,7 +2484,7 @@
     },
     {
       "page": 63,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_63_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_63_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -2504,7 +2504,7 @@
     },
     {
       "page": 64,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_64_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_64_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -2524,7 +2524,7 @@
     },
     {
       "page": 65,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_65_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_65_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -2544,7 +2544,7 @@
     },
     {
       "page": 66,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_66_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_66_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -2564,7 +2564,7 @@
     },
     {
       "page": 67,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_67_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_67_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -2584,7 +2584,7 @@
     },
     {
       "page": 68,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_68_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_68_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -2604,7 +2604,7 @@
     },
     {
       "page": 69,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_69_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_69_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -2624,7 +2624,7 @@
     },
     {
       "page": 70,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_70_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_70_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -2644,7 +2644,7 @@
     },
     {
       "page": 71,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_71_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_71_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -2664,7 +2664,7 @@
     },
     {
       "page": 72,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_72_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_72_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -2684,7 +2684,7 @@
     },
     {
       "page": 73,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_73_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_73_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -2704,7 +2704,7 @@
     },
     {
       "page": 74,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_74_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_74_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -2724,7 +2724,7 @@
     },
     {
       "page": 75,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_75_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_75_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -2746,7 +2746,7 @@
     },
     {
       "page": 76,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_76_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_76_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -2766,7 +2766,7 @@
     },
     {
       "page": 77,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_77_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_77_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -2786,7 +2786,7 @@
     },
     {
       "page": 78,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_78_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_78_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -2806,7 +2806,7 @@
     },
     {
       "page": 79,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_79_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_79_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -2826,7 +2826,7 @@
     },
     {
       "page": 80,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_80_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_80_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -2846,7 +2846,7 @@
     },
     {
       "page": 81,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_81_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_81_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -2866,7 +2866,7 @@
     },
     {
       "page": 82,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_82_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_82_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -2886,7 +2886,7 @@
     },
     {
       "page": 83,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_83_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_83_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -2906,7 +2906,7 @@
     },
     {
       "page": 84,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_84_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_84_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -2926,7 +2926,7 @@
     },
     {
       "page": 84,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_84_table_2.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_84_table_2.csv",
       "preview": [
         [
           ""
@@ -2938,7 +2938,7 @@
     },
     {
       "page": 85,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_85_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_85_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -2958,7 +2958,7 @@
     },
     {
       "page": 86,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_86_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_86_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -2978,7 +2978,7 @@
     },
     {
       "page": 87,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_87_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_87_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -2998,7 +2998,7 @@
     },
     {
       "page": 88,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_88_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_88_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -3018,7 +3018,7 @@
     },
     {
       "page": 89,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_89_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_89_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -3038,7 +3038,7 @@
     },
     {
       "page": 90,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_90_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_90_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -3058,7 +3058,7 @@
     },
     {
       "page": 91,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_91_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_91_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -3078,7 +3078,7 @@
     },
     {
       "page": 92,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_92_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_92_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -3098,7 +3098,7 @@
     },
     {
       "page": 103,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_103_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_103_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -3118,7 +3118,7 @@
     },
     {
       "page": 113,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_113_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_113_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -3138,7 +3138,7 @@
     },
     {
       "page": 114,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_114_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_114_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -3158,7 +3158,7 @@
     },
     {
       "page": 115,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_115_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_115_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -3178,7 +3178,7 @@
     },
     {
       "page": 116,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_116_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_116_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -3198,7 +3198,7 @@
     },
     {
       "page": 117,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_117_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_117_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -3218,7 +3218,7 @@
     },
     {
       "page": 118,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_118_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_118_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -3238,7 +3238,7 @@
     },
     {
       "page": 119,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_119_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_119_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -3258,7 +3258,7 @@
     },
     {
       "page": 120,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_120_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_120_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -3278,7 +3278,7 @@
     },
     {
       "page": 121,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_121_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_121_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -3298,7 +3298,7 @@
     },
     {
       "page": 122,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_122_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_122_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -3318,7 +3318,7 @@
     },
     {
       "page": 123,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_123_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_123_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -3338,7 +3338,7 @@
     },
     {
       "page": 124,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_124_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_124_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -3358,7 +3358,7 @@
     },
     {
       "page": 125,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_125_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_125_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -3378,7 +3378,7 @@
     },
     {
       "page": 126,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_126_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_126_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -3398,7 +3398,7 @@
     },
     {
       "page": 127,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_127_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_127_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -3418,7 +3418,7 @@
     },
     {
       "page": 128,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_128_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_128_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -3438,7 +3438,7 @@
     },
     {
       "page": 129,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_129_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_129_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -3458,7 +3458,7 @@
     },
     {
       "page": 130,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_130_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_130_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -3478,7 +3478,7 @@
     },
     {
       "page": 131,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_131_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_131_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -3498,7 +3498,7 @@
     },
     {
       "page": 132,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_132_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_132_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -3518,7 +3518,7 @@
     },
     {
       "page": 133,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_133_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_133_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -3538,7 +3538,7 @@
     },
     {
       "page": 134,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_134_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_134_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -3558,7 +3558,7 @@
     },
     {
       "page": 135,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_135_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_135_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -3578,7 +3578,7 @@
     },
     {
       "page": 136,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_136_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_136_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -3598,7 +3598,7 @@
     },
     {
       "page": 137,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_137_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_137_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -3618,7 +3618,7 @@
     },
     {
       "page": 138,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_138_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_138_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -3638,7 +3638,7 @@
     },
     {
       "page": 139,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_139_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_139_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -3658,7 +3658,7 @@
     },
     {
       "page": 140,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_140_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_140_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -3678,7 +3678,7 @@
     },
     {
       "page": 141,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_141_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_141_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -3698,7 +3698,7 @@
     },
     {
       "page": 142,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_142_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_142_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -3718,7 +3718,7 @@
     },
     {
       "page": 143,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_143_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_143_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -3738,7 +3738,7 @@
     },
     {
       "page": 144,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_144_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_144_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -3758,7 +3758,7 @@
     },
     {
       "page": 145,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_145_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_145_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -3778,7 +3778,7 @@
     },
     {
       "page": 146,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_146_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_146_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -3798,7 +3798,7 @@
     },
     {
       "page": 147,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_147_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_147_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -3818,7 +3818,7 @@
     },
     {
       "page": 148,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_148_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_148_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -3838,7 +3838,7 @@
     },
     {
       "page": 149,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_149_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_149_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -3858,7 +3858,7 @@
     },
     {
       "page": 150,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_150_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_150_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -3878,7 +3878,7 @@
     },
     {
       "page": 151,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_151_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_151_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -3898,7 +3898,7 @@
     },
     {
       "page": 152,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_152_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_152_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -3918,7 +3918,7 @@
     },
     {
       "page": 153,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_153_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_153_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -3938,7 +3938,7 @@
     },
     {
       "page": 154,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_154_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_154_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -3958,7 +3958,7 @@
     },
     {
       "page": 155,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_155_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_155_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -3978,7 +3978,7 @@
     },
     {
       "page": 156,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_156_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_156_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -3998,7 +3998,7 @@
     },
     {
       "page": 157,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_157_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_157_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -4018,7 +4018,7 @@
     },
     {
       "page": 163,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_163_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_163_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -4038,7 +4038,7 @@
     },
     {
       "page": 164,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_164_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_164_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -4058,7 +4058,7 @@
     },
     {
       "page": 171,
-      "table_csv": "/Users/vinaykumar/cern/stage1_demo/outputs/page_171_table_1.csv",
+      "table_csv": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/page_171_table_1.csv",
       "preview": [
         [
           "Dose rate (kGy/h)",
@@ -4079,661 +4079,661 @@
   ],
   "figures": [
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/images/page_1_img_1157.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/images/page_1_img_1157.png",
       "caption": "a scientific figure from a cern materials radiation report. describe briefly.",
       "page": 1,
       "kind": "image"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/images/page_2_img_3.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/images/page_2_img_3.png",
       "caption": "a scientific figure from a cern materials radiation report. describe briefly.",
       "page": 2,
       "kind": "image"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/images/page_3_img_6.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/images/page_3_img_6.png",
       "caption": "a scientific figure from a cern materials radiation report. describe briefly.",
       "page": 3,
       "kind": "image"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_103_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_103_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 103,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_113_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_113_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 113,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_114_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_114_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 114,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_115_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_115_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 115,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_116_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_116_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 116,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_117_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_117_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 117,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_118_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_118_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 118,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_119_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_119_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 119,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_120_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_120_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 120,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_121_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_121_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 121,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_122_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_122_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 122,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_123_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_123_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 123,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_124_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_124_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 124,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_125_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_125_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 125,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_126_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_126_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 126,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_127_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_127_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 127,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_128_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_128_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 128,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_129_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_129_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 129,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_130_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_130_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 130,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_131_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_131_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 131,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_132_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_132_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 132,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_133_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_133_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 133,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_134_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_134_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 134,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_135_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_135_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 135,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_136_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_136_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 136,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_137_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_137_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 137,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_138_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_138_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 138,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_139_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_139_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 139,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_13_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_13_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 13,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_140_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_140_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 140,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_141_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_141_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 141,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_142_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_142_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 142,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_143_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_143_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 143,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_144_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_144_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 144,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_145_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_145_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 145,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_146_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_146_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 146,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_147_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_147_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 147,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_148_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_148_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 148,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_149_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_149_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 149,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_14_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_14_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 14,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_150_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_150_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 150,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_151_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_151_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 151,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_152_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_152_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 152,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_153_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_153_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 153,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_154_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_154_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 154,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_155_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_155_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 155,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_156_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_156_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 156,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_157_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_157_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 157,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_15_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_15_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 15,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_163_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_163_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 163,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_164_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_164_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 164,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_171_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_171_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 171,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_28_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_28_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 28,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_29_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_29_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 29,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_30_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_30_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 30,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_31_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_31_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 31,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_32_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_32_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 32,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_33_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_33_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 33,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_34_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_34_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 34,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_35_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_35_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 35,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_36_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_36_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 36,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_37_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_37_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 37,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_38_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_38_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 38,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_44_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_44_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 44,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_45_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_45_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 45,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_46_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_46_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 46,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_47_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_47_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 47,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_48_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_48_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 48,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_49_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_49_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 49,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_50_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_50_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 50,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_51_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_51_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 51,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_52_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_52_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 52,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_58_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_58_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 58,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_59_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_59_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 59,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_60_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_60_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 60,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_61_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_61_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 61,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_62_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_62_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 62,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_63_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_63_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 63,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_64_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_64_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 64,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_65_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_65_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 65,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_66_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_66_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 66,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_67_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_67_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 67,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_68_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_68_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 68,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_69_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_69_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 69,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_70_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_70_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 70,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_71_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_71_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 71,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_72_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_72_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 72,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_73_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_73_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 73,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_74_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_74_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 74,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_75_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_75_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 75,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_76_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_76_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 76,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_77_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_77_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 77,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_78_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_78_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 78,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_79_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_79_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 79,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_80_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_80_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 80,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_81_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_81_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 81,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_82_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_82_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 82,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_83_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_83_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 83,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_84_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_84_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 84,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_85_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_85_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 85,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_86_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_86_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 86,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_87_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_87_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 87,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_88_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_88_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 88,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_89_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_89_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 89,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_90_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_90_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 90,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_91_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_91_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 91,
       "kind": "graph"
     },
     {
-      "image_path": "/Users/vinaykumar/cern/stage1_demo/outputs/graphs/page_92_graph_1.png",
+      "image_path": "/Users/vinaykumar/cern/Demo/cern-multimodel-rag/outputs/graphs/page_92_graph_1.png",
       "caption": "a scientific graph or plot from a cern materials radiation report. describe briefly.",
       "page": 92,
       "kind": "graph"

@@ -1,0 +1,1100 @@
+[
+  {
+    "chunk_id": 0,
+    "page": 4,
+    "text": "1. INTRODUCTION Investigations into the degradation of materials and components which are exposed to ionizing radiation have been carried out in many applications, such as nuclear reactors, fusion reactors, high-energy accelerators, medical and industrial irradiation facilities, space projects, etc. At the European Organization for Nuclear Research (CERN), radiation damage test studies have been centred on organic and inorganic materials, electronic and optical components and devices, and other materials that are used in the construction and operation of high-energy accelerators and particle detectors. Apart from electronic and optical devices, the organic materials are the ones most sensitive to radiation. As a consequence of this, a large number of radiation tests have been made on these materials and the results are extensively documented [e.g. 1\u201323]. Design engineers are, however, often faced with the problem of \ufb01nding the desired information quickly within the available literature. We therefore decided to publish our radiation damage test results on organic materials in the form of catalogues. The \ufb01rst catalogue, published more than \ufb01fteen years ago, concerned organic materials used as insulation and sheathing for electric cables [24]. The second dealt with thermosetting and thermoplastic resins, the majority being epoxies used for magnet coil insulations [25]. The third contained information on miscellaneous materials and components used around high-energy accelerators [26]. A second edition of the \ufb01rst catalogue",
+    "chem": 0
+  },
+  {
+    "chunk_id": 1,
+    "page": 4,
+    "text": "[24]. The second dealt with thermosetting and thermoplastic resins, the majority being epoxies used for magnet coil insulations [25]. The third contained information on miscellaneous materials and components used around high-energy accelerators [26]. A second edition of the \ufb01rst catalogue was published in 1989 and concerns halogen-free cable-insulating materials [27]. The present volume is the second edition of the second part and concerns result of thermoset and thermoplastic resins and composite materials which were tested in the meantime. As in the previous editions, the materials are presented in alphabetical order. 1. INTRODUCTION Des essais sur la d\u00e9gradation des mat\u00e9riaux due aux rayonnements ionisants ont \u00e9t\u00e9 effectu\u00e9s dans plusieurs domaines d\u2019application, par exemple autour des r\u00e9acteurs nucl\u00e9aires et de fusion, des acc\u00e9l\u00e9rateurs \u00e0 haute \u00e9nergie, dans les installations industrielles ou m\u00e9dicales, dans les centres d\u2019\u00e9tudes spatiales, etc. A l\u2019Organisation Europ\u00e9enne pour la Recherche Nucl\u00e9aire (CERN), les essais de radior\u00e9sistance ont \u00e9t\u00e9 concentr\u00e9s sur des mat\u00e9riaux organiques et inorganiques, des composants \u00e9lectroniques et optiques, et d\u2019autres mat\u00e9riaux qui sont utilis\u00e9s pour la construction et l\u2019op\u00e9ration des acc\u00e9l\u00e9rateurs \u00e0 haute \u00e9nergie et les d\u00e9tecteurs de particules. A part les composants \u00e9lectroniques et optiques, les mat\u00e9riaux organiques sont parmi les plus sensibles aux rayonnements ionisants. Par cons\u00e9quent, une grande quantit\u00e9 de ces mat\u00e9riaux ont \u00e9t\u00e9 soumis \u00e0 des essais d\u2019irradiation, et les r\u00e9sultats peuvent",
+    "chem": 0
+  },
+  {
+    "chunk_id": 2,
+    "page": 4,
+    "text": "d\u00e9tecteurs de particules. A part les composants \u00e9lectroniques et optiques, les mat\u00e9riaux organiques sont parmi les plus sensibles aux rayonnements ionisants. Par cons\u00e9quent, une grande quantit\u00e9 de ces mat\u00e9riaux ont \u00e9t\u00e9 soumis \u00e0 des essais d\u2019irradiation, et les r\u00e9sultats peuvent \u00eatre trouv\u00e9s dans de nombreuses publications [par exemple 1\u201323]. Toutefois, les ing\u00e9nieurs rencontrent souvent des dif\ufb01cult\u00e9s pour trouver, dans la litt\u00e9rature, l\u2019information voulue. C\u2019est pour cette raison que nous avons d\u00e9cid\u00e9 de publier nos r\u00e9sultats d\u2019essais de radior\u00e9sistance des mat\u00e9riaux organiques sous forme de catalogues. Le premier catalogue, paru il y a plus de quinze ans, concernait les mat\u00e9riaux utilis\u00e9s comme isolants, ainsi que pour les gaines de c\u00e2bles \u00e9lectriques [24]. Le deuxi\u00e8me concernait des r\u00e9sines thermodurcies et thermoplastiques dont la plupart sont des \u00e9poxydes utilis\u00e9es dans l\u2019isolation de bobines d\u2019aimants [25]. Le troisi\u00e8me concernait divers mat\u00e9riaux et composants utilis\u00e9s autour des acc\u00e9l\u00e9rateurs de particules [26]. Une seconde \u00e9dition du premier catalogue, publi\u00e9e en 1989 portait sur les mat\u00e9riaux pour isolations et gaines de c\u00e2bles exempts d\u2019halog\u00e8ne [27]. Le pr\u00e9sent volume est une seconde \u00e9dition du deuxi\u00e8me ; il contient des informations sur des r\u00e9sines thermoplastiques et thermodurcies, ainsi que sur des mat\u00e9riaux composites. Comme dans chaque \u00e9dition, les mat\u00e9riaux sont pr\u00e9sent\u00e9s dans l\u2019ordre alphab\u00e9tique suivant leur nom anglais.",
+    "chem": 0
+  },
+  {
+    "chunk_id": 3,
+    "page": 5,
+    "text": "We \ufb01rst present some characteristic properties of the materials, and de\ufb01ne our end-point criteria for the selection of radiation-resistant materials. We then list the tests and test methods, and give the irradiation conditions. In Section 5 we explain the presentation of the data. It should be noted that most of the data have been obtained from tests after accelerated irradiations, and that all tests were made at ambient temperature. After long exposures and ageing in other environments, a variation in the data presented may be expected; this is mainly the case for thermoplastic materials [9, 12, 18\u201323]. Test results at cryogenic temperatures can be found in Refs. [30\u201335]. 2. MATERIALS, CHARACTERISTIC PROPERTIES, AND END-POINT CRITERIA With a few exceptions, which are marked in the catalogue, all the test data given here have been obtained, over the past \ufb01fteen years, from commercially-available materials. Some of these materials may no longer be available and this is indicated in the tables when known. The most common materials that are dealt with here are: \u2013 epoxy resins, \u2013 polyester resins, \u2013 polyurethanes, \u2013 rigid and high performance thermoplastics. The materials were usually supplied by European manufacturers involved in submitting offers and/or supplying components for the construction at CERN of the Large Electron\u2013 Positron storage ring (LEP), and for the Large Hadron Collider (LHC) project.",
+    "chem": 1
+  },
+  {
+    "chunk_id": 4,
+    "page": 5,
+    "text": "and high performance thermoplastics. The materials were usually supplied by European manufacturers involved in submitting offers and/or supplying components for the construction at CERN of the Large Electron\u2013 Positron storage ring (LEP), and for the Large Hadron Collider (LHC) project. Some characteristic physical, mechanical, and electrical properties of thermoset resins are summarized in Table 1. These values are only a general indication since they depend on numerous parameters such as the composition and quantity of the base resin, the hardener, the accelerator, the \ufb01ller, and other additives, as well as on the curing conditions, etc. Most of the materials presented in this catalogue and all of the thermoplastics unless Nous commen\u00e7ons par exposer quelques propri\u00e9t\u00e9s caract\u00e9ristiques des mat\u00e9riaux pr\u00e9sent\u00e9s dans ce catalogue ; nous d\u00e9\ufb01nissons les crit\u00e8res de d\u00e9gradation de ces propri\u00e9t\u00e9s, qui servent \u00e0 s\u00e9lectionner les mat\u00e9riaux radior\u00e9sistants. Nous d\u00e9crivons ensuite les m\u00e9thodes d\u2019essais, ainsi que les conditions d\u2019irradiation. Dans la Section 5 nous expliquons la pr\u00e9sentation des donn\u00e9es. Il faut noter que les r\u00e9sultats ont g\u00e9n\u00e9ralement \u00e9t\u00e9 obtenus par des irradiations acc\u00e9l\u00e9r\u00e9es, et que tous les essais ont \u00e9t\u00e9 faits \u00e0 temp\u00e9rature ambiante. Apr\u00e8s une longue p\u00e9riode d\u2019irradiation et un vieillissement sous d\u2019autres conditions, on peut s\u2019attendre \u00e0 un changement dans les r\u00e9sultats que nous avons obtenus, surtout pour les thermoplastiques [9, 12, 18\u201323]. Des r\u00e9sultats de tests",
+    "chem": 0
+  },
+  {
+    "chunk_id": 5,
+    "page": 5,
+    "text": "\u00e9t\u00e9 faits \u00e0 temp\u00e9rature ambiante. Apr\u00e8s une longue p\u00e9riode d\u2019irradiation et un vieillissement sous d\u2019autres conditions, on peut s\u2019attendre \u00e0 un changement dans les r\u00e9sultats que nous avons obtenus, surtout pour les thermoplastiques [9, 12, 18\u201323]. Des r\u00e9sultats de tests \u00e0 temp\u00e9rature cryog\u00e9nique peuvent \u00eatre trouv\u00e9s aux r\u00e9f\u00e9rences [30\u201335]. 2. LES MAT\u00c9RIAUX, LEURS PROPRI\u00c9T\u00c9S CARACT\u00c9RISTIQUES ET LES CRIT\u00c8RES DE D\u00c9GRADATION DE CES PROPRI\u00c9T\u00c9S A part quelques exceptions, qui sont indiqu\u00e9es dans le catalogue, tous les r\u00e9sultats donn\u00e9s ont \u00e9t\u00e9 obtenus, au cours des quinze derni\u00e8res ann\u00e9es, sur des mat\u00e9riaux disponibles dans le commerce. Il est possible que quelques-uns ne soient plus sur le march\u00e9, et nous l\u2019avons not\u00e9 dans les tableaux, pour les cas o\u00f9 nous l\u2019avons su. Les plus courants de ces mat\u00e9riaux sont : \u2013 r\u00e9sines \u00e9poxydes \u2013 r\u00e9sines polyest\u00e8res \u2013 polyur\u00e9thanes \u2013 thermoplastiques rigides et hautes performance. En g\u00e9n\u00e9ral, les mat\u00e9riaux ont \u00e9t\u00e9 fournis par des fournisseurs europ\u00e9ens qui ont \u00e9t\u00e9 engag\u00e9s dans des offres ou des fournitures de mat\u00e9riels pour la construction au CERN du Large Electron-Positron Collider (LEP), ou pour le projet LHC (Large Hadron Collider), grand collisionneur de protons, supraconducteur. Le tableau 1 donne un r\u00e9sum\u00e9 des quelques propri\u00e9t\u00e9s m\u00e9caniques, \u00e9lectriques et physiques des r\u00e9sines thermodurcies. Ces valeurs peuvent seulement servir d\u2019indication g\u00e9n\u00e9rale, puisqu\u2019elles d\u00e9pendent de nombreux param\u00e8tres tels que la composition et la",
+    "chem": 1
+  },
+  {
+    "chunk_id": 6,
+    "page": 5,
+    "text": "Collider), grand collisionneur de protons, supraconducteur. Le tableau 1 donne un r\u00e9sum\u00e9 des quelques propri\u00e9t\u00e9s m\u00e9caniques, \u00e9lectriques et physiques des r\u00e9sines thermodurcies. Ces valeurs peuvent seulement servir d\u2019indication g\u00e9n\u00e9rale, puisqu\u2019elles d\u00e9pendent de nombreux param\u00e8tres tels que la composition et la quantit\u00e9 de la r\u00e9sine de base, du durcisseur et de l\u2019acc\u00e9l\u00e9rateur, ainsi que les charges et d\u2019autres additifs.",
+    "chem": 0
+  },
+  {
+    "chunk_id": 7,
+    "page": 6,
+    "text": "otherwise stated, are halogen-free and contain little or no sulphur and phosphorus. They have passed the IEC 754\u20132 test which de\ufb01nes the maximum acidity and the maximum conductivity of combustion gases [28]. It is clear that when selecting and classifying materials according to their radiation resistance, not all of the properties listed in Table 1 could be tested, and we had to restrict ourselves to a few of the most characteristic and representative ones. For our purposes the mechanical properties were chosen. This choice can be justi\ufb01ed by our own experience and that of others [10, 22, 29]. In general the mechanical degradation of plastic insulating materials due to ionizing radiation occurs before the degradation of the electrical and physical properties. Also, no important change in \ufb02ammability was observed with radiation. It should be noted that the mechanical properties of polymeric materials depend strongly on the temperature; at cryogenic temperature the stiffness and the brittleness are increased, and the plasticity and the impact strength are reduced. Irradiation of these materials either at low temperature or at room temperature does not in\ufb02uence their degradation: the mechanical properties of polymer-based materials are more in\ufb02uenced by the test temperature than by the irradiation temperature. A characteristic case is that of materials sensitive to oxido-degradation: the degradation is lower if they are irradiated in",
+    "chem": 1
+  },
+  {
+    "chunk_id": 8,
+    "page": 6,
+    "text": "in\ufb02uence their degradation: the mechanical properties of polymer-based materials are more in\ufb02uenced by the test temperature than by the irradiation temperature. A characteristic case is that of materials sensitive to oxido-degradation: the degradation is lower if they are irradiated in a cryogenic \ufb02uid rather than in air [30\u201335]. 3. TESTS AND TEST METHODS Whenever possible, the tests were carried out according to international norms [29]. Sometimes exceptions had to be made for practical or technical reasons, e.g. sample size, dose rate during irradiation, etc. The test samples, usually \ufb01ve per test, were cut from 2\u20136 mm thick plates molded from the respective materials. Flexion tests were performed on an Instron testing machine to determine the breaking- strength and de\ufb02ection at the breaking point. Soulignons que la plupart des mat\u00e9riaux pr\u00e9sent\u00e9s dans ce catalogue, et en tout cas les thermoplastiques, sauf mention contraire sont exempts d\u2019halog\u00e8ne et ne contiennent que peu ou pas de soufre ou de phosphore. Ils passent le test IEC 754\u20132 qui d\u00e9\ufb01nit une acidit\u00e9 et une conductivit\u00e9 maximales des gaz de combustion [28]. Il est \u00e9vident que, pour la s\u00e9lection et la classi\ufb01cation des mat\u00e9riaux selon leur r\u00e9sistance aux rayonnements, on ne peut pas tester toutes les propri\u00e9t\u00e9s cit\u00e9es dans le tableau 1, il faut se limiter \u00e0 quelques-unes des plus repr\u00e9sentatives. Dans le cas pr\u00e9sent, nous",
+    "chem": 1
+  },
+  {
+    "chunk_id": 9,
+    "page": 6,
+    "text": "pour la s\u00e9lection et la classi\ufb01cation des mat\u00e9riaux selon leur r\u00e9sistance aux rayonnements, on ne peut pas tester toutes les propri\u00e9t\u00e9s cit\u00e9es dans le tableau 1, il faut se limiter \u00e0 quelques-unes des plus repr\u00e9sentatives. Dans le cas pr\u00e9sent, nous avons choisi les propri\u00e9t\u00e9s m\u00e9caniques. Ce choix se justi\ufb01e par notre propre exp\u00e9rience, et celle d\u2019autres auteurs, qui nous a appris que la d\u00e9gradation, due \u00e0 l\u2019irradiation, des propri\u00e9t\u00e9s m\u00e9caniques des isolants plastiques intervient g\u00e9n\u00e9ralement avant celle de leurs propri\u00e9t\u00e9s \u00e9lectriques et physiques [10, 22, 29]. D\u2019autre part, les rayonnements n\u2019ont que peu d\u2019effet sur l\u2019in\ufb02ammabilit\u00e9 de ces mat\u00e9riaux. Remarquons que les propri\u00e9t\u00e9s m\u00e9caniques des mat\u00e9riaux polym\u00e9riques d\u00e9pendent fortement de la temp\u00e9rature d\u2019utilisation ; \u00e0 temp\u00e9rature cryog\u00e9nique la rigidit\u00e9 et la fragilit\u00e9 sont accrues, la plasticit\u00e9 et la r\u00e9sistance au chocs sont diminu\u00e9es. Le fait d\u2019irradier ces mat\u00e9riaux \u00e0 basse temp\u00e9rature ou \u00e0 temp\u00e9rature ambiante n\u2019in\ufb02ue pas sur leur d\u00e9gradation : les propri\u00e9t\u00e9s m\u00e9caniques des mat\u00e9riaux polym\u00e9riques sont plus in\ufb02uenc\u00e9es par la temp\u00e9rature de test que par la temp\u00e9rature d\u2019irradiation. Un cas particulier est celui des mat\u00e9riaux sensibles \u00e0 l\u2019oxydo-d\u00e9gradation : lorsqu\u2019ils sont irradi\u00e9s dans un \ufb02uide cryog\u00e9nique, leur d\u00e9gradation est moindre que lorsqu\u2019ils sont irradi\u00e9s dans l\u2019air [30\u201335]. 3. ESSAIS ET M\u00c9THODES D\u2019ESSAIS Nous avons ex\u00e9cut\u00e9 nos essais selon les normes internationales [29] dans tous les cas o\u00f9 cela",
+    "chem": 1
+  },
+  {
+    "chunk_id": 10,
+    "page": 6,
+    "text": ": lorsqu\u2019ils sont irradi\u00e9s dans un \ufb02uide cryog\u00e9nique, leur d\u00e9gradation est moindre que lorsqu\u2019ils sont irradi\u00e9s dans l\u2019air [30\u201335]. 3. ESSAIS ET M\u00c9THODES D\u2019ESSAIS Nous avons ex\u00e9cut\u00e9 nos essais selon les normes internationales [29] dans tous les cas o\u00f9 cela \u00e9tait possible. Pour des raisons pratiques ou techniques, quelques exceptions \u00e9taient in\u00e9vitables, par exemple dimension d\u2019\u00e9chantillons, d\u00e9bit de dose pendant l\u2019irradiation, etc. Les mat\u00e9riaux ont \u00e9t\u00e9 fournis sous forme de plaques de 2 \u00e0 6 mm d\u2019\u00e9paisseur, dans lesquelles, en g\u00e9n\u00e9ral, cinq \u00e9chantillons ont \u00e9t\u00e9 coup\u00e9s pour chaque essai.",
+    "chem": 0
+  },
+  {
+    "chunk_id": 11,
+    "page": 7,
+    "text": "From these measurements, the ultimate \ufb02exural strength, the deformation at break and the modulus of elasticity were calculated. The testing method was a three-point loading system utilizing a centre load on the supported sample according to ASTM norm D790. The distance between the two supports was 67.0 mm and the speed of the central point was 2 mm/min for most of the materials. It was 5 mm/min for some very supple materials which undergo an important deformation. Some of these latter materials did not break during the test (the maximum value of the deformation appears in the tables). In this case, the \ufb02exural strength is the maximum recorded value, and not at the breaking point. According to the recommendations of the International Electrotechnical Commission (IEC) [29], the most radiation-sensitive property is chosen as the reference critical property. For most of the thermoset resins and composites this critical property is the \ufb02exural strength, while for most of the thermoplastics it is the de\ufb02ection [36]. The end-point criterion is 50% of the initial value of the critical property. The Radiation Index (RI) is de\ufb01ned in IEC 544\u20134 as the logarithm, base 10, of the absorbed dose in grays (rounded down to two signi\ufb01cant digits) at which the critical property is reduced to 50% of its initial value, under speci\ufb01ed conditions of irradiation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 12,
+    "page": 7,
+    "text": "is de\ufb01ned in IEC 544\u20134 as the logarithm, base 10, of the absorbed dose in grays (rounded down to two signi\ufb01cant digits) at which the critical property is reduced to 50% of its initial value, under speci\ufb01ed conditions of irradiation and tests. 4. IRRADIATION CONDITIONS AND DOSIMETRY Most of the samples were irradiated in the ASTRA reactor at Seibersdorf (Austria) to doses between 5 \u00d7 10 6 Gy and 10 8 Gy, at dose rates of about 2 \u00d7 10 5 Gy/h. In this 7 MW pool reactor, the irradiation position \u2018Ebene 1\u2019 is in the pool about 26 cm away from the reactor core. The neutron dose is less than 5% of the total dose to the samples. The irradiation medium is air, and the temperature is kept below 60\u00b0C. More sensitive samples were irradiated with a 60Co source, at Ionisos in Dagneux (France), Des essais de \ufb02exion ont \u00e9t\u00e9 effectu\u00e9s sur une machine Instron qui ont permis de d\u00e9terminer la force ainsi que la d\u00e9\ufb02exion \u00e0 la rupture. Ensuite nous avons calcul\u00e9 la r\u00e9sistance \u00e0 la \ufb02exion, la d\u00e9formation et le module d\u2019\u00e9lasticit\u00e9. La m\u00e9thode d\u2019essai \u00e9tait un syst\u00e8me d\u2019appui \u00e0 trois points : la force est appliqu\u00e9e sur le point central, selon la norme ASTM D790. La distance entre les deux points d\u2019appui \u00e9tait de 67,0 mm,",
+    "chem": 1
+  },
+  {
+    "chunk_id": 13,
+    "page": 7,
+    "text": "d\u00e9formation et le module d\u2019\u00e9lasticit\u00e9. La m\u00e9thode d\u2019essai \u00e9tait un syst\u00e8me d\u2019appui \u00e0 trois points : la force est appliqu\u00e9e sur le point central, selon la norme ASTM D790. La distance entre les deux points d\u2019appui \u00e9tait de 67,0 mm, et la vitesse d\u2019avancement du point central \u00e9tait de 2 mm/min pour la plupart des mat\u00e9riaux, elle \u00e9tait de 5 mm/min pour certains mat\u00e9riaux particuli\u00e8rement souples \u00e0 forte d\u00e9formation. Certains de ces derniers n\u2019ont pas subi de rupture lors des tests. La valeur maximale de la d\u00e9formation apparait dans les tables. Dans ce cas, la r\u00e9sistance \u00e0 la \ufb02exion n\u2019est pas calcul\u00e9e \u00e0 la rupture, mais est la valeur maximale enregistr\u00e9e au cours de l\u2019essai. Conform\u00e9ment aux recommandations de la Commisssion Electrotechnique Internationale (CEI) [29], on choisit comme propri\u00e9t\u00e9 critique de r\u00e9f\u00e9rence celle qui est la plus sensible aux radiations. Pour les thermodurcies et les composites, il s\u2019agit en g\u00e9n\u00e9ral de la r\u00e9sistance \u00e0 la \ufb02exion ; pour les thermoplastiques, il s\u2019agit plut\u00f4t de la d\u00e9\ufb02exion [36]. Le crit\u00e8re de \ufb01n de vie est 50 % de la valeur initiale de la propri\u00e9t\u00e9 critique. La publication CEI 544\u20134 d\u00e9\ufb01nit un indice de rayonnement (RI) d\u00e9termin\u00e9 par le logarithme, en base 10, de la dose absorb\u00e9e en grays (arrondi \u00e0 deux chiffres signi\ufb01catifs) au-dessus de laquelle la valeur de la propri\u00e9t\u00e9",
+    "chem": 1
+  },
+  {
+    "chunk_id": 14,
+    "page": 7,
+    "text": "de la propri\u00e9t\u00e9 critique. La publication CEI 544\u20134 d\u00e9\ufb01nit un indice de rayonnement (RI) d\u00e9termin\u00e9 par le logarithme, en base 10, de la dose absorb\u00e9e en grays (arrondi \u00e0 deux chiffres signi\ufb01catifs) au-dessus de laquelle la valeur de la propri\u00e9t\u00e9 critique a atteint 50 % de sa valeur initiale, dans les conditions sp\u00e9ci\ufb01ques d\u2019irradiation et de test. 4. CONDITIONS D\u2019IRRADIATION ET DOSIM\u00c9TRIE La plupart des \u00e9chantillons ont \u00e9t\u00e9 irradi\u00e9s au r\u00e9acteur ASTRA, \u00e0 Seibersdorf (Autriche), \u00e0 des doses de 5 \u00d7 10 5 Gy \u00e0 10 8 Gy, o\u00f9 le d\u00e9bit de dose est de l\u2019ordre de 2 \u00d7 10 5 Gy/h. Dans ce r\u00e9acteur-piscine de 7 MW, la position \u201cEbene 1\u201d se trouve \u00e0 26 cm du coeur ; la dose en neutrons int\u00e9gr\u00e9e par les \u00e9chantillons est inf\u00e9rieure \u00e0 5 % de la dose totale. Le milieu d\u2019irradiation est l\u2019air, et la temp\u00e9rature maximale est de 60\u00b0C. Les \u00e9chantillons plus sensibles ont \u00e9t\u00e9 irradi\u00e9s par une source de 60Co, \u00e0 la soci\u00e9t\u00e9 Ionisos \u00e0",
+    "chem": 0
+  },
+  {
+    "chunk_id": 15,
+    "page": 8,
+    "text": "with doses of 2 \u00d7 10 5 Gy, 5 \u00d7 10 5 Gy, and 10 6 Gy, at a dose rate of about 4000 Gy/h. In a cobalt source, the radiation comes from pure gamma rays of 1.17 and 1.25 MeV. Some samples were irradiated in the CERN accelerators, either close to the magnet coils which are insulated with the material concerned (we call this \u2018live irradiation\u2019), or around converting targets. Under these conditions, the neutron dose may be of the order of several tens of per cents of the total dose. More details about irradiation conditions and dosimetry in the ASTRA reactor are given in Ref. [37] and for other sources in Ref. [38]. (Note that 1 Gy = 1 gray = 1 J/kg = 100 rad.) 5. PRESENTATION OF THE DATA The lists of the materials that are presented in this catalogue and in the preceding volumes are given in Appendix 1. Appendix 2 gives the chemical structures of some commercial products. Appendix 3 is the alphabetical compilation of data where the materials are sorted according to their chemical name. Under each letter, the following information can be found: \u2013 A generic page with the chemical names of the materials, as well as their usual and commercial names (with as many cross- references as possible). If speci\ufb01c results",
+    "chem": 0
+  },
+  {
+    "chunk_id": 16,
+    "page": 8,
+    "text": "chemical name. Under each letter, the following information can be found: \u2013 A generic page with the chemical names of the materials, as well as their usual and commercial names (with as many cross- references as possible). If speci\ufb01c results are not given in this volume, an indication of the radiation resistance is given by the value of the radiation index. \u2013 On the verso of this generic page, the list of the materials classi\ufb01ed under the given letter, together with their CERN identi\ufb01cation number. \u2013 In the individual pages of results, a header gives the TIS reference number, the description of the material and the name of the supplier (Appendix 5). If available, an indication of the \ufb01re behaviour is also given. The results are presented in the form of a table and graph. The mean values (and the standard deviation) of the mechanical properties, \ufb02exural strength (S), deformation at break (\u03b5) and \ufb02exural modulus (M) appear in the table Dagneux, France, \u00e0 des doses de 2 \u00d7 10 5 Gy, 5 \u00d7 10 5 Gy et 10 6 Gy, \u00e0 un d\u00e9bit de dose de l\u2019ordre de 4000 Gy/h. Dans une source cobalt, l\u2019irradiation est purement electromagn\u00e9tique, avec des gammas de 1,17 et 1,25 MeV. Certains \u00e9chantillons ont \u00e9t\u00e9 irradi\u00e9s dans des acc\u00e9l\u00e9rateurs du CERN, soit pr\u00e8s des",
+    "chem": 0
+  },
+  {
+    "chunk_id": 17,
+    "page": 8,
+    "text": "Gy, \u00e0 un d\u00e9bit de dose de l\u2019ordre de 4000 Gy/h. Dans une source cobalt, l\u2019irradiation est purement electromagn\u00e9tique, avec des gammas de 1,17 et 1,25 MeV. Certains \u00e9chantillons ont \u00e9t\u00e9 irradi\u00e9s dans des acc\u00e9l\u00e9rateurs du CERN, soit pr\u00e8s des bobines d\u2019aimants dont les bobines sont isol\u00e9es avec le mat\u00e9riau concern\u00e9 (test avec irradiation \u00e0 long terme). Dans ces conditions, la dose-neutron peut atteindre plusieurs dizaines de pourcents de la dose totale. Plus de d\u00e9tails sur les conditions d\u2019irradiation et de dosim\u00e9trie peuvent \u00eatre trouv\u00e9s dans les r\u00e9f\u00e9rences [37] pour le r\u00e9acteur ASTRA et [38] pour les autres sources. (Pour m\u00e9moire : 1 Gy = 1 gray = 1 J/kg = 100 rad.) 5. PR\u00c9SENTATION DES R\u00c9SULTATS Les listes des mat\u00e9riaux pour lesquels nous donnons des r\u00e9sultats ainsi que ceux pr\u00e9sent\u00e9s dans les volumes pr\u00e9c\u00e9dants constituent l\u2019appendice 1. L\u2019appendice 2 donne les structures chimiques de quelques compos\u00e9s commerciaux. L\u2019appendice 3 est la compilation alphab\u00e9tique des r\u00e9sultats o\u00f9 les mat\u00e9riaux sont class\u00e9s suivant leurs noms chimiques en Anglais. Sous chaque lettre on peut trouver les informations suivantes : \u2013 La page g\u00e9n\u00e9rique avec les noms chimiques des mat\u00e9riaux, mais aussi leurs noms usuels ou commerciaux (nous avons fait autant de recoupements que possible). Si des r\u00e9sultats sp\u00e9ci\ufb01ques ne sont pas pr\u00e9sent\u00e9s dans ce volume, une indication de la radior\u00e9sistance est donn\u00e9e",
+    "chem": 0
+  },
+  {
+    "chunk_id": 18,
+    "page": 8,
+    "text": "g\u00e9n\u00e9rique avec les noms chimiques des mat\u00e9riaux, mais aussi leurs noms usuels ou commerciaux (nous avons fait autant de recoupements que possible). Si des r\u00e9sultats sp\u00e9ci\ufb01ques ne sont pas pr\u00e9sent\u00e9s dans ce volume, une indication de la radior\u00e9sistance est donn\u00e9e par l\u2019indice de rayonnement. \u2013 Au verso de cette page g\u00e9n\u00e9rique, la liste avec les num\u00e9ros d\u2019identi\ufb01cation CERN des mat\u00e9riaux class\u00e9s sous cette lettre. \u2013 Viennent ensuite les pages individuelles de r\u00e9sultats, sur lesquelles on trouve en ent\u00eate le num\u00e9ro d\u2019identi\ufb01cation TIS, la description du mat\u00e9riaux et le nom du fournisseur (Annexe 5), ainsi qu\u2019une \u00e9ventuelle indication sur son comportement au feu. Les r\u00e9sultats sont pr\u00e9sent\u00e9s sous forme de tableau et de graphique. Dans le tableau apparraissent les doses absorb\u00e9es avec les d\u00e9bits de dose correspondants, puis les valeurs moyennes (et l\u2019\u00e9cart type) des propri\u00e9t\u00e9s m\u00e9caniques, la",
+    "chem": 0
+  },
+  {
+    "chunk_id": 19,
+    "page": 9,
+    "text": "together with the absorbed doses and the corresponding dose rates. (The formulae for the calculation of these properties are given in Appendix 4. In some cases, the samples are too \ufb02exible to break during the test, the values given are then the maximum \ufb02exural strength and the maximum possible deformation in the cage.) Below the table are given the critical property for the calculation of the radiation index (RI) and its value for the corresponding dose rate. The graph presents the evolution of the \ufb02exural strength and of the deformation with respect to the absorbed dose. Appendix 4 gives the main abbreviations used in the tables of results. Appendix 5 is a list of the suppliers of the materials and/or components who contributed to this catalogue. 6. CLASSIFICATION OF MATERIALS Tables 2a and 2b are a classi\ufb01cation of the material in decreasing order of their radiation resistance. We have separated the thermoplastics from the thermosets because their conditions of use are usually different, though high- performance thermoplastics have properties as good as the ones of thermosets today. This classi\ufb01cation gives an order of magnitude of the maximum dose of usability of the materials; it corresponds to long-term irradiations. In particular, thermoplastics (Table 2a) may be very sensitive to oxidation and hence to dose-rate effect; during long-term irradiation in the presence",
+    "chem": 0
+  },
+  {
+    "chunk_id": 20,
+    "page": 9,
+    "text": "an order of magnitude of the maximum dose of usability of the materials; it corresponds to long-term irradiations. In particular, thermoplastics (Table 2a) may be very sensitive to oxidation and hence to dose-rate effect; during long-term irradiation in the presence of oxygen, their degradation starts at much lower doses [17\u201323]. An indication of this appears as a longer \u2018mild to moderate\u2019 zone on the bar graph. All of these materials may be reinforced with \ufb01bres, long or short, oriented (1D, 2D, 3D) or not, woven or not, etc. The \ufb01bres usually increase the radiation resistance of the materials. The properties of some composites reinforced with glass \ufb01bres or carbon \ufb01bres may be kept up to doses above 100 MGy. A laminate will undergo degradation following delamination, showing the higher sensitivity of the matrix. r\u00e9sistance en \ufb02exion (S), la d\u00e9formation \u00e0 la rupture (\u03b5) et le module de \ufb02exion (M) (Les formules de calcul de ces grandeurs sont donn\u00e9es en appendice 4. Dans certains cas, les \u00e9chantillons sont trop \ufb02exibles pour subire une rupture, la valeur maximale de la d\u00e9fromation atteinte dans la cage est alors donn\u00e9e, ainsi que la valeur maximale mesur\u00e9e pour la r\u00e9sistance.) Sous le tableau sont donn\u00e9s la propri\u00e9t\u00e9s de r\u00e9f\u00e9rence pour le calcul de l\u2019indice de rayonnement (RI) et la valeur de celui-ci au d\u00e9bit de",
+    "chem": 0
+  },
+  {
+    "chunk_id": 21,
+    "page": 9,
+    "text": "dans la cage est alors donn\u00e9e, ainsi que la valeur maximale mesur\u00e9e pour la r\u00e9sistance.) Sous le tableau sont donn\u00e9s la propri\u00e9t\u00e9s de r\u00e9f\u00e9rence pour le calcul de l\u2019indice de rayonnement (RI) et la valeur de celui-ci au d\u00e9bit de dose correspondant. Le graphique pr\u00e9sente l\u2019\u00e9volution de la r\u00e9sistance et de la d\u00e9formation en fonction de la dose absorb\u00e9e. L\u2019appendice 4 explique les principales abr\u00e9viations utilis\u00e9es dans les tableau de r\u00e9sultats. L\u2019appendice 5 est une liste des fournisseurs des mat\u00e9riaux de base et/ou de composants qui ont collabor\u00e9 \u00e0 ce catalogue. 6. CLASSIFICATION DES MAT\u00c9RIAUX Les tableaux 2a et 2b sont un classement des mat\u00e9riaux par ordre d\u00e9croissant de leur r\u00e9sistance aux radiations. Nous avons s\u00e9par\u00e9 les thermoplastiques des thermosets, car ils ont en g\u00e9n\u00e9ral des conditions d\u2019utilisation diff\u00e9rentes, bien que les thermoplastiques \u00e0 hautes performances aient aujourd\u2019hui des propri\u00e9t\u00e9s comparables \u00e0 celles des thermosets. Ce classement donne un ordre de grandeur de la dose limite d\u2019utilisation d\u2019un mat\u00e9riau, il correspond \u00e0 des irradiations acc\u00e9l\u00e9r\u00e9es. En particulier, les thermoplastiques (Tableau 2a) peuvent \u00eatre tr\u00e8s sensible \u00e0 l\u2019oxydation et donc \u00e0 l\u2019effet du d\u00e9bit de dose ; en irradiation \u00e0 long terme en pr\u00e9sence d\u2019oxyg\u00e8ne, leur d\u00e9gradation intervient pour des doses nettement plus faibles [17\u201323]. Une indication de ceci apparait comme une zone de \u201cd\u00e9gradation mod\u00e9r\u00e9e\u201d plus longue sur le graphique.",
+    "chem": 0
+  },
+  {
+    "chunk_id": 22,
+    "page": 9,
+    "text": "l\u2019effet du d\u00e9bit de dose ; en irradiation \u00e0 long terme en pr\u00e9sence d\u2019oxyg\u00e8ne, leur d\u00e9gradation intervient pour des doses nettement plus faibles [17\u201323]. Une indication de ceci apparait comme une zone de \u201cd\u00e9gradation mod\u00e9r\u00e9e\u201d plus longue sur le graphique. Tous ces mat\u00e9riaux peuvent \u00eatre renforc\u00e9s par des \ufb01bres, courtes ou longues, orient\u00e9es (1D, 2D ou 3D) ou non, tiss\u00e9es ou non, etc. Les \ufb01bres ont en g\u00e9n\u00e9ral un effet b\u00e9n\u00e9\ufb01que sur la r\u00e9sistance aux radiation d\u2019un mat\u00e9riaux. Les propri\u00e9t\u00e9s de certains composites renforc\u00e9s aux \ufb01bres de verre ou de carbone peuvent \u00eatre conserv\u00e9es \u00e0 des doses de plus de 100 MGy. Un composite lamin\u00e9 subira une d\u00e9gradation par d\u00e9lamination, mettant ainsi en \u00e9vidence la plus grande sensibilit\u00e9 de la matrice.",
+    "chem": 0
+  },
+  {
+    "chunk_id": 23,
+    "page": 10,
+    "text": "Acknowledgements This data compilation was carried out within the framework of an IAEA Research Coordination Programme on Radiation Degradation of Polymers (Contract No. 4319, 1985 to 1989). Our particular thanks are due to K. Goebel, K. Potter and B. de Raad at CERN who throughout the years have supported radiation- damage studies. Most of the materials tested were used or proposed for the SPS and LEP, as well as for the LHC project at CERN. We thank the European manufacturers who supplied the test samples, both for their interest in the subject and for the useful discussions that we had with many of them. The irradiations were carried out in the ASTRA reactor of the Forschungszentrum Seibersdorf in Austria, where the collaboration of A. Burtscher and J. Casta was greatly appreciated. We would also like to thank Mrs M-A. Mirvault and Mrs M.-O. Bachelier from Ionisos in Dagneux, France. Finally, we would like to thank the CERN Desktop Publishing Service for their help in preparing this report. Remerciements Cette compilation de r\u00e9sultats s\u2019inscrit dans le cadre d\u2019un programme de recherche sur la d\u00e9gradation des polym\u00e8res par irradiation, coordonn\u00e9 avec l\u2019AIEA (contrat No. 4329, 1985 \u00e0 1989). Nous remercions particuli\u00e8rement K. Goebel, K. Potter and B. de Raad, du CERN, qui, au long des ann\u00e9es ont soutenu les \u00e9tudes de d\u00e9gradation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 24,
+    "page": 10,
+    "text": "sur la d\u00e9gradation des polym\u00e8res par irradiation, coordonn\u00e9 avec l\u2019AIEA (contrat No. 4329, 1985 \u00e0 1989). Nous remercions particuli\u00e8rement K. Goebel, K. Potter and B. de Raad, du CERN, qui, au long des ann\u00e9es ont soutenu les \u00e9tudes de d\u00e9gradation des mat\u00e9riaux due aux rayonnements. La plus grande partie des mat\u00e9riaux test\u00e9s ont \u00e9t\u00e9 utilis\u00e9s ou propos\u00e9s pour le SPS et pour le LEP, ainsi que pour le projet LHC du CERN. Nous remercions les fabricants europ\u00e9ens qui ont fourni des \u00e9chantillons d\u2019essais ; nous avons eu des discussions utiles avec les repr\u00e9sentants de nombreuses \ufb01rmes. Les irradiations ont \u00e9t\u00e9 effectu\u00e9es au r\u00e9acteur ASTRA du Forschungszentrum Seibersdorf en Autriche, o\u00f9 nous avons appr\u00e9ci\u00e9 la collaboration que nous ont offerte J. Casta et F. B\u00f6heim, et \u00e0 Ionisos, \u00e0 Dagneux, France o\u00f9 nous remercions Mmes M.A. Mirvault et M.-O. Bachelier. Nous voudrions en\ufb01n exprimer notre appr\u00e9ciation de l\u2019aide et l\u2019attention du Service de publication assist\u00e9e par ordinateur du CERN.",
+    "chem": 1
+  },
+  {
+    "chunk_id": 25,
+    "page": 11,
+    "text": "References [1] M.H. Van de Voorde, The effect of nuclear radiation on the electrical properties of epoxy resins, CERN 68\u201313 (1968). [2] M.H. Van de Voorde, Effects of radiation on materials and components, CERN 70\u20135 (1970). [3] M.H. Van de Voorde, Action des radiations sur les r\u00e9sines \u00e9poxydes, CERN 70\u201310 (1970). [4] M.H. Van de Voorde and C. Restat, Selection guide to organic materials for nuclear engineering, CERN 72\u20137 (1972). [5] H. Sch\u00f6nbacher, Anwendung von Kabel und Magnet-isolationen im nucklearen Strahlungsfeld von \u00fcber 1 Megagray, Bull. Assoc. Suisse Electr. 69 (1977) 72. [6] D.C. Phillips, The effects of radiation on electrical insulators in fusion reactors, AERE\u2013R8923 (UK Atomic Energy Authority, Harwell, 1978). [7] D.C. Phillips et al., The selection and properties of epoxide resins used for the insulation of magnet systems in radiation enviroments, CERN 81\u201305 (1981). [8] R.I. Keiser and M. Mottier, Radiation resistant magnets, CERN 82\u201305 (1982). [9] R.L. Clough et al., Accelerated aging tests for predicting radiation degradation of organic materials, Nucl. Saf. 25 No. 2 (1984) 238. [10] G. Lipt\u00e1k et al., Radiation tests on selected electrical insulating materials for high-power and high- voltage application, CERN 85\u201302 (1985). [11] H. Sch\u00f6nbacher et al., Strahlenbestandigkeit von Epoxidhormasse, Kunstst.-Berat. 76 (1986) 14. [12] P. Beynel, H. Sch\u00f6nbacher, G. Tartaglia, Results of long-term irradiation of epoxy resins used for",
+    "chem": 1
+  },
+  {
+    "chunk_id": 26,
+    "page": 11,
+    "text": "electrical insulating materials for high-power and high- voltage application, CERN 85\u201302 (1985). [11] H. Sch\u00f6nbacher et al., Strahlenbestandigkeit von Epoxidhormasse, Kunstst.-Berat. 76 (1986) 14. [12] P. Beynel, H. Sch\u00f6nbacher, G. Tartaglia, Results of long-term irradiation of epoxy resins used for magnet-coil insulation, CERN\u2013TIS\u2013RP/IR/86\u201337. [13] H. Sch\u00f6nbacher, Life experience with aging of organic electrical insulating materials in nuclear radiation environment, Proc. ANS/ENS Int. Topical Meeting on Operability of Nuclear Power Systems in Adverse Environments, LaGrange Park, 1987, p. 516. [14] R.L. Clough, Radiation resistant polymers, in Encyclopedia of Polymer Science and Engineering (John Wiley & Sons, New York, 1988). [15] Proc. Research Coordination Meeting on Radiation Damage to Organic Materials in Nuclear Reactor and Radiation Environment, Takaseki, 1989 (IAEA Tech. Rep. Ser., Vienna, 1990). [16] Radiation damage to organic materials in nuclear reactors and radiation environments, IAEA\u2013 TECDOC\u2013551 (1990). [17] M. Tavlet and H. Sch\u00f6nbacher, Radiation resistance of insulators and structural materials, Proc. ECFA Large Hadron Collider Workshop, Aachen, 1990, Eds. G. Jarlskog and D. Rein, CERN 90\u201310, Vol. 3 (1990) p. 743\u20138. [18] D.W. Clegg and A.A. Collyer, Irradiation effects on polymers (Elsevier Appl. Sci., London and New York, 1991). [19] R.L. Clough and S.W. Shalaby, Radiation effects on polymers (ACS Symposium Series 475, 1991). [20] R.L. Clough and S.W. Shalaby, Irradiation of polymers (ACS Symposium Series No. 620, 1996).",
+    "chem": 1
+  },
+  {
+    "chunk_id": 27,
+    "page": 11,
+    "text": "on polymers (Elsevier Appl. Sci., London and New York, 1991). [19] R.L. Clough and S.W. Shalaby, Radiation effects on polymers (ACS Symposium Series 475, 1991). [20] R.L. Clough and S.W. Shalaby, Irradiation of polymers (ACS Symposium Series No. 620, 1996). [21] Proc. Int. Workshop on Advanced Materials for High Precision Detectors, Archamps, 1994, Eds. B. Niquevert and C. Hauviller, CERN 94\u201307, Part IV (1994). [22] H. Mitsui et al., Synchrotron radiation damage test on insulating materials in the Tristan MR, Part. Accel. 52 (1996) 31\u201344.",
+    "chem": 1
+  },
+  {
+    "chunk_id": 28,
+    "page": 12,
+    "text": "[23] M. Tavlet, Aging of organic materials around high-energy particle accelerators, Nucl. Instrum. Methods Phys. Res. B 131 (1997) 239\u2013244. [24] H. Sch\u00f6nbacher and A. Stolarz-Izicka, Compilation of radiation damage test data, Part I: Cable- insulating materials, CERN 79\u201304 (1979). [25] H. Sch\u00f6nbacher and A. Stolarz-Izicka, Compilation of radiation damage test data, Part II: Thermosetting and thermoplastic resins, CERN 79\u201308 (1979). [26] P. Beynel, P. Maier and H. Sch\u00f6nbacher, Compilation of radiation damage test data, Part III: Materials used around high-energy accelerators, CERN 82\u201310 (1982). [27] H. Sch\u00f6nbacher and M. Tavlet, Compilation of radiation damage test data, Part I, 2nd edition: Halogen-free cable-insulating materials, CERN 89\u201312 (1989). [28] CERN Safety Instructions IS23 and IS41, TIS Commission 1993 and 1995. [29] International Electrotechnical Commission, Geneva, Publication No. 544: Guide for determining the effects of ionizing radiation on insulating materials, Part I: Radiation interaction, Ref. 544\u20131 (1977); Part 2: Procedures for irradiation, Ref. 544\u20132 (1979); Part 3: Test procedures for permanent effects, Ref. 544\u20133 (1979); Part 4: Classi\ufb01cation system for service in radiation environments, Ref. 544\u20134 (1985). [30] M. Van de Voorde, Low temperature irradiation effects on materials and components for superconducting magnets for high-energy physics applications, CERN 77\u201303 (1977). [31] D. Evans and J.T. Morgan, A review of the effects of ionizing radiation on plastics materials at low temperature, Adv. Cryog.",
+    "chem": 1
+  },
+  {
+    "chunk_id": 29,
+    "page": 12,
+    "text": "Low temperature irradiation effects on materials and components for superconducting magnets for high-energy physics applications, CERN 77\u201303 (1977). [31] D. Evans and J.T. Morgan, A review of the effects of ionizing radiation on plastics materials at low temperature, Adv. Cryog. Eng. 28 (1982) 147\u2013164. [32] A. Spindel, Report on the program of 4 K irradiation of insulating materials for the SSC, SSCL\u2013 635 (1993). [33] K. Humer et al., Tensile strength of \ufb01ber reinforced plastics at 77 K irradiated by various radiation sources, J. Nucl. Mater. 212\u2013215 (1994) 849\u2013853. [34] S. Egusa, Irradiation effects on the mechanical properties of polymer matrix composites at low temperature, Adv. Cryog. Eng. 36 (1990) 861\u2013868. [35] H. Sch\u00f6nbacher et al., Results of radiation tests at cryogenic temperatures on some selected organic materials for the LHC, CERN 96\u201305 (1996). [36] M. Tavlet and A.-S. Boullin, End-of-Life criteria for rigid plastics undergoing radiation degradation, CERN\u2013TIS-CFM/IR/95\u201305, presented at the Working Group of IEC Subcommittee 15 B, Milan, June 1995. [37] H. Sch\u00f6nbacher et al., Study on radiation damage to high-energy accelerator components by irradiation in a nuclear reactor, Kerntechnik 17 (1975) 268. [38] E. Leon Florian, H. Sch\u00f6nbacher and M. Tavlet, Data compilation of dosimetry methods and radiation sources for material testing, CERN/TIS\u2013CFM/IR/93\u201303 (1993).",
+    "chem": 1
+  },
+  {
+    "chunk_id": 30,
+    "page": 13,
+    "text": "Table 1 Characteristic properties of thermoset and thermoplastic materials Polymers EPOXY RESINS PEEK Properties BISPHENOL A EPOXY NOVOLAC No \ufb01ller Glass Mineral No \ufb01ller Glass Mineral Un\ufb01lled 30% G.F. Speci\ufb01c gravity (g/cm 3 ) ISO 1183 1.15 2.0\u20132.1 1.8\u20132.0 1.2 1.97 1.7 1.32 1.48 Water absorption (%) ISO 62 0.1\u20130.2 0.02\u20130.8 0.30\u20130.80 \u2013 0.04\u20130.06 0.11\u20130.20 0.06\u20130.2 0.14 Thermal conductivity (k cal/m.h. \u00b0C) ASTM D325 0.15\u20130.45 1 \u2013 \u2013 \u2013 \u2013 \u2013 \u2013 Thermal coef\ufb01cient of expansion (10 \u20135 /\u00b0C) ASTM D 696 6 0.6 \u2013 3 \u2013 \u2013 5 2.5 Tensile strength (MPa) ISO R37 70\u201380 350\u2013400 70 70 350\u2013400 38 95 170 Elongation (%) ISO R37 4.4 \u2013 \u2013 2\u20135 \u2013 \u2013 >25 2 Tensile modulus (GPa) ISO R37 3.5 30 10\u201315 3.5 21\u201322 \u2013 3.6 9.7 Flexural strength (MPa) ISO 178 80\u2013130 360 150\u2013170 60\u2013100 390 70\u201380 180 \u2013 Impact strength (notched) (kg cm/cm) ASTM D 256 1.1\u20132.7 6.4\u20138.2 2.2\u20132.7 2.7 7.0\u20139.2 2.2\u20132.7 \u2013 \u2013 Volume resistivity (\u2126 cm) IEC 93 6.1 \u00d7 10 15 \u2013 1.5 \u00d7 10 15 2.1\u201310 14 \u2013 1.4\u20135.5 \u00d7 10 14 10 16 \u2013 Dielectric strength (kV/mm) IEC 243 > 16 18\u201322 15\u201316 \u2013 \u2013 12\u201316 30 \u2013 Power factor (tg) at 10 6 Hz IEC 250 0.032 0.024 0.013 0.029 0.015 \u2013 0.003 \u2013 Dielectric constant at 10 6 Hz IEC",
+    "chem": 1
+  },
+  {
+    "chunk_id": 31,
+    "page": 13,
+    "text": "16 \u2013 Dielectric strength (kV/mm) IEC 243 > 16 18\u201322 15\u201316 \u2013 \u2013 12\u201316 30 \u2013 Power factor (tg) at 10 6 Hz IEC 250 0.032 0.024 0.013 0.029 0.015 \u2013 0.003 \u2013 Dielectric constant at 10 6 Hz IEC 250 3.4 4.7\u20134.8 4.1\u20134.6 3.5 5.1 4.3\u20134.8 3.3 \u2013 Heat distortion temperature (\u00b0C) ISO 75 110 \u2013 \u2013 150\u2013200 \u2013 \u2013 340 340",
+    "chem": 0
+  },
+  {
+    "chunk_id": 32,
+    "page": 14,
+    "text": "Table 1 (cont.) Polymers PHENOLICS POLYMIDES Properties No \ufb01ller Wood \ufb02our Asbestos Fibre and fabric Mineral Nylon Un\ufb01lled Glass Speci\ufb01c gravity (g/cm 3 ) ISO 1183 1.30\u20131.32 1.29\u20131.51 1.78\u20132.00 1.3\u20131.4 1.5\u20131.9 1.2\u20131.5 1.47 1.90 Water absorption (%) ISO 62 0.30\u20130.40 0.70\u20131.20 0.03\u20130.30 0.50\u20131.6 0.04\u20130.25 0.25\u20130.4 0.68 0.20 Thermal conductivity (k cal/m.h. \u00b0C) ASTM D325 \u2013 0.15\u20130.45 0.15\u20130.25 0.3 0.3 \u2013 0.60 \u2013 Thermal coef\ufb01cient of expansion (10 \u20135 /\u00b0C) ASTM D 696 4.3 3.6 \u2013 3 1.8 \u2013 5.4 1.5 Tensile strength (MPa) ISO R37 14\u201363 38\u201363 21\u201349 31\u201363 14\u201359 31\u201363 74 210 Elongation (%) ISO R37 ~ 5 ~ 5 ~ 5 ~ 5 4\u20139 \u2013 < 1.5 < 1 Tensile modulus (GPa) ISO R37 1.4\u20133.1 4.9\u201314.0 11\u201320.0 5.6\u201310.0 9.5\u201321.0 2.8\u201314.0 3.2 28\u201330 Flexural strength (MPa) ISO 178 84\u2013100 60 45\u201377 49\u2013110 56\u201384 42\u201391 100 350 Impact strength (notched) (kg cm/cm) ASTM D 256 2.7\u20134.3 1\u20132.8 0.8\u201316 2\u201336 0.97\u20133.9 1.4\u20132.8 5 17 Volume resistivity (\u2126 cm) IEC 93 2.5 \u00d7 10 10 \u201310 12 10 9 \u201310 13 10 8 \u201310 13 10 8 \u201310 12 10 10 \u201310 14 10 11 \u201310 14 10 16 \u201310 17 9.2 \u00d7 10 15 Dielectric strength (kV/mm) IEC 243 10\u201316 0.6\u201310 0.4\u201310 0.4\u20137 3\u201316 1\u201311 22 \u2013 Power factor (tg) at 10 6 Hz IEC 250 0.04\u20130.05 0.015\u20130.06 0.03\u20130.25 0.03\u20130.08 0.007\u20130.08",
+    "chem": 1
+  },
+  {
+    "chunk_id": 33,
+    "page": 14,
+    "text": "14 10 11 \u201310 14 10 16 \u201310 17 9.2 \u00d7 10 15 Dielectric strength (kV/mm) IEC 243 10\u201316 0.6\u201310 0.4\u201310 0.4\u20137 3\u201316 1\u201311 22 \u2013 Power factor (tg) at 10 6 Hz IEC 250 0.04\u20130.05 0.015\u20130.06 0.03\u20130.25 0.03\u20130.08 0.007\u20130.08 0.15\u20130.2 0.005 0.0055 Dielectric constant at 10 6 Hz IEC 250 4\u20139.7 (10 3 c/s) 3.9\u20136.5 5\u20136 4.8\u20137 4\u20136 3.7\u20134.5 3.4 4.7 Heat distortion temperature (\u00b0C) ISO 75 150\u2013180 130\u2013180 \u2013 250 180\u2013200 \u2013 300 350",
+    "chem": 0
+  },
+  {
+    "chunk_id": 34,
+    "page": 15,
+    "text": "Table 1 (cont.) Polymers POLYESTERS POLYURETHANES SILICONES Properties \u03b1 Cellulose Mineral Glass No \ufb01ller Glass Mineral Speci\ufb01c gravity (g/cm 3 ) ISO 1183 1.35\u20131.40 1.70\u20132.20 1.20\u20132.00 1.20\u20131.40 1.21 1.88 1.88\u20132.8 Water absorption (%) ISO 62 0.01\u20131 \u2013 0.1\u20132 0.03\u20130.4 0.30\u20130.90 0.10\u20130.30 0.05\u20130.22 Thermal conductivity (k cal/m.h. \u00b0C) ASTM D325 \u2013 \u2013 1.8\u20132.2 0.15 \u2013 0.27 0.50 Thermal coef\ufb01cient of expansion (10 \u20135 /\u00b0C) ASTM D 696 \u2013 \u2013 2 7 \u2013 6 5 Tensile strength (MPa) ISO R37 42\u201350 21\u201346 42\u201390 35\u201381 45\u201360 28\u201356 17\u201331 Elongation (%) ISO R37 \u2013 \u2013 0.3\u20130.5 1.7\u20132.6 > < 3 < 3 Tensile modulus (GPa) ISO R37 \u2013 9.8\u201319.0 4.2\u201312.0 2.8\u20134.6 3.3\u20138.4 14.7\u201317.5 8.7\u201315.9 Flexural strength (MPa) ISO 178 70\u201384 17\u201363 84\u2013150 45\u201391 \u2013 91 133 49 70 Impact strength (notched) (kg cm/cm) ASTM D 256 1.6\u20132.5 1\u20134 40\u201354 1.6\u201310 > 5.4 50 2 Volume resistivity (\u2126 cm) IEC 93 > 10 14 > 10 14 10 12 \u201310 15 2.7 \u00d7 1014 2 \u00d7 1015 6 \u00d7 1012\u20131014 3 \u00d7 1014 1014 Dielectric strength (kV/mm) IEC 243 10\u201314 10\u201317 6\u201314 10\u201317 20 10\u201311 11\u201316 Power factor (tg) at 106 Hz IEC 250 0.03\u20130.05 0.013\u20130.04 1.1\u20130.04 0.01\u20130.03 0.03\u20130.05 0.003\u20130.02 0.002\u20130.01 Dielectric constant at 106 Hz IEC 250 3.5\u20135.5 4.5\u20136.0 4.5\u20136.0 3.0\u20134.01 3.3\u20133.9 4.35 3.4\u20134.5 Heat distortion temperature (\u00b0C) ISO 75 \u2013 \u2013 200 50\u2013200",
+    "chem": 1
+  },
+  {
+    "chunk_id": 35,
+    "page": 15,
+    "text": "11\u201316 Power factor (tg) at 106 Hz IEC 250 0.03\u20130.05 0.013\u20130.04 1.1\u20130.04 0.01\u20130.03 0.03\u20130.05 0.003\u20130.02 0.002\u20130.01 Dielectric constant at 106 Hz IEC 250 3.5\u20135.5 4.5\u20136.0 4.5\u20136.0 3.0\u20134.01 3.3\u20133.9 4.35 3.4\u20134.5 Heat distortion temperature (\u00b0C) ISO 75 \u2013 \u2013 200 50\u2013200 \u2013 > 450 270\u2013450",
+    "chem": 0
+  },
+  {
+    "chunk_id": 36,
+    "page": 16,
+    "text": "Table 2a General classi\ufb01cation of rigid thermoplastics with respect to their radiation resistance mild to moderate damage, utility is often satisfactory moderate to severe damage, use not recommended These appreciations can only serve as a general guideline; environmental conditions such as tem- perature, humidity and dose rate, as well as additives in\ufb02uence the radiation behaviour of materials. Fibre reinforced composites based on these resins can be at least one order of magnitude better. Polyimide (PI) Liquid Crystal Polymer (LCP) Polyetherimide (PEI) Polyamideimide (PAI) Polyphenylsulfide (PPS) Polyetheretherketone (PEEK) Polystyrene (PS) Copolymer PI + siloxane Polyarylate (PAr) Polyarylamide (PAA) Polyethersulfide (PES) Polysulfone (PSU) Polyamide 4.6 Polyphenyloxyde (PPO) Acylonitride-butadiene-styrene (ABS) Polyethylene (PE) Polyethyleneterephtalate (PETP) Polycarbonate (PC) Polyamide 6.6 (PA) Cellulose acetate Polypropylene (PP) Polymethylmethacrylate (PMMA) Polyoxymethylene (POM) Polytetrafluoroethylene (PTFE) 102 103 104 105 106 107 108 Gy",
+    "chem": 1
+  },
+  {
+    "chunk_id": 37,
+    "page": 17,
+    "text": "Table 2b General classi\ufb01cation of thermoset resins and composites with respect to their radiation resistence mild to moderate damage, utility is often satisfactory moderate to severe damage, use not recommended These appreciations can only serve as a general guideline; environmental conditions such as tem- perature, humidity and dose rate, as well as additives in\ufb02uence the radiation behaviour of materials. Fibre reinforced composites based on these resins can be at least one order of magnitude better (see Appendix 3). Epoxy, glass laminate Phenolic, glass laminate Phenolic, mineral filled Aromatic cured epoxy (special formulation) Silicone, glass-filled Silicone, mineral-filled Polyester, glass filled Polyurethane (PUR) Polyester, mineral filled Silicone (unfilled) Epoxy (EP) Phenolic (unfilled) Melamine-formaldehyde (MF) Urea-formaldehyde (UF) Polyester (unfilled) Aniline-formaldehyde (AF) 103 104 105 106 107 108 Gy",
+    "chem": 0
+  },
+  {
+    "chunk_id": 38,
+    "page": 18,
+    "text": "APPENDIX 1 List of materials presented in the previous volumes (Trade names in italics) Volume I: Cable insulating materials (Ref. [24]) Volume I, 2nd edition: Halogen-free cable-insulating materials (Ref. [27]) Butyl rubber Chlorostop Chlorosulfonated polyethylene (CSP) Cross-linked polyethylene (XLPE) Desmopan Ethyl-acrylate rubber (EAR) Ethylene-propylene diene rubber (EPDM) Ethylene-propylene rubber (EPR) Ethylene vinyl acetate (EVA) Flamtrol Fluoropolymer Halar Hypalon Hytrel Kapton Lupolen Neoprene Nordel Polychloroprene Polyethylene (PE) Polyurethane (PUR) Polyvinyl chloride (PVC) Pyro\ufb01l Radox Semiconducting polyethylene Silicone rubber Silythene Stilan Te\ufb02on Tefzel Viton XLPE Acorad Afumex Cogegum Elastollan Ethyl acrylate rubber (EAR) Ethylene ethyl acrylate (EEA) Ethylene-propylene diene monomer rubber (EPDM) Ethylene-propylene rubber (EPR) Ethylene-vinyl acetate copolymer (EVA) Lupolen Megolon Polyethylene (PE) Polyole\ufb01n (PO) Polyurethane (PUR) Radox Rheyhalon Semiconducting PE Silanpex Silicone rubber (SiR) Silythene Sioplas Thermoplastic rubber (TPR) Toxfree VAC Vamac XLPE",
+    "chem": 1
+  },
+  {
+    "chunk_id": 39,
+    "page": 19,
+    "text": "Volume II: Thermoplastic and thermosetting resins (Ref. [25]) Volume III: Accelerator engineering materials and components (Ref. [26]) Araldite B Araldite D Araldite F and other Araldite resins Araldite F + epoxy Novolac Birakrit Cevolit Crystic Dobeckan IF Dobeckot Epikote Epoxy resins Epoxy resins + epoxy Novolac Etronax Isoval Kerimid Kinel Makrolon Novolac Orlitherm Phenolic resins Polycarbonate resins Polymide resins Polylite Polyurethane resins Reso\ufb01l Ryton Samicanit Samicatherm Silicone resins Veridur Vetresit Vetronite Adhesive tape Aluminium oxide Araldite Asbestos cement Askarel Buna Cable insulation Cable tie Ceramic Cerium-doped glass Connector Copper wire Diala C Diester oil Electronic components Epoxy resin Ethylene-propylene rubber (EPR) and (EPDM) Ethylene-tetra\ufb02uoroethylene copolymer (ETFE) Fluorinated oil Fluorinated polymer Foam Glass Glass \ufb01bre Heating element HF absorber Hoses Hostalen Hypermalloy Hytrel Insulated wire Insulating oil Insulating sleeve Insultaing tape Iron Joint Kapton Kevlar Kynar Lighting Lithium polysilicate Lubricating oil Luminous paint Lupolen Magnet coil insulation Magnetic material Makrolon Micatherm Microswitch Mineral oil Motor, electric Mylar Neoprene Nitrile-butadiene rubber Nomex",
+    "chem": 1
+  },
+  {
+    "chunk_id": 40,
+    "page": 20,
+    "text": "Noryl Novolac Nylon Oil Optical \ufb01bre O-ring Pain Paper Particle detector Pertinax Plexiglas Polyacrylate Polyamide Polybutylene terephthalate (PBTP) Polycarbonate Polychloroprene (Neoprene) Polyester resin Polyethylene (PE) and (XLPE) Polyethylene terephthalate (PETP) Polyhydantoin Polyimide Polyole\ufb01n Polyphenylene oxide (PPO) Polyphenylene sul\ufb01de (PPS) Polypropylene (PP) Polysiloxane Polytetra\ufb02uoroethylene (Te\ufb02on PTFE) Polyurethane resin (PUR) Polyvinyl chloride (PVC) Polyvinyl toluene Quartz Relay Resin Resistofol Rubber Ryton Scintillator Scotchcal Seal (O-ring) Silica Silicon detector Silicone oil Silicone rubber Sleeve Styrene-butadiene rubber (SBR) Switch Tape Te\ufb02on (PTFE) Tefzel Terminal board Textile Thermoplastic resin Thermosetting resin Thermoshrinking sheath Vacuum chamber tube Vacuum gasket Vacuum pump accessory Vacuum seal Vacuum valve Valvata Valve Vestolene Viton Wire Wood",
+    "chem": 0
+  },
+  {
+    "chunk_id": 41,
+    "page": 21,
+    "text": "APPENDIX 2 Chemical structures of some commercial products BF3MEA Boron tri\ufb02uoride monoethylamine: BF3\u2013NH2\u2013CH2\u2013CH3 CT 200 (CIBA\u2013GEIGY), Araldite B, solid, unmodi\ufb01ed epoxy resin based on Bisphenol A: DDM (CIBA\u2013GEIGY) Hardener \u2013 4,4' \u2013 Diaminodiphenylmethane (methylenedianiline MDA): DDS Hardener \u2013 Diaminodiphenyl sulphone: DEN (DOW) Dow Epoxy Novolac DGEBA Diglycidyl ether of Bisphenol A: CH CH CH2 CH2 CH2 CH2 CH CH2 CH2 O O O O O O CH3 CH3 O OH CH3 CH3 C n CY 205 (CIBA \u2013 GEIGY) Liquid, unmodified epoxy resin based on Bisphenol A CY 208 (CIBA \u2013 GEIGY) Liquid, modified epoxy resin based on Bisphenol A CY 221 (CIBA \u2013 GEIGY) Liquid, modified epoxy resin based on Bisphenol A CY 222 (CIBA \u2013 GEIGY) Liquid, modified epoxy resin based on Bisphenol A Chemical formula see CT200(n 0.15) \uf8fc \uf8fd \uf8f4\uf8f4 \uf8fe \uf8f4 \uf8f4 =\u02c6 CH2 H2 N NH2 O O H2 N NH2 S 431 438 \uf8fc\uf8fd\uf8fe Polyglycidyl ether of phenol formaldehyde novolac CH CH2 CH2 CH2 O O CH CH CH2 CH2 CH2 CH2 O O O O CH3 CH3 C",
+    "chem": 1
+  },
+  {
+    "chunk_id": 42,
+    "page": 22,
+    "text": "DMP 30 Accelerator \u2013 2, 4, 6\u2013tris[N,N\u2013(dimethylamino)methyl]phenol DX 125 (SHELL) DY 040 (CIBA\u2013GEIGY) \ufb02exibilizer \u2013 polypropyleneglycol 061 accelerator \u2013 aminophenol 062 accelerator \u2013 benzyldimethylamine 063 accelerator 064 accelerator \u2013 aminophenol 065 accelerator unmodi\ufb01ed sodium alkoxide 067 accelerator modi\ufb01ed \" \" EP (SHELL) EPIKOTE 828 Diglycidyl ether of Bisphenol A (see DGEBA) EPN (CIBA\u2013GEIGY) Epoxy Phenol Novolac HT 903 (CIBA\u2013GEIGY) Acid anhydride hardener, solid, modi\ufb01ed Tetrahydrophthalic anhydride CH2 OH (CH3)2 N N(CH3)2 CH2 N(CH3)2 CH2 DX (SHELL) DX (SHELL) Curing agent \u2013 anhydride 126 127 \uf8fc\uf8fd\uf8fe CH3 CH3 CH2 N 154 827 \uf8fc\uf8fd\uf8fe Polyglycidyl ether of phenol formaldehyde novolac (Chemical formulae see DEN) 1138 1139 \uf8fc\uf8fd\uf8fe Polyglycidyl ether of phenol formaldehyde novolac (Chemical formulae see DEN) O O C C O",
+    "chem": 1
+  },
+  {
+    "chunk_id": 43,
+    "page": 23,
+    "text": "HT 907 (CIBA\u2013GEIGY) Acid anhydride hardener, solid, unmodi\ufb01ed HT 972 (CIBA\u2013GEIGY) Amine hardener, solid, unmodi\ufb01ed (see DDM) HY 905 (CIBA\u2013GEIGY) Acid anhydride hardener, liquid, modi\ufb01ed Hexahydrophhalic anhydride (see HT 907) HY 906 (CIBA\u2013GEIGY) Acid anhydride hardener, liquid, unmodi\ufb01ed HY 956 (CIBA\u2013GEIGY) Amine hardener, liquid, modi\ufb01ed Triethylenetetramine H2N [CH2 \u2013 CH2 \u2013 NH] CH2 \u2013 CH2 \u2013 NH2 HY 964 (CIBA\u2013GEIGY) Acid anhydride hardener MDA Hardener Methylenedianiline (see DDM) MNA Hardener Methyl nadic anhydride (formula see HY 906) MY 720 (CIBA\u2013GEIGY) Liquid, unmodi\ufb01ed, epoxy resin Tetrafuncional glycidyl compound of diamines (TGDM) MY 740 (CIBA\u2013GEIGY) Liquid, modi\ufb01ed epoxy resin based on Bisphenol A (see CY 205) MY 745 (CIBA\u2013GEIGY) Liquid, modi\ufb01ed epoxy resin based on Bisphenol A (see CY 208, 221 and 222) Hexahydrophthalic anhydride Methyl nadic anhydride (MNA) Dodecenyl succinic anhydride O O C C O CH2 CH3 O O C C O R CH CH2 R = C12H23 O O C C O",
+    "chem": 1
+  },
+  {
+    "chunk_id": 44,
+    "page": 24,
+    "text": "PA 4.6 PEEK PEI PES PI n o ||c o ||c H | N - - - - - - - H | N (CH ) 2 4 (CH ) 2 4 n o ||c o o - n O O N O CH C CH O O O N 3 3 | | n O 2 SO - C || 0 C || 0 N\u2013R N C || 0 C || 0 n",
+    "chem": 0
+  },
+  {
+    "chunk_id": 45,
+    "page": 25,
+    "text": "PPS PSU TGDM N,N\u00b4-tetraepoxypropyl-4,4\u00b4-methylene-dianiline XB 2687 (CIBA\u2013GEIGY)Accelerator, liquid modi\ufb01ed, replacement for DY 063 Amine-phenol salt n S n CH | C | CH O O || S || O 3 3 O N N CH CH2 CH2 CH2 O CH CH2 CH2 O CH CH2 CH2 O CH CH2 CH2",
+    "chem": 1
+  },
+  {
+    "chunk_id": 46,
+    "page": 26,
+    "text": "APPENDIX 3 Alphabetic compilation of data A Acetal resin see polyoximethylene (POM) Adiprene trade name for polyurethane, polyester Araldite trade name of CIBA-GEIGY for epoxy resins, for behaviour under cryogenic irradiation, see Ref. [35] Araldite B = unmodi\ufb01ed epoxy resin based on Bisphenol A; base resin = CT200 Araldite D Araldite F; base resin = CY205 Araldite MY720 = liquid unmodi\ufb01ed epoxy resin based on TGDM Arenka trade name of ENKA for Epikote reinforced with aramid \ufb01bers, see epoxy composite Arocy trade name of CIBA-GEIGY for cyanate ester based resins, see cyanate ester",
+    "chem": 1
+  },
+  {
+    "chunk_id": 47,
+    "page": 27,
+    "text": "List of materials classi\ufb01ed under letter A TIS Material Base material Mechanical properties number name UTS (MPa) Deform. (%) Modulus (MPa) RI 439 Araldite NU 460 epoxy moulding compound 138 1.04 13.7 < 6.7 441 Araldite NU 461 epoxy moulding compound 117 0.90 18.5 > 8 443 Araldite NU 471 epoxy moulding compound 96.5 0.96 12.8 7.8 447 Araldite NU 481 epoxy moulding compound 87.3 0.98 11.8 7.7 449 Araldite NU 505 epoxy moulding compound 115 0.90 17.6 > 8 453 Araldite NU 511 epoxy moulding compound 158 1.08 17.4 > 8 483 Araldite F CY 205 89.8 2.61 3.6 7 486 Araldite F epoxy HY905-DY040-DY061 82.4 2.60 3.30 7.1 492 Araldite NU 514 epoxy moulding compound 115 1.17 12.7 7.9 493 Araldite NU 487 epoxy moulding compound 150 1.19 15.7 7.8 566 Araldite Av/HV 158GB 60.8 0.53 15.2 6.6",
+    "chem": 1
+  },
+  {
+    "chunk_id": 48,
+    "page": 28,
+    "text": "CERN 98\u201301/A3/A Critical property = \ufb02exural strength Radiation index (RI) = < 6.7 at a mean dose rate of 220 kGy/h Type Material: Supplier: Remarks: Araldite NU 460 Epoxy moulding compound Ciba-Geigy standard curing TIS No. R 439 UL 94: n.m. LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 220 220 220 0 5 10 50 138\u00b19 49\u00b16 58\u00b13 32\u00b17 1.04\u00b10.06 0.67\u00b10.03 0.73\u00b10.04 0.61\u00b10.06 13.7\u00b16.8 9.9\u00b11.5 10.6\u00b10.6 6.3\u00b11.9 0 1 10 100 1000 0 1 10 100 Absorbed dose (MGy) Strength (MPa) \u2013 Deformation (%) Radiation effect on insulating resin R 439 Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 49,
+    "page": 29,
+    "text": "CERN 98\u201301/A3/A Critical property = deformation Radiation index (RI) = > 8 at a mean dose rate of 220 kGy/h Type Material: Supplier: Remarks: Araldite NU 461 Epoxy moulding compound Ciba-Geigy VPI product TIS No. R 441 UL 94: n.m. LOI: Radiation test results according to IEC Standard 544 (and ISO 178 Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 220 220 220 220 0 5 10 50 100 117\u00b15 105\u00b15 112\u00b18 115\u00b14 92\u00b110 0.90\u00b10.06 0.76\u00b10.04 0.77\u00b10.08 0.64\u00b10.03 0.50\u00b10.05 18.5\u00b10.7 18.3\u00b10.7 18.4\u00b10.4 21.4\u00b10.4 20.1\u00b11.1 0 1 10 100 1000 0 1 10 100 Absorbed dose (MGy) Strength (MPa) \u2013 Deformation (%) Radiation effect on insulating resin R 441 Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 50,
+    "page": 30,
+    "text": "CERN 98\u201301/A3/A Critical property = deformation Radiation index (RI) = 7.8 at a mean dose rate of 220 kGy/h Radiation index (RI) = > 6.8 at a mean dose rate of 10 kGy/h Radiation index (RI) = > 6.4 at a mean dose rate of 100 Gy/h Type Material: Supplier: Remarks: Araldite NU 471 Epoxy moulding compound Ciba-Geigy VPI product, not cured TIS No. R 443 UL 94: n.m. LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 0.1 0.1 220 10 220 220 220 0 0.5 2.5 5 6.4 10 50 100 97\u00b13 88\u00b13 78\u00b11 74\u00b12 87\u00b12 74\u00b17 75\u00b13 51\u00b12 0.96\u00b10.03 0.80\u00b10.04 0.63\u00b10.01 0.62\u00b10.02 0.72\u00b10.01 0.57\u00b10.08 0.51\u00b10.03 0.36\u00b10.02 12.8\u00b10.3 13.7\u00b10.2 15.2\u00b10.7 12.9\u00b11.3 14.4\u00b10.1 15.1\u00b10.4 16.6\u00b10.3 17.8\u00b11.7 0 1 10 100 1000 0 1 10 100 Absorbed dose (MGy) Strength (MPa) \u2013 Deformation (%) Radiation effect on Epoxy R 443 Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 51,
+    "page": 31,
+    "text": "CERN 98\u201301/A3/A Critical property = deformation Radiation index (RI) = 7.7 at a mean dose rate of 220 kGy/h Type Material: Supplier: Remarks: Araldite NU 481 Epoxy moulding compound Ciba-Geigy VPI product TIS No. R 447 UL 94: n.m. LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 220 220 220 220 0 5 10 50 100 87\u00b12 70\u00b11 75\u00b12 63\u00b13 46\u00b11 0.98\u00b10.02 0.67\u00b10.02 0.67\u00b10.02 0.49\u00b10.03 0.36\u00b10.01 11.8\u00b10.2 12.7\u00b10.2 13.5\u00b10.4 15.6\u00b10.2 15.4\u00b10.7 0 1 10 100 0 1 10 100 Absorbed dose (MGy) Strength (MPa) \u2013 Deformation (%) Radiation effect on insulating resin R 447 Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 52,
+    "page": 32,
+    "text": "CERN 98\u201301/A3/A Critical property = deformation Radiation index (RI) = > 8 at a mean dose rate of 220 kGy/h Type Material: Supplier: Remarks: Araldite NU 505 Epoxy moulding compound Ciba-Geigy VPI product TIS No. R 449 UL 94: n.m. LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 220 220 220 220 0 5 10 50 100 115\u00b112 113\u00b14 111\u00b17 111\u00b13 91\u00b14 0.9\u00b10.1 0.84\u00b10.02 0.81\u00b10.04 0.67\u00b10.01 0.51\u00b10.04 17.6\u00b10.5 17.7\u00b10.7 17.3\u00b10.5 20.0\u00b10.6 18.7\u00b11.0 0 1 10 100 1000 0 1 10 100 Absorbed dose (MGy) Strength (MPa) \u2013 Deformation (%) Radiation effect on insulating resin R 449 Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 53,
+    "page": 33,
+    "text": "CERN 98\u201301/A3/A Critical property = deformation Radiation index (RI) = > 8 at a mean dose rate of 220 kGy/h Type Material: Supplier: Remarks: Araldite NU 511 Epoxy moulding compound Ciba-Geigy VPI product TIS No. R 453 UL 94: n.m. LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 220 220 220 220 0 5 10 50 100 158\u00b120 163\u00b18 159\u00b112 162\u00b16 128\u00b15 1.08\u00b10.13 1.06\u00b10.06 1.06\u00b10.09 0.94\u00b10.03 0.78\u00b10.04 17.4\u00b10.6 17.7\u00b10.4 16.8\u00b10.3 18.6\u00b10.7 18.1\u00b10.4 0 1 10 100 1000 0 1 10 100 Absorbed dose (MGy) Strength (MPa) \u2013 Deformation (%) Radiation effect on insulating resin R 453 Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 54,
+    "page": 34,
+    "text": "CERN 98\u201301/A3/A Critical property = \ufb02exural strength Radiation index (RI) = 7.3 at a mean dose rate of 220 kGy/h Radiation index (RI) = 6.7 at a mean dose rate of 200 Gy/h Comment: Low-dose rate irradiations (dotted lines) correspond to life irradiation in LEP. Material: Type Supplier: Remarks: Araldite F CY 205 ABB Augsburg Insulation of LEP quadrupole coils TIS No. R 483 UL 94: n.m. LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 0.02 0.2 2 200 2 2 200 0 0.37 3 4 5 8 10 30 90\u00b112 73\u00b115 48\u00b19 59\u00b110 76\u00b120 28\u00b14 30\u00b12 33\u00b111 2.61\u00b10.38 1.81\u00b10.42 1.35\u00b10.20 1.86\u00b10.50 2.24\u00b10.53 0.91\u00b10.10 0.96\u00b10.10 1.03\u00b10.25 3.6\u00b10.05 3.8\u00b10.07 3.6\u00b10.29 3.2\u00b10.20 3.5\u00b10.14 3.2\u00b10.80 3.2\u00b10.10 3.5\u00b10.44 Radiation effect on Araldite F - R 483 0 1 10 100 1000 0 0 1 10 Absorbed dose (MGy) Strength (MPa) - Deformation (%) 24 Gy/h 200 Gy/h 2 kGy/h 200 kGy/h Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 55,
+    "page": 35,
+    "text": "CERN 98\u201301/A3/A Critical property = \ufb02exural strength Radiation index (RI) = 7.1 at a mean dose rate of 220 kGy/h Material: Type Supplier: Remarks: Araldite F HY 905 + DY 040 + DY 061 Ciba-Geigy via Ansaldo this resin is used for LEP QA magnets TIS No. R 486 UL 94: n.m. LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 220 220 220 0 5 10 50 82\u00b111 71\u00b113 51\u00b16 15\u00b12 2.6\u00b10.38 2.1\u00b10.4 1.5\u00b10.18 0.5\u00b10.04 3.3\u00b10.09 3.5\u00b10.10 3.6\u00b10.07 3.3\u00b10.13 0 1 10 100 0 1 10 100 Absorbed dose (MGy) Strength (MPa) \u2013 Deformation (%) Radiation effect on insulating resin R 486 Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 56,
+    "page": 36,
+    "text": "CERN 98\u201301/A3/A Critical property = deformation Radiation index (RI) = 7.9 at a mean dose rate of 170 kGy/h Type Material: Supplier: Remarks: Araldite NU 514 Epoxy moulding compound Ciba-Geigy TIS No. R 492 UL 94: n.m. LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 170 170 170 170 0 5 10 50 100 115\u00b19 110\u00b110 103\u00b13 98\u00b12 63\u00b112 1.17\u00b10.10 1.07\u00b10.13 1.10\u00b10.04 0.77\u00b10.02 0.6\u00b10.1 12.7\u00b10.2 13.6\u00b10.3 13.5\u00b10.2 15.6\u00b10.2 12.7\u00b10.7 0 1 10 100 1000 0 1 10 100 Absorbed dose (MGy) Strength (MPa) \u2013 Deformation (%) Radiation effect on insulating resin R 492 Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 57,
+    "page": 37,
+    "text": "CERN 98\u201301/A3/A Critical property = deformation Radiation index (RI) = 7.8 at a mean dose rate of 170 kGy/h Type Material: Supplier: Remarks: Araldite NU 487 Epoxy moulding compound Ciba-Geigy TIS No. R 493 UL 94: n.m. LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 170 170 170 170 0 5 10 50 100 150\u00b19 127\u00b111 108\u00b112 96\u00b113 47\u00b12 1.19\u00b10.05 0.89\u00b10.08 0.74\u00b10.08 0.59\u00b10.08 0.36\u00b10.01 15.7\u00b10.5 16.5\u00b10.4 17.1\u00b10.5 18.9\u00b10.5 15.7\u00b10.5 0 1 10 100 1000 0 1 10 100 Absorbed dose (MGy) Strength (MPa) \u2013 Deformation (%) Radiation effect on insulating resin R 493 Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 58,
+    "page": 38,
+    "text": "CERN 98\u201301/A3/A Critical property = \ufb02exural strength Radiation index (RI) = 6.6 at a mean dose rate of 240 kGy/h Type Material: Supplier: Remarks: Araldite AV/HV 1580 GB Epoxy resin putty Ciba-Geigy TIS No. R 566 UL 94: n.m. LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 0.1 65 240 225 0 1 5 10 30 61\u00b12 54\u00b13 51\u00b17 23\u00b13 18\u00b12 0.53\u00b10.04 0.50\u00b10.01 0.45\u00b10.04 0.31\u00b10.02 0.25\u00b10.03 15.2\u00b10.3 14.5\u00b10.9 10.6\u00b12.5 8.5\u00b10.8 8.6\u00b11.2 Radiation effect on Araldite AV/HV 1580 - R 566 0 1 10 100 0 1 10 100 Absorbed dose (MGy) Strength (MPa) - Deformation (%) Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 59,
+    "page": 40,
+    "text": "B Bakelite trade name for Phenol-Formaldehyde (PF) resins Birakrit trade name for glass-\ufb01bre epoxy laminate, see Ref. [25], RI = 7.3 Bisphenol A base product for epoxy resins, see Araldite and epoxy resins Borolene trade name by DSM for polyethylene; see PE",
+    "chem": 1
+  },
+  {
+    "chunk_id": 60,
+    "page": 42,
+    "text": "C Cestidur trade name of DSM EPP for polyethylene, see PE Cestilene trade name of DSM EPP for polyethylene, see PE Cestitech trade name of DSM EPP for polyethylene, see PE Cevolit trade name for glass-\ufb01bre reinforced polyester resin, see Ref. [25]; RI = 6.7 CFRP Carbon-\ufb01bre-reinforced plastics (composites) for behaviour under cryogenic irradiation, see Ref. [35] Copolymer polyimide and silicone see silicone-polyimide copolymer Cross-linked styrene copolymer see styrene Crystic trade name for glass-\ufb01bre reinforced unsatured polyester resin, see Ref. [25]; RI = 7.3 Cyanate-ester resins (type of polyurethane resins), see also CFRP",
+    "chem": 1
+  },
+  {
+    "chunk_id": 61,
+    "page": 43,
+    "text": "List of materials classi\ufb01ed under letter C TIS Material Type Mechanical properties number name UTS (MPa) Deform. (%) Modulus (MPa) RI 550 Carbon-\ufb01bre-reinforced epoxy MY720/MT976 1674 1.54 112 > 7.7 552 Carbon-\ufb01bre-reinforced epoxy LY556/HY917/DY070 929 1.17 80.5 8.1 553 Carbon-\ufb01bre-reinforced epoxy LY556/HY2954 884 1.10 81.1 6.6 555 Carbon-\ufb01bre-reinforced epoxy Fibredux 1208 1.80 70.5 > 8.1 556 Carbon-\ufb01bre-reinforced epoxy Vicotex 841 1.93 47.0 7.2 558 Cyanate ester resin Arocy 125 4.53 3.20 7.5 559 Cyanate ester resin + epoxy 139 5.82 3.30 7.3 561 Cyanate ester resin RS-3 94.7 3.95 2.80 7.3 562 Cyanate ester resin + carbon \ufb01bre RS-3 + XM50A 304 0.64 66.1 > 7.7",
+    "chem": 1
+  },
+  {
+    "chunk_id": 62,
+    "page": 44,
+    "text": "CERN 98\u201301/A3/C Critical property = \ufb02exural strength Radiation index (RI) = > 7 at a mean dose rate of 10 kGy/h Radiation index (RI) = > 7.7 at a mean dose rate of 220 kGy/h Material: Type Supplier: Remarks: Carbon-\ufb01bre-reinforced epoxy MY720/HT976 + 67.8% \ufb01bres Ciba-Geigy unidirectional \ufb01bres orientation TIS No. R 550 UL 94: n.m. LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 10 200 200 0 9 10 50 1674\u00b1134 1535\u00b194 1681\u00b1122 1579\u00b176 1.54\u00b10.05 1.50\u00b10.06 1.65\u00b10.09 1.56\u00b10.06 112\u00b13 102\u00b18 106\u00b12 106\u00b11 Radiation effect on carbon-epoxy R 550 1 10 100 1000 10000 0 0 1 10 100 1000 Absorbed dose (MGy) Strength (MPa) - Deformation (%) Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 63,
+    "page": 45,
+    "text": "CERN 98\u201301/A3/C Critical property = \ufb02exural strength Radiation index (RI) = 8.1 at a mean dose rate of 230 kGy/h Material: Type Supplier: Remarks: Carbon-\ufb01bre-reinforced epoxy LY 556/HY 917/DY 070 Ciba-Geigy 8 layers of \ufb01bre mat TIS No. R 552 UL 94: LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 230 230 230 230 0 3 10 62 112 929\u00b1187 816\u00b199 857\u00b1114 837\u00b190 487\u00b129 1.17\u00b10.23 0.97\u00b10.16 1.06\u00b10.13 1.02\u00b10.12 0.64\u00b10.05 80.5\u00b12.6 81.5\u00b12.1 82.2\u00b11.4 83.0\u00b11.2 81.3\u00b13.9 Radiation effect on epoxy laminate R 552 0 1 10 100 1000 0 1 10 100 Absorbed dose (MGy) Strength (MPa) - Deformation (%) Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 64,
+    "page": 46,
+    "text": "CERN 98\u201301/A3/C Critical property at a mean dose rate of 230 kGy/h = \ufb02exural strength Radiation index (RI) = 6.6 at a mean dose rate of 230 kGy/h Critical property at a mean dose rate of 0.5 kGy/h = deformation Radiation index (RI) = 6.4 at a mean dose rate of 0.5 kGy/h Comment: Dotted lines correspond to low dose rate irradiation. Material: Type Supplier: Remarks: Carbon-\ufb01bre-reinforced epoxy LY 556/HY 2954 Ciba-Geigy 8 layers of \ufb01bre mat TIS No. R 553 UL 94: LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 230 0.5 230 230 230 0 3 3 10 62 112 884\u00b198 860\u00b199 774\u00b1113 190\u00b126 102\u00b15 114\u00b18 1.10\u00b10.12 1.05\u00b10.11 0.39\u00b10.06 0.29\u00b10.03 0.18\u00b10.01 0.17\u00b10.02 81.1\u00b11.0 83.3\u00b12.0 192\u00b117 79.7\u00b13.8 79.3\u00b11.1 84.9\u00b12.4 Radiation effect on epoxy laminate R 553 0 1 10 100 1000 0.0 1 10 100 1000 Absorbed dose (MGy) Strength (MPa) - Deformation (%) Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 65,
+    "page": 47,
+    "text": "CERN 98\u201301/A3/C Critical property = \ufb02exural strength Radiation index (RI) > 8.1 at a mean dose rate of 230 kGy/h Material: Type Supplier: Remarks: Carbon-\ufb01bre-reinforced epoxy Fibredux 91 4c-TS(6K)-5-34% Ciba-Geigy 8 layers of prepreg TIS No. R 555 UL 94: LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 230 230 230 230 0 3 10 62 112 1208\u00b135 1239\u00b142 1255\u00b182 1077\u00b1275 1013\u00b1192 1.80\u00b10.04 1.68\u00b10.09 1.75\u00b10.12 1.47\u00b10.22 1.56\u00b10.31 70.5\u00b10.2 76.1\u00b12.0 75.9\u00b12.5 75.2\u00b13.2 67.6\u00b14.4 0 1 10 100 1000 10000 0 1 10 100 Absorbed dose (MGy) Strength (MPa) \u2013 Deformation (%) Radiation effect on epoxy laminate R 555 Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 66,
+    "page": 48,
+    "text": "CERN 98\u201301/A3/C Critical property = \ufb02exural strength Radiation index (RI) = 7.2 at a mean dose rate of 230 kGy/h Material: Type Supplier: Remarks: Carbon-\ufb01bre-reinforced epoxy Vicotex M 10 G 1071 Ciba-Geigy TIS No. R 556 UL 94: LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 230 230 230 230 0 3 10 62 112 841\u00b131 865\u00b136 852\u00b132 201\u00b171 42\u00b110 1.93\u00b10.06 1.93\u00b10.05 1.83\u00b10.06 0.66\u00b10.26 0.33\u00b10.15 47.0\u00b11.0 48.0\u00b11.4 49.1\u00b11.6 39.4\u00b112 19.4\u00b14.8 0 1 10 100 1000 10000 0 1 10 100 Absorbed dose (MGy) Strength (MPa) \u2013 Deformation (%) Radiation effect on epoxy laminate R 556 Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 67,
+    "page": 49,
+    "text": "CERN 98\u201301/A3/C Critical property = deformation Radiation index (RI) = 7.5 at a mean dose rate of 180 kGy/h Material: Type Supplier: Remarks: Cyanate ester resin Arocy B 10 (M 7.009/9) Ciba-Geigy Bisphenol-Adicyanate ester TIS No. R 558 UL 94: n.m. LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 6 230 230 180 0 1 3 10 50 125\u00b111 189\u00b111 161\u00b15 160\u00b12 69\u00b14 4.53\u00b10.49 8.25\u00b11.53 6.62\u00b11.00 7.62\u00b11.24 1.76\u00b10.07 3.2\u00b10.02 4.2\u00b10.04 3.8\u00b10.05 3.8\u00b10.07 4.0\u00b10.06 0 1 10 100 1000 0 1 10 100 Absorbed dose (MGy) Strength (MPa) \u2013 Deformation (%) Radiation effect on cyanate ester R 558 Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 68,
+    "page": 50,
+    "text": "CERN 98\u201301/A3/C Critical property = deformation Radiation index (RI) ~ 7.3 at a mean dose rate of 180 kGy/h Material: Type Supplier: Remarks: Cyanate ester + Epoxy Arocy B 10/LY556 / Zn (M 7.10/6) Ciba-Geigy TIS No. R 559 UL 94: n.m. LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 6 230 230 180 0 1 3 10 50 139\u00b19 141\u00b111 147\u00b16 150\u00b13 25\u00b112 5.82\u00b11.00 6.42\u00b11.93 6.04\u00b10.83 5.34\u00b10.34 0.68\u00b10.28 3.3\u00b10.09 3.5\u00b10.07 3.7\u00b10.03 3.9\u00b10.10 4.1\u00b10.09 0 1 10 100 1000 0 1 10 100 Absorbed dose (MGy) Strength (MPa) \u2013 Deformation (%) Radiation effect on cyanate ester + epoxy R 559 Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 69,
+    "page": 51,
+    "text": "CERN 98\u201301/A3/C Critical property = deformation Radiation index (RI) = 7.3 at a mean dose rate of 200 kGy/h Material: Type Supplier: Remarks: Cyanate ester resin RS-3 YLA TIS No. R 561 UL 94: n.m. LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 18 190 230 0 3 10 50 94.7\u00b113.1 80.8\u00b17.3 78.0\u00b18.8 42.9\u00b17.8 3.95\u00b10.80 2.55\u00b10.51 2.30\u00b10.30 1.28\u00b10.21 2.8\u00b10.13 3.4\u00b10.37 3.4\u00b10.13 3.5\u00b10.13 Radiation effect on Cyanate ester resin R 561 0 1 10 100 1000 0 1 10 100 Absorbed dose (MGy) Strength (MPa) - Deformation (%) Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 70,
+    "page": 52,
+    "text": "CERN 98\u201301/A3/C Critical property = deformation Radiation index (RI) > 7.7 at a mean dose rate of 180 kGy/h Material: Type Supplier: Remarks: Cyanate ester + carbon \ufb01bres RS-3 + XN 50A YLA TIS No. R 562 UL 94: n.m. LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 18 180 180 0 3 10 50 304\u00b126 330\u00b117 320\u00b126 313\u00b133 0.64\u00b10.11 0.57\u00b10.05 0.54\u00b10.05 0.52\u00b10.06 66.1\u00b111.9 77.6\u00b11.2 79.7\u00b15.3 76.9\u00b13.3 0 1 10 100 1000 0 1 10 100 Absorbed dose (MGy) Strength (MPa) \u2013 Deformation (%) Radiation effect on Cyanate ester laminate R 562 Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 71,
+    "page": 54,
+    "text": "D Dacron trade name of Dupont for polyester \ufb01bres, see Ref. [25]; RI = 5.5 Delrin trade name of DUPONT de Nemours for polyoxymethylene (POM), see polyoxymethylene (POM) Dobeckan IF trade name for polyurethane, see Ref. [25]; RI > 7 Dobeckot trade name for epoxy resins, see Ref. [25]; RI < 7 Durotenax trade name of ISOLA for bisphenol A epoxy, see epoxy resins",
+    "chem": 1
+  },
+  {
+    "chunk_id": 72,
+    "page": 56,
+    "text": "E Envex trade name for polyimide (PI) Epikote trade name of SHELL for epoxy resin Epoxy resins for chemical formulas, see Appendix 2 and Ref. [25] Araldite B, D, F trade names of CIBA-GEIGY, see Araldite Bisphenol A epoxy (BPA) Durotenax Epikote Novolac, see Ref. [25] Samicatherm Scotchcast, epoxy base compound Vetresit for behaviour under cryogenic irradiation, see Ref. [35] Epoxy based laminates, see also CFRP Epoxy based prepreg Epoxy moulding compound Araldite NU 460, 461, 471, 481, 487, 505, 511, 514. See Araldite Neonit Ertalon trade name of ERTA-EPEC for polyamides, see polyamide Ertalyte trade name of ERTA for PETP, see PETP Ertapeek trade name of ERTA-EPEC for polyether-ether-ketone, see PEEK Ertaxel trade name of ERTA-EPEC for PPS, see PPS Etronax trade name of Elektro-Isola for phenolic resins, see phenolic resins",
+    "chem": 1
+  },
+  {
+    "chunk_id": 73,
+    "page": 57,
+    "text": "List of materials classi\ufb01ed under letter E TIS Material Type Mechanical properties number name UTS (MPa) Deform. (%) Modulus (MPa) RI 409 Epoxy + glass mat HGW 2372.4 453.3 2.3 22.08 > 8 414 Epoxy laminate \u2013 prepreg Isopreg 0.28 VP 288 371.1 2.6 16.8 > 7.7 417 Epikote + Aramid \ufb01ber Arenka 900 247.6 3.8 14.4 > 6.7 422 Epoxy resin MY745/EPN1138/CY221/HY905/DY073 153 13.1 3.8 6.6 423 Epoxy resin MY745/HY906/DY073 148.1 8.8 3.8 7.1 424 Epoxy resin (based on Bisphenol A) Durotenax 61.2 1.05 5.93 6.7 426 Epoxy + glass \ufb01bres Vetresit 1101 1341.5 3.2 42.8 7.9 427 Epoxy (cycloaliphatic) + glass Vetresit 312 547.4 1.88 31.03 7.7 428 Epoxy (cycloaliphatic) + glass Vetresit 300 388.4 2.33 18.75 7.9 433 Epoxy resin (based on Bisphenol A) Durotenax Art. 521-02 141.2 1.58 10.09 7.5 434 Epoxy resin (based on Bisphenol A) + Methyl hexahydrophtal. anhydr. 78.3 2.19 3.6 6.5 437 Epoxy moulding compound Neonit EG61 92.9 1.03 10.77 ~ 7.1 460 Epoxy resin SIB3309 + tape:Samicapor 326.95-47X 116.7 0.54 31.7 7.3 461 Epoxy resin SIB3309 + tape:Samicapor 326.96-86X 162.8 0.52 41.4 > 8 465 Epoxy resin + glass fabric G-Etronax EP11 387.6 2.28 18.7 > 7.5 466 Epoxy moulding compound MY790 + HY1102BD 84 2.24 3.91 6.5 467 Epoxy resin + Mica + GF MY790 + HY1102BD 544.7 2.87 23",
+    "chem": 1
+  },
+  {
+    "chunk_id": 74,
+    "page": 57,
+    "text": "41.4 > 8 465 Epoxy resin + glass fabric G-Etronax EP11 387.6 2.28 18.7 > 7.5 466 Epoxy moulding compound MY790 + HY1102BD 84 2.24 3.91 6.5 467 Epoxy resin + Mica + GF MY790 + HY1102BD 544.7 2.87 23 7.4 468 Epoxy \u2013 prepreg Isopreg EP spess 0.33 354.8 1.79 22.6 > 8 502 Epoxy moulding compound R112 + H232 57.6 > 12 1.57 7.1 506 Epoxy laminated + glass ACO1+GLASS A 408 1.96 22.98 7.3 507 Epoxy laminated + glass ACO2+GLASS A 431.3 2.47 22.13 7.4 508 Epoxy laminated + glass ACO1+GLASS B 404.7 2.1 23.1 7.5 509 Epoxy laminated + glass ACO2+GLASS B 459.1 2.06 24.1 7.5 511 Epoxy Scotchcast 9 34.3 > 12 1.5 6.8 512 Epoxy Scotchcast 281 32.9 > 12 2.3 < 6.5 514 Epoxy Scotchcast 804 90.5 5.44 2.4 < 6.5 515 Epoxy Scotchcast 824 54.6 1.53 5.6 6.8 525 Epoxy A + glass + Kevlar Novolac resin 376.5 2.05 33.3 6.9 539 Epoxy resin Vetronite 362.9 2.1 20.9 > 7.7 540 Epoxy resin + mineral \ufb01ller + glass mica + Dacron Samicatherm 143.5 1.14 19.8 7.6 541 Epoxy resin XNR 4153 / XNH 4153 111.5 1.18 11.34 6.8 554 Epoxy resin AS/37-3 126 8.4 2.9 6.1 557 Epoxy moulding compound Matramid 5292A/B 165 6.27 3.9 7.6 564 Epoxy laminate Isopreg EP 0316",
+    "chem": 1
+  },
+  {
+    "chunk_id": 75,
+    "page": 57,
+    "text": "143.5 1.14 19.8 7.6 541 Epoxy resin XNR 4153 / XNH 4153 111.5 1.18 11.34 6.8 554 Epoxy resin AS/37-3 126 8.4 2.9 6.1 557 Epoxy moulding compound Matramid 5292A/B 165 6.27 3.9 7.6 564 Epoxy laminate Isopreg EP 0316 239 1.14 n.m. 7.8 565 Epoxy laminate Isopreg EP 1037/IDT 552 2.46 30.3 > 8",
+    "chem": 0
+  },
+  {
+    "chunk_id": 76,
+    "page": 58,
+    "text": "CERN 98\u201301/A3/E Critical property = \ufb02exural strength Radiation index (RI) = > 8 at a mean dose rate of 220 kGy/h Material: Type Supplier: Remarks: Epoxy + glass mat HGW 2372.4 Elin Union LEP-QP insulations based on EPN 1138 from Ciba-Geigy TIS No. R 409 UL 94: n.m. LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 220 220 220 220 0 10 30 50 100 453\u00b115 445\u00b113 429\u00b116 419\u00b125 360\u00b126 2.3\u00b10.1 2.24\u00b10.06 2.27\u00b10.07 2.30\u00b10.11 2.05\u00b10.21 22.1\u00b10.42 22.2\u00b10.45 22.1\u00b10.42 21.7\u00b10.3 21.7\u00b10.59 0 1 10 100 1000 0 1 100 10 Absorbed dose (MGy) Strength (MPa) \u2013 Deformation (%) Radiation effect on insulating resin R 409 Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 77,
+    "page": 59,
+    "text": "CERN 98\u201301/A3/E Critical property = \ufb02exural strength Radiation index (RI) = > 7.7 at a mean dose rate of 220 kGy/h Material: Type Supplier: Remarks: Epoxy laminate \u2013 prepreg ISOPREG 0.28 VP 288 Isovolta via Ansaldo TIS No. R 414 UL 94: n.m. LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 220 220 220 0 5 10 50 371\u00b113 350\u00b112 362\u00b116 272\u00b114 2.6\u00b10.1 2.6\u00b10.2 2.7\u00b10.2 2.2\u00b10.4 16.8\u00b10.7 19.6\u00b10.8 17.7\u00b11.0 16.5\u00b10.4 0 1 10 100 1000 0 1 10 100 Absorbed dose (MGy) Strength (MPa) \u2013 Deformation (%) Radiation effect on insulating resin R 414 Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 78,
+    "page": 60,
+    "text": "CERN 98\u201301/A3/E Critical property = \ufb02exural strength Radiation index (RI) > 6.7 at a mean dose rate of 220 kGy/h Material: Type Supplier: Remarks: Epikote + Aramid \ufb01bre Arenka 900 Enka (D) SC coils TIS No. R 417 UL 94: n.m. LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 220 220 220 0 0.5 1 5 248\u00b135 251\u00b184 279\u00b133 240\u00b134 3.79\u00b10.8 2.93\u00b10.64 3.86\u00b10.71 3.04\u00b10.34 14.4\u00b13.7 17.0\u00b14.6 14.4\u00b12.7 14.9\u00b11.7 0 1 10 100 1000 0 1 10 100 Absorbed dose (MGy) Strength (MPa) \u2013 Deformation (%) Radiation effect on insulating resin R 417 Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 79,
+    "page": 61,
+    "text": "CERN 98\u201301/A3/E Radiation index (RI) = 6.9 if strength is the critical property Radiation index (RI) = 6.6 if deformation is the critical property Material: Type Supplier: Remarks: Epoxy resin MY 745 (50) + EPN 1138 (50) + CY 221 (20) + HY 905 (120) + DY 073 (0.3) Ciba-Geigy used for the ISR dipoles TIS No. R 422 UL 94: n.m. LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 0.2 0.2 180 180 0.5 180 0 0.5 2.0 5 10 12 20 153\u00b13 142\u00b11 140\u00b11 93\u00b12 73\u00b13 71\u00b16 13\u00b11 13.1\u00b11.9 12.9\u00b10.3 7.9\u00b10.3 6.1\u00b10.3 4.2\u00b10.2 2.1\u00b10.2 1.1\u00b10.1 3.80\u00b10.03 3.50\u00b10.02 3.50\u00b10.02 4.00\u00b10.03 4.10\u00b10.04 3.7\u00b10.1 3.40\u00b10.04 0 1 10 100 1000 0 1 10 100 Absorbed dose (MGy) Strength (MPa) \u2013 Deformation (%) Radiation effect on Epoxy resin R 422 Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 80,
+    "page": 62,
+    "text": "CERN 98\u201301/A3/E Radiation index (RI): 6.6 at 500 Gy/h Radiation index (RI): 7.1 at 180 kGy/h Comment: Dotted lines correspond to long-term irradiation. Material: Type Supplier: Remarks: Epoxy resin MY 745 (100) + HY 906 (90) + DY 073 (1.5) Ciba-Geigy used for the SPS dipoles TIS No. R 423 UL 94: n.m. LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 0.2 0.2 180 180 0.5 180 0 0.4 2 5 10 12 20 148\u00b115 149\u00b11 118\u00b133 118\u00b110 98\u00b15 45\u00b16 43\u00b14 8.8\u00b11.3 12.9\u00b10.8 7.1\u00b13.7 10\u00b12 7.2\u00b11.4 1.3\u00b10.1 3.2\u00b10.6 3.8\u00b10.1 3.47\u00b10.01 3.47\u00b10.01 3.7\u00b10.3 4.1\u00b10.4 3.7\u00b10.3 4.2\u00b10.4 0 1 10 100 1000 0 1 10 100 Absorbed dose (MGy) Strength (MPa) \u2013 Deformation (%) Radiation effect on Epoxy resin R 423 Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 81,
+    "page": 63,
+    "text": "CERN 98\u201301/A3/E Critical property = \ufb02exural strength Radiation index (RI) = 6.6 at a mean dose rate of 220 kGy/h Material: Type Supplier: Remarks: Epoxy resin (based on Bisphenol A) Durotenax Isola (CH) protection against X-rays TIS No. R 424 UL 94: n.m. LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 220 220 0 1 5 61.2\u00b15.2 58.6\u00b17.3 26.9\u00b13.2 1.05\u00b10.09 0.88\u00b10.11 0.43\u00b10.04 5.93\u00b10.10 6.33\u00b10.17 6.30\u00b10.25 0 1 10 100 0 1 10 100 Absorbed dose (MGy) Strength (MPa) \u2013 Deformation (%) Radiation effect on insulating resin R 424 Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 82,
+    "page": 64,
+    "text": "CERN 98\u201301/A3/E Critical property = \ufb02exural strength Radiation index (RI) = 7.9 at a mean dose rate of 170 kGy/h Material: Type Supplier: Remarks: Epoxy + glass \ufb01bres Vetresit 1101 Mica\ufb01l TIS No. R 426 UL 94: n.m. LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 170 170 170 170 0 5 10 50 100 1342\u00b161 1282\u00b174 1351\u00b153 1017\u00b165 543\u00b1132 3.20\u00b10.14 3.10\u00b10.18 3.17\u00b10.26 3.44\u00b10.29 2.18\u00b10.32 42.8\u00b10.9 43.2\u00b11.1 43.5\u00b10.9 42.7\u00b11.6 35.8\u00b13.8 0 1 10 100 1000 10000 0 1 10 100 Absorbed dose (MGy) Strength (MPa) \u2013 Deformation (%) Radiation effect on insulating resin R 426 Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 83,
+    "page": 65,
+    "text": "CERN 98\u201301/A3/E Critical property = \ufb02exural strength Radiation index (RI) = 7.7 at a mean dose rate of 170 kGy/h Material: Type Supplier: Remarks: Epoxy (cycloaliphatic) + glass Vetresit 312 Mica\ufb01l + roving glass TIS No. R 427 UL 94: n.m. LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 170 170 170 170 0 5 10 50 100 547\u00b126 533\u00b126 529\u00b133 266\u00b121 43\u00b17 1.88\u00b10.13 1.83\u00b10.16 1.94\u00b10.17 1.08\u00b10.08 0.56\u00b10.26 31.0\u00b11.7 31.9\u00b11.5 31.2\u00b10.8 27\u00b11.5 17.8\u00b11.8 0 1 10 1000 0 1 10 100 Absorbed dose (MGy) Strength (MPa) \u2013 Deformation (%) Radiation effect on insulating resin R 427 Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 84,
+    "page": 66,
+    "text": "CERN 98\u201301/A3/E Critical property = \ufb02exural strength Radiation index (RI) = 7.9 at a mean dose rate of 170 kGy/h Material: Type Supplier: Remarks: Epoxy (cycloaliphatic) + glass Vetresit 300 Mica\ufb01l + glass mat TIS No. R 428 UL 94: n.m. LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 170 170 170 170 0 5 10 50 100 388\u00b111 359\u00b118 386\u00b121 284\u00b112 178\u00b17 2.33\u00b10.06 2.29\u00b10.14 2.47\u00b10.13 2.06\u00b10.05 1.48\u00b10.25 18.8\u00b10.4 18.1\u00b11 18.1\u00b11 17.8\u00b10.5 15.7\u00b11.1 0 1 10 100 1000 0 1 10 100 Absorbed dose (MGy) Strength (MPa) \u2013 Deformation (%) Radiation effect on insulating resin R 428 Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 85,
+    "page": 67,
+    "text": "CERN 98\u201301/A3/E Critical property = deformation Radiation index (RI) = 7.5 at a mean dose rate of 220 kGy/h Material: Type Supplier: Remarks: Epoxy resin (based on Bisphenol A) Durotenax Art. 521-02 Isola Bisphenol A + quartz-powder TIS No. R 433 UL 94: n.m. LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 220 220 220 0 5.2 10 30 141\u00b18 119\u00b14 114\u00b13 78\u00b12 1.58\u00b10.11 1.24\u00b10.05 1.1\u00b10.1 0.79\u00b10.02 10.1\u00b10.6 10.4\u00b10.6 11.2\u00b10.5 10.4\u00b10.4 0 1 10 100 1000 0 1 10 100 Absorbed dose (MGy) Strength (MPa) \u2013 Deformation (%) Radiation effect on insulating resin R 433 Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 86,
+    "page": 68,
+    "text": "CERN 98\u201301/A3/E Critical property = \ufb02exural strength Radiation index (RI) = > 7 at a mean dose rate of 170 kGy/h Radiation index (RI) = > 6 at a mean dose rate of 100 Gy/h Comment: Dotted lines correspond to long-term irradiation. Material: Type Supplier: Remarks: Epoxy resin (based on Bisphenol A) + Methyl Hexahydrophtal Anhydride Elin Union Dipole for SPS-LEP transfer lines TIS No. R 434 UL 94: n.m. LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 0.1 170 170 0 1 5.2 10 78\u00b122 47\u00b19 76\u00b115 57\u00b14 2.2\u00b10.5 1.5\u00b10.2 2.2\u00b10.4 1.6\u00b10.1 3.6\u00b10.5 3.0\u00b10.3 3.6\u00b10.2 3.5\u00b10.1 0 1 10 100 0 1 10 100 Absorbed dose (MGy) Strength (MPa) \u2013 Deformation (%) Radiation effect on Epoxy R 434 Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 87,
+    "page": 69,
+    "text": "CERN 98\u201301/A3/E Critical property = deformation Radiation index (RI) = 7.5 at a mean dose rate of 220 kGy/h Material: Type Supplier: Remarks: Epoxy moulding compound Neonit EG 61 Ciba-Geigy not cured TIS No. R 437 UL 94: n.m. LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 220 220 220 220 0 5 10 30 100 92.9\u00b12.7 86.8\u00b114.4 89.6\u00b111.4 55.8\u00b18.7 39.9\u00b16.9 1.03\u00b10.11 0.88\u00b10.17 0.85\u00b10.11 0.51\u00b10.08 0.39\u00b10.07 10.8\u00b11 11.4\u00b10.4 12.2\u00b10.6 12.7\u00b10.3 11.4\u00b10.2 0 1 10 100 0 1 10 100 Absorbed dose (MGy) Strength (MPa) \u2013 Deformation (%) Radiation effect on insulating resin R 437 Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 88,
+    "page": 70,
+    "text": "CERN 98\u201301/A3/E Critical property = \ufb02exural strength Radiation index (RI) = 7.3 at a mean dose rate of 220 kGy/h Material: Type Supplier: Remarks: Epoxy resin SIB 3309 + tape tape: Samicapor 326.95-47X Isola LEP-QP insulations based on EPN 1138 from Ciba-Geigy TIS No. R 460 UL 94: n.m. LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 220 220 220 220 0 3 10 30 100 117\u00b18 110\u00b16 87\u00b121 48\u00b112 46\u00b16 0.54\u00b10.08 0.49\u00b10.07 0.42\u00b10.06 0.5\u00b10.1 0.57\u00b10.06 31.7\u00b11.6 31.9\u00b12.1 27.4\u00b16.1 15.0\u00b12.5 11.2\u00b11.9 0 1 10 100 1000 0 1 10 100 Absorbed dose (MGy) Strength (MPa) \u2013 Deformation (%) Radiation effect on insulating resin R 460 Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 89,
+    "page": 71,
+    "text": "CERN 98\u201301/A3/E Critical property = \ufb02exural strength Radiation index (RI) = > 8 at a mean dose rate of 220 kGy/h Material: Type Supplier: Remarks: Epoxy resin SIB 3309 + tape tape: Samicapor 326.96-86X Isola TIS No. R 461 UL 94: n.m. LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 220 220 220 220 0 3 10 30 100 163\u00b111.2 159\u00b113.5 135\u00b113.0 104\u00b110.0 85\u00b13.0 0.52\u00b10.08 0.51\u00b10.05 0.52\u00b10.07 0.69\u00b10.05 0.58\u00b10.15 41.4\u00b11.7 40.2\u00b12.2 36.2\u00b11.8 19.4\u00b15.8 16.9\u00b12.5 Radiation effect on insulating resin R 461 0 1 10 100 1000 0 1 10 100 Absorbed dose (MGy) Strength (MPa) \u2013 Deformation (%) Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 90,
+    "page": 72,
+    "text": "CERN 98\u201301/A3/E Critical property = none Radiation index (RI) = > 7.5 at a mean dose rate of 220 kGy/h Material: Type Supplier: Remarks: Epoxy resin + glass fabric G-Etronax EP 11 Elektro-Isola insulations for the dipoles in LEP TIS No. R 465 UL 94: n.m. LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 220 220 220 220 0 1 3 5 30 388\u00b123 413\u00b131 418\u00b121 418\u00b130 383\u00b111 2.28\u00b10.11 2.34\u00b10.16 2.35\u00b10.12 2.34\u00b10.08 2.2\u00b10.1 18.7\u00b10.5 20.0\u00b11.0 20.9\u00b11.8 20.0\u00b11.0 21.9\u00b10.9 Radiation effect on insulating resin R 465 0 1 10 100 1000 0 1 10 100 Absorbed dose (MGy) Strength (MPa) \u2013 Deformation (%) Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 91,
+    "page": 73,
+    "text": "CERN 98\u201301/A3/E Critical property = \ufb02exural strength Radiation index (RI) = 6.9 at a mean dose rate of 220 kGy/h Radiation index (RI) = 6.5 at a mean dose rate of 1000 Gy/h Comment: Dotted lines correspond to long-term irradiation. Material: Type Supplier: Remarks: Epoxy moulding compound MY 790 + HY 1102BD Ciba-Geigy via Elin Union TIS No. R 466 UL 94: n.m. LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 0.1 1 220 220 220 0 1 3 10 30 50 84\u00b119 69\u00b115 43\u00b18 41\u00b19 12\u00b12 9\u00b13 2.24\u00b10.56 1.82\u00b10.35 1.21\u00b10.23 1.16\u00b10.24 0.34\u00b10.05 0.25\u00b10.08 3.91\u00b10.25 3.87\u00b10.04 3.74\u00b10.11 3.64\u00b10.08 3.78\u00b10.23 3.6\u00b10.4 0 1 10 100 0 1 10 100 Absorbed dose (MGy) Strength (MPa) \u2013 Deformation (%) Radiation effect on Epoxy R 466 Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 92,
+    "page": 74,
+    "text": "CERN 98\u201301/A3/E Critical property = \ufb02exural strength Radiation index (RI) = 7.6 at a mean dose rate of 220 kGy/h Radiation index (RI) = 7.4 at a mean dose rate of 1000 Gy/h Comment: Dotted lines correspond to long-term irradiation. Material: Type Supplier: Remarks: Epoxy MY 790 + HY 1102 BD = R 466 + Mica + glass \ufb01bres Ciba-Geigy via Elin Union This resin is used for the AA magnets TIS No. R 467 UL 94: n.m. LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 1 220 1 220 220 0 3 10 12 30 50 545\u00b19 463\u00b128 490\u00b135 398\u00b131 371\u00b119 250\u00b112 2.87\u00b10.08 2.54\u00b10.08 2.7\u00b10.1 2.42\u00b10.04 2.0\u00b10.1 1.56\u00b10.35 23.0\u00b10.1 21.8\u00b11.5 22.0\u00b11.5 20.9\u00b11.2 22.7\u00b11.1 21.6\u00b11.1 0 1 10 100 1000 0 1 10 100 Absorbed dose (MGy) Strength (MPa) \u2013 Deformation (%) Radiation effect on Epoxy composite R 467 Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 93,
+    "page": 75,
+    "text": "CERN 98\u201301/A3/E Critical property = \ufb02exural strength Radiation index (RI) = > 8 at a mean dose rate of 200 kGy/h Radiation index (RI) = 6.2 at a mean dose rate of 200 Gy/h Comment: Low-dose rate irradiations \u2014 dotted lines \u2014 correspond to life irradiation in LEP. Material: Type Supplier: Remarks: Epoxy laminate \u2013 prepreg Isopreg EP spess 0.33 Isovolta Used by Ansaldo for LEP dipoles TIS No. R 468 UL 94: n.m. LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Irradiation Conditions Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 0.02 0.20 2 220 2 200 200 0 0.25 3 3 8 12 30 100 LEP LEP Co-60 reactor Co-60 reactor reactor 355\u00b128 331\u00b116 115\u00b128 432\u00b121 446\u00b125 426\u00b134 420\u00b125 281\u00b19 1.79\u00b10.05 1.99\u00b10.03 0.54\u00b10.15 2.09\u00b10.05 2.11\u00b10.02 2.18\u00b10.05 2.03\u00b10.04 1.72\u00b10.08 22.6\u00b12.3 22.6\u00b11.1 18.4\u00b11.0 22.9\u00b10.4 23.6\u00b11.4 20.8\u00b12.2 23.3\u00b11.6 18.4\u00b10.7 Radiation effect on Isopreg R 468 0 1 10 100 1000 0.0 0.1 1.0 10.0 100.0 1000.0 Absorbed dose (MGy) Strength (MPa) - Deformation (%) 20 Gy/h 200 Gy/h 2 kGy/h 200 kGy/h Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 94,
+    "page": 76,
+    "text": "CERN 98\u201301/A3/E Critical property = deformation Radiation index (RI) = ~ 7.1 at a mean dose rate of 220 kGy/h Material: Type Supplier: Remarks: Epoxy moulding compound R112 + H 232 Ciba-Geigy via L.E. Pink TIS No. R 502 UL 94: n.m. LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 4 220 220 0 5 10 30 57.6\u00b11.8 64.7\u00b13 49.4\u00b19.4 16.2\u00b14.7 > 12 > 12 9.87\u00b14.36 1.07\u00b10.36 1.57\u00b10.05 1.8\u00b10.1 1.49\u00b10.37 1.58\u00b10.15 0 1 10 100 0 1 10 100 Absorbed dose (MGy) Strength (MPa) \u2013 Deformation (%) Radiation effect on insulating resin R 502 Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 95,
+    "page": 77,
+    "text": "CERN 98\u201301/A3/E Critical property = \ufb02exural strength Radiation index (RI) = 7.3 at a mean dose rate of 220 kGy/h Comment: Dotted lines correspond to long-term irradiation. Material: Type Supplier: Remarks: Epoxy laminate + glass ACO 1 + GLASS A Ciba-Geigy via Ansaldo VPI product TIS No. R 506 UL 94: n.m. LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 220 220 250 10 220 0 3 10 30 30.4 100 408\u00b115 388\u00b111 393\u00b113 154\u00b18 44\u00b14 43\u00b111 1.96\u00b10.04 2.06\u00b10.24 2.02\u00b10.07 0.92\u00b10.03 0.73\u00b10.04 0.45\u00b10.07 23\u00b11.1 23\u00b10.9 24\u00b10.9 21.2\u00b12.1 6.8\u00b10.4 12.6\u00b13.4 Radiation effect on insulating resin R 506 0 1 10 100 1000 0 1 10 100 1000 Absorbed dose (MGy) Strength (MPa) - Deformation (%) Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 96,
+    "page": 78,
+    "text": "CERN 98\u201301/A3/E Critical property = \ufb02exural strength Radiation index (RI) = 7.4 at a mean dose rate of 220 kGy/h Radiation index (RI) = 7.0 at a mean dose rate of 10 kGy/h Comment: Dotted lines correspond to long-term irradiation. Material: Type Supplier: Remarks: Epoxy laminate + glass ACO 2 + GLASS A Ciba-Geigy via Ansaldo VPI product TIS No. R 507 UL 94: n.m. LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 220 220 220 10 220 0 3 10 30 30.4 100 431\u00b125 409\u00b118 431\u00b110 243\u00b123 150\u00b114 80\u00b116 2.47\u00b10.12 2.50\u00b10.24 2.11\u00b10.13 1.66\u00b10.13 0.87\u00b10.17 0.81\u00b10.10 22.1\u00b11.78 21.2\u00b11.78 23.4\u00b11.16 19.5\u00b12.07 18.9\u00b11.92 15\u00b13.03 Radiation effect on insulating resin R 507 0 1 10 100 1000 0 1 10 100 1000 Absorbed dose (MGy) Strength (MPa) - Deformation (%) Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 97,
+    "page": 79,
+    "text": "CERN 98\u201301/A3/E Critical property = \ufb02exural strength Radiation index (RI) = 7.5 at a mean dose rate of 220 kGy/h Radiation index (RI) = 6.2 at a mean dose rate of 10 kGy/h Comment: Dotted lines correspond to long-term irradiation. Material: Type Supplier: Remarks: Epoxy laminate + glass ACO 1+ GLASS B Ciba-Geigy via Ansaldo VPI product TIS No. R 508 UL 94: n.m. LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 220 220 220 10 220 0 3 10 30 30 100 405\u00b113.8 406\u00b119.9 383\u00b120.2 213\u00b111.8 87\u00b13.1 46\u00b19.0 2.05\u00b10.10 2.06\u00b10.22 1.83\u00b10.12 1.52\u00b10.15 0.61\u00b10.08 0.41\u00b10.06 23.1\u00b10.7 23.0\u00b10.9 23.3\u00b10.9 19.8\u00b10.7 15.6\u00b10.6 13.6\u00b11.9 Radiation effect on insulating resin R 508 0 1 10 100 1000 0 1 10 100 1000 Absorbed dose (MGy) Strength (MPa) - Deformation (%) Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 98,
+    "page": 80,
+    "text": "CERN 98\u201301/A3/E Critical property = \ufb02exural strength Radiation index (RI) = 7.6 at a mean dose rate of 220 kGy/h Radiation index (RI) = 6 at a mean dose rate of 10 kGy/h Comment: Dotted lines correspond to long-term irradiation. Material: Type Supplier: Remarks: Epoxy laminate + glass ACO 2+ GLASS B Ciba-Geigy via Ansaldo VPI product TIS No. R 509 UL 94: n.m. LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 220 220 220 10 220 0 3 10 30 30.4 100 459\u00b128 465\u00b119 439\u00b129 258\u00b17 28.2\u00b10.4 74.4\u00b15 2.06\u00b10.13 2.09\u00b10.15 2.09\u00b10.06 1.84\u00b10.06 0.77\u00b10.08 0.75\u00b10.10 24.1\u00b11.6 24.4\u00b10.5 25.8\u00b10.9 18.8\u00b10.7 19.1\u00b10.3 14.3\u00b11.3 Radiation effect on insulating resin R 509 0 1 10 100 1000 0 1 10 100 1000 Absorbed dose (MGy) Strength (MPa) - Deformation (%) Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 99,
+    "page": 81,
+    "text": "CERN 98\u201301/A3/E Critical property = deformation for short term and \ufb02exural strength for long term Radiation index (RI) =7 at a mean dose rate of 200 kGy/h Radiation index (RI) = 6 at a mean dose rate of 3000 Gy/h Comment: Dotted line corresponds to long-term irradiation. Material: Type Supplier: Remarks: Epoxy Scotchcast 9 3M mid-\ufb02exibility (cold) TIS No. R 511 UL 94: n.m. LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 200 3 3 200 200 0 3.4 5 10 10 29 34.3\u00b13.7 26.4\u00b13.2 9.5\u00b12.1 10.4\u00b11.1 31.1\u00b14.7 24.6\u00b13.5 > 12 > 12 > 12 > 12 > 12 2.52\u00b11.84 1.5\u00b10.2 1.5\u00b10.1 0.7\u00b10.1 1.0\u00b10.1 1.9\u00b10.1 2.1\u00b10.5 0 1 10 100 0 1 10 100 Absorbed dose (MGy) Strength (MPa) \u2013 Deformation (%) Radiation effect on Epoxy R 511 Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 100,
+    "page": 82,
+    "text": "CERN 98\u201301/A3/E Critical property = deformation Radiation index (RI) = < 6.5 at a mean dose rate of 200 kGy/h Radiation index (RI) = < 6.5 at a mean dose rate of 3000 Gy/h Material: Type Supplier: Remarks: Epoxy Scotchcast 281 3M mid-\ufb02exibility (cold) TIS No. R 512 UL 94: n.m. LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 200 3 3 200 200 0 3.4 5 10 10 29 32.9\u00b10.6 65.2\u00b13.4 58.0\u00b14.4 47.4\u00b17.9 47.6\u00b12.6 25.3\u00b15.8 >12 1.5\u00b10.1 1.5\u00b10.2 1.2\u00b10.3 1.0\u00b10.1 0.8\u00b10.2 2.3\u00b10.1 5.2\u00b10.2 4.7\u00b10.3 4.8\u00b10.1 5.5\u00b10.1 4.0\u00b10.2 0 1 10 100 0 1 10 100 Absorbed dose (MGy) Strength (MPa) \u2013 Deformation (%) Radiation effect on Epoxy R 512 Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 101,
+    "page": 83,
+    "text": "CERN 98\u201301/A3/E Critical property = \ufb02exural strength Radiation index (RI) < 6.5 at a mean dose rate of 200 kGy/h Radiation index (RI) < 6.7 at a mean dose rate of 3000 Gy/h Comment: Dotted lines correspond to long-term irradiation. Material: Type Supplier: Remarks: Epoxy Scotchcast 804 3M rigid (cold) contains chlorine TIS No. R 514 UL 94: n.m. LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 200 3 0 3.4 5 90.5\u00b19.6 19.6\u00b10.3 8.5\u00b10.1 5.4\u00b11.5 0.9\u00b10.3 0.5\u00b10.1 2.4\u00b10.1 2.3\u00b10.8 1.9\u00b10.1 0 1 10 100 0 1 10 100 Absorbed dose (MGy) Strength (MPa) \u2013 Deformation (%) Radiation effect on Epoxy R 514 Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 102,
+    "page": 84,
+    "text": "CERN 98\u201301/A3/E Critical property = deformation Radiation index (RI) = 6.8 at a mean dose rate of 200 kGy/h Radiation index (RI) = 6.8 at a mean dose rate of 3000 Gy/h Comment: Dotted lines correspond to long-term irradiation. Material: Type Supplier: Remarks: Epoxy Scotchcast 824 3M rigid (cold) TIS No. R 515 UL 94: n.m. LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 200 3 3 200 200 0 3.4 5 10 10 29 54.6\u00b13.1 57.5\u00b12.2 41.0\u00b13.4 21.5\u00b12.7 39.3\u00b110.6 16.6\u00b15.2 1.53\u00b10.11 0.94\u00b10.03 1.2\u00b10.1 0.44\u00b10.03 0.6\u00b10.2 0.3\u00b10.1 5.6\u00b10.6 7.5\u00b10.4 5.0\u00b10.3 6.0\u00b10.4 8.2\u00b10.6 6.7\u00b10.8 0 1 10 100 0 1 10 100 Absorbed dose (MGy) Strength (MPa) \u2013 Deformation (%) Radiation effect on Epoxy R 515 Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 103,
+    "page": 85,
+    "text": "CERN 98\u201301/A3/E Critical property = \ufb02exural strength Radiation index (RI) = 6.9 at a mean dose rate of 210 kGy/h Radiation index (RI) > 6.9 at a mean dose rate of 1000 Gy/h Material: Type Supplier: Remarks: Epoxy A + glass + Kevlar Novolac resin + \ufb01bres Isovolta prepreg for LHC magnets for coil insulation TIS No. R 525 UL 94: n.m. LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 240 1 210 210 220 0 3 8 10 50 100 377\u00b19 289\u00b18 337\u00b119 169\u00b121 280\u00b15 139\u00b142 2.05\u00b10.02 1.62\u00b10.07 2.05\u00b10.21 0.95\u00b10.11 1.58\u00b10.06 1.68\u00b11.92 33.3\u00b11.4 30.3\u00b10.8 29.4\u00b10.9 27.1\u00b12.4 29.0\u00b11.0 26.3\u00b13.9 0 1 10 100 1000 0 1 10 100 Absorbed dose (MGy) Strength (MPa) \u2013 Deformation (%) Radiation effect on Epoxy R 525 Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 104,
+    "page": 86,
+    "text": "CERN 98\u201301/A3/E Critical property = \ufb02exural strength Radiation index (RI) > 7.7 at a mean dose rate of 220 kGy/h Material: Type Supplier: Remarks: Epoxy resin Vetronite Von Roll Isola grade tube 64770 TIS No. R 539 UL 94: n.m. LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 220 220 230 230 0 5 10 50 100 363\u00b133 280\u00b18 342\u00b120 264\u00b18 206\u00b120 2.10\u00b10.09 1.92\u00b10.06 1.90\u00b10.10 1.77\u00b10.08 1.31\u00b10.07 20.9\u00b11.3 18.7\u00b11.4 21.9\u00b10.3 20.1\u00b10.8 19.9\u00b11.3 Radiation effect on Epoxy Vetronite R 539 0 1 10 100 1000 0 1 10 100 Absorbed dose (MGy) Strength (MPa) - Deformation (%) Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 105,
+    "page": 87,
+    "text": "CERN 98\u201301/A3/E Critical property = Modulus Radiation index (RI) = 7.6 at a mean dose rate of 220 kGy/h Material: Type Supplier: Remarks: Epoxy resin + mineral \ufb01ller + glass mica + Dacron Samicatherm Ansaldo conductor insulation for the LHC dump TIS No. R 540 UL 94: n.m. LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 220 220 220 220 0 3 10 50 100 143\u00b114.5 141\u00b18.7 108\u00b115.9 76\u00b118.2 84\u00b17.5 1.14\u00b10.12 1.09\u00b10.09 1.28\u00b10.20 1.26\u00b10.13 1.55\u00b10.27 19.8\u00b13.1 20.2\u00b11.7 14.5\u00b13.3 8\u00b12 7\u00b12 Strength (MPa) - Deformation (%) 100 10 1 0 1000 100 10 1 0 Absorbeb dose (MGy) Radiation effect on insulating resin R 540 Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 106,
+    "page": 88,
+    "text": "CERN 98\u201301/A3/E Critical property = Deformation at break Radiation index (RI) = 6.9 at a mean dose rate of 220 kGy/h Material: Type Supplier: Remarks: Epoxy resin XNR 4153/XNH 4153 Ciba-Geigy (Japan) via Ansaldo TIS No. R 541 UL 94: n.m. LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 220 220 230 220 0 3 10 30 100 112\u00b13 84\u00b13 57\u00b13 61\u00b12 67\u00b12 1.18\u00b10.07 0.81\u00b10.04 0.48\u00b10.03 0.44\u00b10.01 0.46\u00b10.01 11.3\u00b10.3 11.6\u00b10.5 13.0\u00b10.6 15.9\u00b10.9 15.5\u00b10.8 Radiation effect on Epoxy 4153 R 541 0 1 10 100 1000 0 0 1 10 100 Absorbed dose (MGy) Strength (MPa) - Deformation (%) Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 107,
+    "page": 89,
+    "text": "CERN 98\u201301/A3/E Critical property = deformation Radiation index (RI) ~ 6.1 at a mean dose rate of 230 kGy/h Radiation index (RI) < 5.7 at a mean dose rate of 4 kGy/h Comments: At 10 MGy, one sample was tested, the four others were broken before test. Dotted lines correspond to long-term irradiation. Material: Type Supplier: Remarks: Epoxy resin AS/37-3 Ciba-Geigy TIS No. R 554 UL 94: n.m. DATE: Nov-97 Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 4 230 230 0.5 230 0 0.5 1 3 3 10 126\u00b12.2 93\u00b119.4 126\u00b14.1 48\u00b110.1 22+6.3 4\u00b1 8.35\u00b10.42 1.38\u00b10.44 5.82\u00b10.69 1.33\u00b10.28 0.26+0.08 0.26\u00b1 2.88\u00b10.09 7.79\u00b10.17 3.29\u00b10.05 3.82\u00b10.13 8.92+0.63 4.30\u00b1 0 1 10 100 1000 0 1 10 100 Absorbed dose (MGy) Strength (MPa) - Deformation (%) Radiation effect on Epoxy resin - R554 Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 108,
+    "page": 90,
+    "text": "CERN 98\u201301/A3/E Critical property = deformation Radiation index (RI) = 7.6 at a mean dose rate of 180 kGy/h Material: Type Supplier: Remarks: Epoxy moulding compound Matramid 5292 A/B (M 5.500/1) Ciba-Geigy TIS No. R 557 UL 94: LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 6 230 230 180 0 1 3 10 50 165\u00b13 152\u00b124 159\u00b18 152\u00b116 109\u00b121 6.27\u00b10.3 5.32\u00b11.4 5.83\u00b10.67 5.61\u00b10.97 2.80\u00b10.6 3.9\u00b10.06 3.9\u00b10.03 4.0\u00b10.04 4.0\u00b10.17 4.1\u00b10.19 0 1 10 100 1000 0 1 10 100 Absorbed dose (MGy) Strength (MPa) \u2013 Deformation (%) Radiation effect on Epoxy R 557 Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 109,
+    "page": 91,
+    "text": "CERN 98\u201301/A3/E Critical property = \ufb02exural strength Radiation index (RI) = 7.8 at a mean dose rate of 220 kGy/h Comment: Tests carried out at the \u00d6sterreichisches Forschungzentrum Seibersdorf. Material: Type Supplier: Remarks: Epoxy laminate ISOPREG EP 0316 ISOVOLTA AG TIS No. R 564 UL 94: n.m. LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 220 220 220 0 10 50 100 239\u00b161 243\u00b192 234\u00b169 40\u00b16 1.14\u00b10.35 1.84\u00b10.91 1.39\u00b10.64 1.60\u00b11.15 \u00b1 \u00b1 \u00b1 \u00b1 Absorbed dose (MGy) Strength (MPa) - Deformation (%) Radiation effect on Isopreg EP 0316 - R 564 0 1 10 100 1 0 10 100 1000 Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 110,
+    "page": 92,
+    "text": "CERN 98\u201301/A3/E Critical property = \ufb02exural strength Radiation index (RI) > 8 at a mean dose rate of 220 kGy/h Comment: Tests carried out at the \u00d6sterreichisches Forschungzentrum Seibersdorf. Material: Type Supplier: Remarks: Epoxy laminate ISOPREG EP 1037/IDT ISOVOLTA AG TIS No. R 565 UL 94: n.m. LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 220 220 220 0 10 50 100 552\u00b16 561\u00b17 479\u00b19 306\u00b18 2.46\u00b10.04 2.54\u00b10.11 2.61\u00b10.05 4.64\u00b10.39 30.3\u00b10.7 30.5\u00b10.6 32.1\u00b10.2 29.8\u00b11.4 Absorbed dose (MGy) Strength (MPa) - Deformation (%) 0 1 10 100 0 1 10 100 1000 Radiation effect on Isopreg EP 1037 - R 565 Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 111,
+    "page": 93,
+    "text": "F Fibredux trade name of CIBA-GEIGY for carbon \ufb01bre reinforced epoxy laminate, see CFRP",
+    "chem": 0
+  },
+  {
+    "chunk_id": 112,
+    "page": 95,
+    "text": "G G-Etronax trade name of Elektro-Isola for glass-reinforced epoxy resins GFRP glass \ufb01bre reinforced plastics; for behaviour under cryogenic irradiation, see Ref. [35] Araldite + glass \ufb01bres, see Araldite Epoxy + glass \ufb01bres, see Epoxy Epoxy laminates, see Epoxy Epoxy prepreg, see Epoxy Polyamides + glass \ufb01bres, see PA Polyesters + glass \ufb01bres, see Polyester Polyetherimide + glass \ufb01bres, see PEI Polyphenylsulfone + glass \ufb01bres, see PPS",
+    "chem": 0
+  },
+  {
+    "chunk_id": 113,
+    "page": 97,
+    "text": "I Isaryl trade name of Isonova for polyarylate (PAr), see polyarylate Isopreg trade name of Isovolta for epoxy pre-impregnated glass mat, see epoxy resin Isoval trade name of Isovolta for glass reinforced epoxy resin, see Ref. [25]; RI \u2245 7 Ixef trade name of Solvay for polyarylamide (PAA), see polyarylamide",
+    "chem": 1
+  },
+  {
+    "chunk_id": 114,
+    "page": 99,
+    "text": "K Kerimid trade name of Rh\u00f4ne-Poulenc for polyimide (PI), see Ref. [25]; RI = 7.8 Kevlar trade name of Dupont for para-aramid \ufb01bres; RI \u2245 7 Kinel trade name of Rh\u00f4ne-Poulenc for polyimide (PI), see Ref. [25]; RI = 7.9",
+    "chem": 1
+  },
+  {
+    "chunk_id": 115,
+    "page": 101,
+    "text": "L Laminates see CFRP, GFRP, epoxy and other corresponding Polymers Lexan trade name of General Electric Plastics for polycarbonates (PC) Liquid Crystal Polymer (LCP)",
+    "chem": 1
+  },
+  {
+    "chunk_id": 116,
+    "page": 102,
+    "text": "List of materials classi\ufb01ed under letter L TIS Material Type Mechanical properties number name UTS (MPa) Deform. (%) Modulus (MPa) RI 560 Liquid crystal polymer + 30% GF Vectra C130 131 2 8.8 > 7.7",
+    "chem": 1
+  },
+  {
+    "chunk_id": 117,
+    "page": 103,
+    "text": "CERN 98\u201301/A3/L Critical property = Radiation index (RI) > 7.7 at a mean dose rate of 230 kGy/h Radiation index (RI) > 7.0 at a mean dose rate of 10 kGy/h Material: Type Supplier: Remarks: Liquid Crystal Polymer + 30% GF Vectra C130 Celanese (USA) via Hoechst anisotropic material TIS No. R 560 UL 94: n.m. LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 185 10 190 230 0 1 9.4 10 50 131\u00b113 118\u00b136 124\u00b116 128\u00b126 113\u00b111 2.0\u00b10.2 2.9\u00b11.8 2.0\u00b10.2 2.1\u00b10.1 1.7\u00b10.1 8.8\u00b11.8 7.0\u00b12.0 7.7\u00b10.9 7.7\u00b11.6 7.7\u00b10.7 Radiation effect on Liquid Cristal Polymer R 560 0 1 10 100 1000 0 1 10 100 Absorbed dose (MGy) Strength (MPa) - Deformation (%) Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 118,
+    "page": 105,
+    "text": "M Makrolon trade name of BAYER for polycarbonates, see polycarbonate Matramid trade name of CIBA-GEIGY for epoxy moulding compound, see epoxy Micares trade name of Mica\ufb01l for polyurethanes, see Ref. [25] and PUR",
+    "chem": 1
+  },
+  {
+    "chunk_id": 119,
+    "page": 107,
+    "text": "N Neonite trade name of CIBA-GEIGY epoxy moulding compounds, see epoxy moulding compound Nogentite trade name of D.F.C. for polyester, see polyester Nomex trade name of Dupont for meta-aramid \ufb01bres, see Ref. [26]; RI \u2248 6.5 Noryl trade name of General Electric Plastics for PPO based compound, see PPO based compound Novolac trade name of ISOLA for epoxy resins, see Ref. [25] Nylon trade name of Dupont for polyamides",
+    "chem": 1
+  },
+  {
+    "chunk_id": 120,
+    "page": 109,
+    "text": "O Orlitherm trade name of BBC Baden for glass \ufb01bre reinforced epoxy resins based on DGEBA with MNA, see Ref. [25]; RI > 7.7",
+    "chem": 0
+  },
+  {
+    "chunk_id": 121,
+    "page": 111,
+    "text": "P Phenolic resin Plexiglas trade name of R\u00f6hm for polyarylates and PMMA Polyamide (PA) Polyamide-imide (PAI) Polyarylamide base thermoplastic (PAA) Polyaryl ether ketone (PAEK) Polyarylate (PAr) Polycarbonate (PC) Polyester Polyether-ether-ketone (PEEK); for behaviour under cryogenic irradiation, see Ref. [35] Polyetherimide (PEI); for behaviour under cryogenic irradiation, see Ref. [35] Polyethersulfone (PES); for behaviour under cryogenic irradiation, see Ref. [35] Polyethylene (PE) Polyethylene therephtalate PETP (for Mylar \ufb01lm, see Ref. [26]) Polyimide (PI) Polyimide + silicon copolymer (see silicon) Polymethyl-metacrylate (PMMA) Polyoximethylene (POM) Polypenco trade name of Cellpack for cross-linked styrene copolymer, see styrene Polyphenyl sulfone Polysulfone (PSu) Polyurethane (PUR) see also cyanate-ester Polyphenyl oxide (PPO) based compound Prepreg see epoxy",
+    "chem": 1
+  },
+  {
+    "chunk_id": 122,
+    "page": 112,
+    "text": "List of materials classi\ufb01ed under letter P TIS Material Type Mechanical properties number name UTS (MPa) Deform. (%) Modulus (MPa) RI 375 Polyphenyl Oxide based plastic Noryl ENV 125 77.6 > 5 2.3 < 6.5 416 Polyurethane Micares 700 95.4 3.30 5.09 7.7 419 Polycarbonate Makrolon 218 86.3 > 10 2.30 5.7 435 Polyester + glass mat Nogentite NR2-71A 141 2.39 6.8 > 7 459 Polyester + glass \ufb01bres Nogentite NZ-3 71E 96.1 1.25 11.2 > 7.5 464 Polyphenyl Oxide based plastic Noryl ENV 509 82.8 > 12 2.9 < 5 473 Polyester resin + glass \ufb01bres KK/RI 93.7 2.1 12.3 7.5 474 Polyester resin + glass \ufb01bres KK/530I 106 2.1 11 > 7 491 Polyphenyl Oxide based plastic Univolt HFT 68.1 > 6 2.59 6.7 499 Polyester resin + glass mat Polyester 1 215.9 3.6 5.89 > 7 500 Polyester resin + glass mat Polyester 2 148.1 3.77 5.3 > 7 501 Polyester resin + glass mat Polyester 3 129.6 3.6 3.5 > 7 503 Polyoximethylene Delrin 98.6 > 13 3.4 < 5 504 Polyetherimide + glass \ufb01bres Ultem 1000 288 2.83 10.5 > 8 513 Polyurethane, polyalcohol Scotchcast 800 114.6 6.5 3.0 6.8 516 Polyurethane, polyalcohol Scotchcast 840 0.9 > 12 0.0 6.5 520 PEEK Natural polyether-ether-ketone 176.9 > 15 4.30 6.8 521 Polyimide Sintimid 223.2 6.60 3.91",
+    "chem": 1
+  },
+  {
+    "chunk_id": 123,
+    "page": 112,
+    "text": "1000 288 2.83 10.5 > 8 513 Polyurethane, polyalcohol Scotchcast 800 114.6 6.5 3.0 6.8 516 Polyurethane, polyalcohol Scotchcast 840 0.9 > 12 0.0 6.5 520 PEEK Natural polyether-ether-ketone 176.9 > 15 4.30 6.8 521 Polyimide Sintimid 223.2 6.60 3.91 > 6.8 522 Polyetherimide + Siloxane Siltem STM1500 25.8 > 10 0.71 6.8 523 Polyarylamide base thermoplastic IXEF1002 274.1 2.71 11.30 7.5 524 Polyarylamide base thermoplastic IXEF1501 271.1 2.62 11.81 > 7.5 526 Polyamide 4.6 Ertalon 125.3 5.20 5.80 6.5 528 Polyamide 6 Ertalon 6PLA 97.6 > 15 2.50 6 529 Polyamide PA 6 Ertalon LFX 84.4 > 15 2.07 6 530 Polyamide 6 Ertalon 6XAU+ 76.1 > 15 1.84 6.5 531 PETP Ertalyte 134.8 > 15 3.28 5.7 532 PETP Ertalyte TX 119.9 6.37 3.05 8 533 Polyetherimide Erta PEI 171.0 > 15 3.15 > 7.7 534 Polyethersulfone Erta PES 140.7 > 15 2.70 6.3 535 Polysulfone Erta PSU 120.15 > 15 2.59 6.5 536 Polyamide 6 Ertalon 6 SA 63.4 > 15 1.38 ~ 7 537 Polyamide 66 Ertalon 66SA 101.6 > 15 2.4 6.5 542 Polyarylate Isaryl 15M 110.4 > 12 2.40 6.3 563 Polyaryl ether ketone Stilan/Ultrapek 153.0 > 6 5.46 > 7.5 568 Polyimide Vespel SP-1 91.9 4.18 2.52 > 7.5 569 Polyphenyl sulfone + glass \ufb01bres Ertaxel 89.3 3.32 3.29 > 7.5 570 Polyamide",
+    "chem": 1
+  },
+  {
+    "chunk_id": 124,
+    "page": 112,
+    "text": "15M 110.4 > 12 2.40 6.3 563 Polyaryl ether ketone Stilan/Ultrapek 153.0 > 6 5.46 > 7.5 568 Polyimide Vespel SP-1 91.9 4.18 2.52 > 7.5 569 Polyphenyl sulfone + glass \ufb01bres Ertaxel 89.3 3.32 3.29 > 7.5 570 Polyamide + 30% glass \ufb01bres Ertalon 66GF30 197 4.58 5.76 6.7 571 Polyoximethylene Ertacetal 101.0 > 15 3.09 4 572 Polyethylene Borolene 4505 23.8 > 15 1.11 ~ 5.7 573 Polyethylene Cestilene HD 1000 23.3 > 15 0.81 ~ 6 574 Polyethylene Cestilene HD 500 37.1 > 15 1.69 ~ 6.5 575 Polyethylene Cestidur 22.7 > 14.5 0.78 > 6.5 576 Polyethylene Cestitech 23.4 > 14 0.83 6.4 577 Polyamide-imide Torlon 4203 188.2 14.96 4.06 > 7.5 578 Polyamide-imide Torlon 4301 182.3 7.88 6.12 > 7.5",
+    "chem": 1
+  },
+  {
+    "chunk_id": 125,
+    "page": 113,
+    "text": "CERN 98\u201301/A3/P Critical property = deformation Radiation index (RI) = < 6.5 at a mean dose rate of 220 kGy/h Material: Type Supplier: Remarks: Polyphenyl oxide (PPO) based plastic Noryl ENV 125 Angst & P\ufb01ster no glass \ufb01bre bus bar insulation for LEP TIS No. R 375 UL 94: V-1 LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 220 220 0 3 10 77.6\u00b18.1 58.4\u00b16.1 38.5\u00b14.7 > 5 2.1\u00b10.1 1.3\u00b10.1 2.3\u00b10.3 5.6\u00b10.6 3.1\u00b10.2 0 1 10 100 0 1 10 100 Absorbed dose (MGy) Strength (MPa) \u2013 Deformation (%) Radiation effect on insulating resin R 375 Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 126,
+    "page": 114,
+    "text": "CERN 98\u201301/A3/P Critical property = deformation Radiation index (RI) = 7.7 at a mean dose rate of 170 kGy/h Material: Type Supplier: Remarks: Polyurethane Micares 700 Mica\ufb01l TIS No. R 416 UL 94: n.m. LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 170 170 170 0 5 10 50 95.4\u00b11.7 90.6\u00b12.8 88.1\u00b12.0 86.4\u00b19.7 3.30\u00b10.42 2.75\u00b10.14 1.83\u00b10.08 1.60\u00b10.10 5.09\u00b10.23 5.04\u00b10.16 5.60\u00b10.20 6.00\u00b10.60 0 1 10 100 0 1 10 100 Absorbed dose (MGy) Strength (MPa) \u2013 Deformation (%) Radiation effect on insulating resin R 416 Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 127,
+    "page": 115,
+    "text": "CERN 98\u201301/A3/P Critical property = deformation Radiation index (RI) = < 6 at a mean dose rate of 190 kGy/h Radiation index (RI) = 5.7 at a mean dose rate of 100 Gy/h Comment: Dotted lines correspond to long-term irradiation. Material: Type Supplier: Remarks: Polycarbonate Makrolon 218 Bayer (CERN stores) translucent TIS No. R 419 UL 94: V-2 LOI: 26% Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 0.1 0.1 4.0 190 190 190 190 0.0 0.2 0.5 1.0 1.0 5.0 10 30 86.3\u00b12.9 86.6\u00b12.5 85.0\u00b11.3 44.4\u00b113.5 91.6\u00b12.2 17.2\u00b12.9 11.3\u00b12.0 7.8\u00b12.5 > 10 > 10 > 10 1.71\u00b10.53 5.49\u00b10.13 0.62\u00b10.09 0.39\u00b10.07 0.29\u00b10.08 2.3\u00b10.1 2.5\u00b10.1 2.6\u00b10.1 2.7\u00b10.1 2.7\u00b10.1 2.8\u00b10.1 2.9\u00b10.1 3.2\u00b10.2 0 1 100 0.0 0.1 1.0 10.0 100.0 Absorbed dose (MGy) Strength (MPa) \u2013 Deformation (%) Radiation effect on translucent resin R 419 Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 128,
+    "page": 116,
+    "text": "CERN 98\u201301/A3/P Comment: Dotted line corresponds to low-dose-rate irradiation. Material: Type Supplier: Remarks: Polyester + glass mat Nogentite NR2-71A D.F.C. high temperature applications TIS No. R 435 UL 94: n.m. LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 0.1 220 220 220 0 1 1 5.2 10 141\u00b120 114\u00b112 138\u00b112 131\u00b113 123\u00b119 2.39\u00b10.22 2.21\u00b10.17 2.05\u00b10.23 2.12\u00b10.23 2.28\u00b10.16 6.8\u00b10.8 7.5\u00b10.1 7.4\u00b10.0 6.8\u00b10.2 5.8\u00b10.4 0 1 10 100 1000 0 1 10 100 Absorbed dose (MGy) Strength (MPa) \u2013 Deformation (%) Radiation effect on Nogentite R 435 Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 129,
+    "page": 117,
+    "text": "CERN 98\u201301/A3/P Critical property = \ufb02exural strength Radiation index (RI) = > 7.5 at a mean dose rate of 220 kGy/h Material: Type Supplier: Remarks: Polyester + glass \ufb01bres Nogentite NZ-3 71E D.F.C. high temperature applications TIS No. R 459 UL 94: n.m. LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 220 220 220 0 5 10 30 96\u00b124 111\u00b125 103\u00b123 93\u00b131 1.25\u00b10.29 1.24\u00b10.14 1.06\u00b10.26 1.11\u00b10.35 11.2\u00b10.8 12.2\u00b11.0 12.7\u00b11.5 11.9\u00b11.5 0 1 10 100 1000 0 1 10 100 Absorbed dose (MGy) Strength (MPa) \u2013 Deformation (%) Radiation effect on insulating resin R 459 Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 130,
+    "page": 118,
+    "text": "CERN 98\u201301/A3/P Critical property = deformation Radiation index (RI) < 5 at a mean dose rate of 220 kGy/h Radiation index (RI) ~ 6 at a mean dose rate of 100 Gy/h Comment: Dotted lines correspond to long-term irradiation. Material: Type Supplier: Remarks: Polyphenyl oxide (PPO)-based plastic Noryl ENV 509 General Electric Plastics insulation of LEP monorail TIS No. R 464 UL 94: V-1 LOI: 31% Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 0.1 0.1 220 220 220 0 0.2 0.5 3 5 10 82.8\u00b12.9 84.7\u00b12.5 57.1\u00b11.3 104.0\u00b12.2 75.4\u00b120.4 59.9\u00b10.7 > 12* 2.5\u00b10.1 0.9\u00b10.2 9.0\u00b11.4 2.7\u00b10.7 1.9\u00b10.1 2.9\u00b10.1 6.7\u00b10.1 6.8\u00b10.1 3.0\u00b10.1 3.2\u00b10.1 3.3\u00b10.1 0 1 10 100 1000 0 1 10 100 Absorbed dose (MGy) Strength (MPa) \u2013 Deformation (%) Radiation effect on Noryl ENV 509 R 464 Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 131,
+    "page": 119,
+    "text": "CERN 98\u201301/A3/P Critical property = Modulus Radiation index (RI) = 7.5 at a mean dose rate of 220 kGy/h Material: Type Supplier: Remarks: Polyester resin + glass \ufb01bres KK/RI EBO AG TIS No. R 473 UL 94: n.m. LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 220 220 220 0 5 10 50 93.7\u00b111.4 95.7\u00b111.8 83.4\u00b14.8 68.4\u00b15.4 2.1\u00b10.2 2.3\u00b10.2 2.2\u00b10.2 2.2\u00b10.1 12.3\u00b10.7 7.3\u00b10.9 7.1\u00b10.4 4.9\u00b10.3 0 1 10 100 0 1 10 100 Absorbed dose (MGy) Strength (MPa) \u2013 Deformation (%) Radiation effect on insulating resin R 473 Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 132,
+    "page": 120,
+    "text": "CERN 98\u201301/A3/P Critical property = none Radiation index (RI) = > 7 at a mean dose rate of 220 kGy/h Material: Type Supplier: Remarks: Polyester resin + glass \ufb01bres KK/530I EBO AG TIS No. R 474 UL 94: n.m. LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 220 220 220 0 5 10 50 106\u00b112 111\u00b111 110\u00b110 99\u00b117 2.1\u00b10.2 2.0\u00b10.2 2.1\u00b10.1 2.1\u00b10.1 11.0\u00b10.7 11.4\u00b10.6 11.3\u00b11.1 8.1\u00b10.5 0 1 10 100 1000 0 1 10 100 Absorbed dose (MGy) Strength (MPa) \u2013 Deformation (%) Radiation effect on insulating resin R 474 Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 133,
+    "page": 121,
+    "text": "CERN 98\u201301/A3/P Critical property = deformation Radiation index (RI) = 6.7 at a mean dose rate of 220 kGy/h Material: Type Supplier: Remarks: Polyphenyl oxide (PPO) based plastic Univolt HFT AGRO, via Dietzel Electro GMBH TIS No. R 491 UL 94: n.m. LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 0.1 0.1 220 220 220 0 0.5 1 5 10 50 68.1\u00b11.5 73.7\u00b10.8 74.2\u00b12.2 75.4\u00b12.2 51.0\u00b17.9 30.5\u00b13.9 > 6 > 6 > 6 > 6 2.29\u00b10.46 1.3\u00b10.2 2.59\u00b10.06 2.53\u00b10.04 2.54\u00b10.05 2.66\u00b10.02 2.66\u00b10.07 2.41\u00b10.19 0 1 10 100 0 1 10 100 Absorbed dose (MGy) Strength (MPa) \u2013 Deformation (%) Radiation effect on insulating plastic R 491 Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 134,
+    "page": 122,
+    "text": "CERN 98\u201301/A3/P Critical property = \ufb02exural strength Radiation index (RI) = > 7 at a mean dose rate of 220 kGy/h Material: Type Supplier: Remarks: Polyester resin + glass mat Polyester 1 FA-BA proposed for LEP magnet covers (hand-made) TIS No. R 499 UL 94: n.m. LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 220 220 0 5 10 216\u00b127 214\u00b111 180\u00b120 3.60\u00b10.28 3.51\u00b10.26 3.29\u00b10.43 5.89\u00b13.04 7.57\u00b10.71 6.91\u00b10.57 0 1 10 100 1000 0 1 10 100 Absorbed dose (MGy) Strength (MPa) \u2013 Deformation (%) Radiation effect on insulating resin R 499 Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 135,
+    "page": 123,
+    "text": "CERN 98\u201301/A3/P Critical property = \ufb02exural strength Radiation index (RI) = > 7 at a mean dose rate of 220 kGy/h Material: Type Supplier: Remarks: Polyester resin + glass mat Polyester 2 FA-BA proposed for LEP magnet covers (hand-made) TIS No. R 500 UL 94: n.m. LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 220 220 0 5 10 148\u00b15 143\u00b129 132\u00b127 3.77\u00b10.59 3.73\u00b10.32 4.27\u00b10.33 5.30\u00b12.53 7.07\u00b11.23 5.56\u00b10.75 0 1 10 100 1000 0 1 10 100 Absorbed dose (MGy) Strength (MPa) \u2013 Deformation (%) Radiation effect on insulating resin R 500 Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 136,
+    "page": 124,
+    "text": "CERN 98\u201301/A3/P Critical property = \ufb02exural strength Radiation index (RI) = > 7 at a mean dose rate of 220 kGy/h Material: Type Supplier: Remarks: Polyester resin + glass mat Polyester 3 FA-BA proposed for LEP magnet covers (hand-made) TIS No. R 501 UL 94: n.m. LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 220 220 0 5 10 130\u00b125 160\u00b19 123\u00b115 3.6\u00b10.9 3.4\u00b10.2 3.5\u00b10.1 3.5\u00b12.8 8.5\u00b10.6 5.9\u00b11.4 0 1 10 100 1000 0 1 10 100 Absorbed dose (MGy) Strength (MPa) \u2013 Deformation (%) Radiation effect on insulating resin R 501 Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 137,
+    "page": 125,
+    "text": "CERN 98\u201301/A3/P Critical property = \ufb02exural strength and deformation Radiation index (RI) < 5 at a mean dose rate of 250 kGy/h Comment: This material should never be used in a radiation environment. Material: Type Supplier: Remarks: Polyoximethylene (POM) Delrin DuPont de Nemours also called acetal resin CERN stores Scem 44 88 20 104.1 TIS No. R 503 UL 94: n.m. LOI: n.m. Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 250 0 0.2 98.6\u00b19.4 4.9\u00b10.9 > 13 0.1\u00b10.3 3.4\u00b10.6 3.5\u00b10.3 0 1 10 100 0.0 0.1 1.0 10.0 100.0 Absorbed dose (MGy) Strength (MPa) \u2013 Deformation (%) Radiation effect on insulating resin R 503 Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 138,
+    "page": 126,
+    "text": "CERN 98\u201301/A3/P Critical property = \ufb02exural strength Radiation index (RI) = > 8 at a mean dose rate of 220 kGy/h Material: Type Supplier: Remarks: Polyetherimide + glass \ufb01bres Ultem 1000 General Electric Plastics TIS No. R 504 UL 94: n.m. LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 170 70 70 220 0 5 10 50 100 288\u00b154 234\u00b129 235\u00b19 214\u00b16 216\u00b13 2.83\u00b10.08 2.86\u00b10.14 2.65\u00b10.09 2.39\u00b10.10 2.15\u00b10.04 10.5\u00b11.3 9.1\u00b11.4 9.5\u00b10.4 10.0\u00b10.5 10.8\u00b10.1 0 1 10 100 1000 0 1 10 100 Absorbed dose (MGy) Strength (MPa) \u2013 Deformation (%) Radiation effect on insulating resin R 504 Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 139,
+    "page": 127,
+    "text": "CERN 98\u201301/A3/P Critical property = deformation Radiation index (RI) = 6.8 Material: Type Supplier: Remarks: PUR, Polyalcohol Scotchcast 800 3M rigid (cold) contains chlorine TIS No. R 513 UL 94: n.m. LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 200 3 3 200 200 0 3.4 5 10 10 29 115\u00b12 93.1\u00b19.2 81.7\u00b19.2 58.7\u00b18.3 70.4\u00b19.2 20.7\u00b12.8 6.46\u00b10.69 3.98\u00b10.6 3.9\u00b10.6 2.5\u00b10.3 2.3\u00b10.4 1.1\u00b10.2 3.0\u00b10.0 2.8\u00b10.1 2.5\u00b10.1 2.5\u00b10.2 3.3\u00b10.1 2.0\u00b10.1 0 1 10 100 1000 0 1 10 100 Absorbed dose (MGy) Strength (MPa) \u2013 Deformation (%) Radiation effect on Polyalcohol R 513 Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 140,
+    "page": 128,
+    "text": "CERN 98\u201301/A3/P Critical property = deformation Radiation index (RI) = 6.5 at a mean dose rate of 200 kGy/h Radiation index (RI) = < 6.7 at a mean dose rate of 3000 Gy/h Material: Type Supplier: Remarks: PUR, Polyalcohol Scotchcast 840 3M \ufb02exible (cold) contains chlorine TIS No. R 516 UL 94: n.m. LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 200 3 3 200 200 0 3.4 5 10 10 29 0.9\u00b10.1 35.5\u00b11.9 43.5\u00b12.2 48.6\u00b13.3 44.2\u00b13.7 27.2\u00b13.0 > 12 7.2\u00b11.6 3.6\u00b10.2 2.8\u00b10.2 2.7\u00b10.2 1.6\u00b10.1 0.0\u00b10.0 0.9\u00b10.1 1.6\u00b10.1 4.1\u00b10.2 1.9\u00b10.1 1.9\u00b10.2 0 1 10 100 0 1 10 100 Absorbed dose (MGy) Strength (MPa) \u2013 Deformation (%) Radiation effect on Polyalcohol R 516 Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 141,
+    "page": 129,
+    "text": "CERN 98\u201301/A3/P Critical property = deformation Radiation index (RI) = 7.1 at a mean dose rate of 220 kGy/h Radiation index (RI) = 6.8 at a mean dose rate of 1 kGy/h Comment: Dotted lines correspond to long-term irradiation. Material: Type Supplier: Remarks: PEEK Natural polyether-ether-ketone Erta-Epec via Angst and P\ufb01ster TIS No. R 520 UL 94: V-0 LOI: 35% Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 1 180 180 1 210 220 0 1 5 10 10 50 100 177\u00b13 177\u00b15 179\u00b10.3 161\u00b135 126\u00b17 81\u00b141 143\u00b122 > 15 > 15 > 15 9.2\u00b14.5 3.4\u00b10.3 3.0\u00b11.1 4.7\u00b11.2 4.3\u00b10.1 4.3\u00b10.1 4.1\u00b10.1 4.2\u00b10.1 4.3\u00b10.3 4.3\u00b10.1 4.2\u00b10.1 Absorbed dose (MGy) Strength (MPa - Deformation (%) Radiation effect on PEEK R 520 0 1 10 100 1000 100 10 1 0 Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 142,
+    "page": 130,
+    "text": "CERN 98\u201301/A3/P Critical property = deformation Radiation index (RI) = 7 at a mean dose rate of 185 kGy/h Radiation index (RI) > 6.8 at a mean dose rate of 1000 Gy/h Material: Type Supplier: Remarks: Polyimide Sintimid Lenzing & Plansee free of charge TIS No. R 521 UL 94: n.m. LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 1 185 1 185 210 0 1 5 7 10 50 223\u00b116 189\u00b132 176\u00b120 152\u00b116 120\u00b15 73\u00b110 6.60\u00b10.62 5.38\u00b10.84 4.71\u00b10.62 4.21\u00b10.40 3.24\u00b10.07 2.12\u00b10.29 3.91\u00b10.05 3.91\u00b10.18 3.94\u00b10.08 3.85\u00b10.10 3.72\u00b10.09 3.52\u00b10.34 0 1 10 100 1000 0 1 10 100 Absorbed dose (MGy) Strength (MPa) \u2013 Deformation (%) Radiation effect on Sintimid R 521 Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 143,
+    "page": 131,
+    "text": "CERN 98\u201301/A3/P Critical property = deformation Radiation index (RI) = 6.8 at a mean dose rate of 185 kGy/h Radiation index (RI) = 6.8 at a mean dose rate of 1000 Gy/h Material: Type Supplier: Remarks: Polyetherimide + Siloxane Siltem STM 1500 General electric Plastics copolymer, free of charge for wire insulation TIS No. R 522 UL 94: V-O LOI: 46% Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 1 185 1 185 220 0 1 5 7 10 50 25.8\u00b11 27.3\u00b10.7 45.0\u00b10.1 53.2\u00b12.1 56.5\u00b13.2 23.2\u00b12.4 > 10 > 10 > 10 5.14\u00b10.58 4.8\u00b10.3 1.0\u00b10.1 0.71\u00b10.03 0.72\u00b10.02 1.10\u00b10.03 1.40\u00b10.03 1.55\u00b10.03 2.68\u00b10.06 0 1 10 100 0 1 10 100 Absorbed dose (MGy) Strength (MPa) \u2013 Deformation (%) Radiation effect on Siltem R 522 Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 144,
+    "page": 132,
+    "text": "CERN 98\u201301/A3/P Critical property = \ufb02exural strength Radiation index (RI) = 7.5 at a mean dose rate of 200 kGy/h Material: Type Supplier: Remarks: Polyarylamide base thermoplastic IXEF 1002 Solvay compound, + 30% glass \ufb01bre TIS No. R 523 UL 94: HB LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 6 200 200 200 200 0 1 3 10 30 100 274\u00b13 247\u00b19 189\u00b17 151\u00b12 144\u00b13 105\u00b110 2.71\u00b10.03 2.40\u00b10.10 1.88\u00b10.07 1.55\u00b10.02 1.55\u00b10.02 1.35\u00b10.07 11.3\u00b10.1 11.4\u00b10.1 10.9\u00b10.1 10.8\u00b10.1 10.9\u00b10.1 7.65\u00b11.0 0 1 10 100 1000 0 1 10 100 Absorbed dose (MGy) Strength (MPa) \u2013 Deformation (%) Radiation effect on insulating resin R 523 Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 145,
+    "page": 133,
+    "text": "CERN 98\u201301/A3/P Critical property = \ufb02exural strength Radiation index (RI) = > 7.5 at a mean dose rate of 200 kGy/h Material: Type Supplier: Remarks: Polyarylamide base thermoplastic IXEF 1501 Solvay compound, + 30% glass \ufb01bre contains bromine as \ufb02ame retardant TIS No. R 524 UL 94: HB LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 6 200 200 200 0 1 3 10 30 271\u00b17 254\u00b15 194\u00b17 158\u00b14 147\u00b19 2.62\u00b10.07 2.37\u00b10.07 1.84\u00b10.06 1.69\u00b10.21 1.50\u00b10.10 11.8\u00b10.2 11.8\u00b10.1 11.4\u00b10.1 11.4\u00b10.1 11.3\u00b10.2 0 1 10 100 1000 0 1 10 100 Absorbed dose (MGy) Strength (MPa) \u2013 Deformation (%) Radiation effect on insulating resin R 524 Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 146,
+    "page": 134,
+    "text": "CERN 98\u201301/A3/P Critical property = deformation Radiation index (RI) = 6.7 at a mean dose rate of 220 kGy/h Radiation index (RI) = < 6.5 at a mean dose rate of 500 Gy/h Comment: Dotted lines correspond to long-term irradiation. Material: Type Supplier: Remarks: Polyamide (PA) 4.6 Ertalon Erta-Epec via Angst and P\ufb01ster TIS No. R 526 UL 94: V-2 LOI: 24% Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 240 0.5 1.0 210 220 0 3 3 7 10 50 125\u00b12 128\u00b19 92\u00b17 50\u00b16 61\u00b17 32\u00b19 5.2\u00b10.3 4.5\u00b10.4 7.4\u00b11.3 1.7\u00b10.2 2.0\u00b10.1 2.0\u00b10.7 5.8\u00b10.3 5.6\u00b10.6 2.0\u00b10.2 3.0\u00b10.1 3.6\u00b10.4 2.0\u00b10.2 0 1 10 100 1000 0 1 10 100 Absorbed dose (MGy) Strength (MPa) \u2013 Deformation (%) Radiation effect on insulating resin R 526 Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 147,
+    "page": 135,
+    "text": "CERN 98\u201301/A3/P Critical property = deformation Radiation index (RI) = 6 at a mean dose rate of 220 kGy/h Material: Type Supplier: Remarks: Polyamide (PA) 6 Ertalon 6 PLA Erta-Epec moulded TIS No. R 528 UL 94: V-2 LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 4 4 220 220 0 0.5 1 3.2 10 98\u00b12 101\u00b11 101\u00b13 91\u00b18 53\u00b16 > 15 > 15 > 15 3.48\u00b10.03 1.76\u00b10.24 2.5\u00b10.1 2.6\u00b10.1 2.6\u00b10.2 3.11\u00b10.03 3.2\u00b10.1 0 1 10 100 1000 0 1 10 100 Absorbed dose (MGy) Strength (MPa) \u2013 Deformation (%) Radiation effect on insulating resin R 528 Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 148,
+    "page": 136,
+    "text": "CERN 98\u201301/A3/P Critical property = deformation Radiation index (RI) = 6 at a mean dose rate of 220 kGy/h Material: Type Supplier: Remarks: Polyamide PA 6 Ertalon LFX Erta-Epec = 6 PLA + lubricant TIS No. R 529 UL 94: V-2 LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 4.0 220 220 0 1 3.20 10 84.4\u00b11.3 85.4\u00b13.6 105.3\u00b13.2 34.5\u00b14.9 > 15 > 15 6.82\u00b10.64 1.32\u00b10.18 2.07\u00b10.05 2.18\u00b10.22 2.80\u00b10.02 2.80\u00b10.09 0 1 10 100 1000 0 1 10 100 Absorbed dose (MGy) Strength (MPa) \u2013 Deformation (%) Radiation effect on insulating resin R 529 Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 149,
+    "page": 137,
+    "text": "CERN 98\u201301/A3/P Critical property = deformation Radiation index (RI) = 6.5 at a mean dose rate of 220 kGy/h Material: Type Supplier: Remarks: Polyamide PA 6 Ertalon 6 XAU+ Erta-Epec = 6 PLA + heat stabilizer TIS No. R 530 UL 94: V-2 LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 4.0 220 220 0 1 3.2 10 76.1\u00b12.2 77.1\u00b12.1 107.6\u00b11.3 51.9\u00b113.1 > 15 > 15 13.8\u00b12.4 1.7\u00b10.4 1.84\u00b10.08 1.84\u00b10.12 2.42\u00b10.12 3.18\u00b10.06 0 1 10 100 1000 0.0 0.1 1.0 10.0 100.0 Absorbed dose (MGy) Strength (MPa) \u2013 Deformation (%) Radiation effect on insulating resin R 530 Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 150,
+    "page": 138,
+    "text": "CERN 98\u201301/A3/P Critical property = deformation Radiation index (RI) = 5.7 at a mean dose rate of 4 kGy/h Comment: At 10 MGy, only one sample was tested; the others were already broken. Material: Type Supplier: Remarks: Polyethylene terephtalate PETP Ertalyte Erta-Epec no additives TIS No. R 531 UL 94: HB LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 4.00 4.00 220 220 0 0.50 1 3 10 135\u00b12 129\u00b15 105\u00b19 47.4\u00b17 13\u00b1*** > 15 8.57\u00b14.71 3.59\u00b10.52 1.44\u00b10.20 0.31\u00b1*** 3.28\u00b10.12 3.25\u00b10.06 3.20\u00b10.09 3.53\u00b10.04 3.66\u00b1*** Radiation effect on insulating resin R 531 0 1 10 100 1000 0 1 10 100 1000 Absorbed dose (MGy) Strength (MPa) - Deformation (%) Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 151,
+    "page": 139,
+    "text": "CERN 98\u201301/A3/P Critical property = deformation Radiation index (RI) = 8 at a mean dose rate of 4 kGy/h Material: Type Supplier: Remarks: Polyethylene terephtalate PETP Ertalyte TX Erta-Epec = PETP + lubricant TIS No. R 532 UL 94: HB LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 4.0 4.0 220 220 0 0.50 1 3 10 120\u00b14 107\u00b13 64\u00b114 24\u00b13 15\u00b11 6.37\u00b10.27 4.16\u00b10.11 1.75\u00b10.15 0.77\u00b10.08 0.57\u00b10.04 3.05\u00b10.05 3.20\u00b10.08 3.18\u00b10.19 3.48\u00b10.14 3.14\u00b10.23 Radiation effect on insulating resin R 532 0 1 10 100 1000 0 1 10 100 Absorbed dose (MGy) Strength (MPa) - Deformation (%) Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 152,
+    "page": 140,
+    "text": "CERN 98\u201301/A3/P Critical property = deformation Radiation index (RI) = > 7.7 at a mean dose rate of 220 kGy/h Material: Type Supplier: Remarks: Polyetherimide Erta PEI Erta-Epec based on Ultem 1000 TIS No. R 533 UL 94: V-0 LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 4.0 220 220 220 0 1 3 10 50 171\u00b11 174\u00b12 180\u00b11 158\u00b129 102\u00b17 > 15 > 15 > 15 10.9\u00b15.6 3.3\u00b10.2 3.15\u00b10.05 3.23\u00b10.08 3.27\u00b10.07 3.16\u00b10.02 3.31\u00b10.04 Absorbed dose (MGy) Strength (MPa) - Deform. (%) 0 1 10 100 Radiation effect on insulating resin R 533 1000 100 10 1 0 Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 153,
+    "page": 141,
+    "text": "CERN 98\u201301/A3/P Critical property = deformation Radiation index (RI) = 6.3 at a mean dose rate of 220 kGy/h Material: Type Supplier: Remarks: Polyethersulfone Erta PES Erta-Epec based on Victrex TIS No. R 534 UL 94: V-0 LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 4.0 4.0 220 220 0.00 0.50 1 3 10 141\u00b11 134\u00b11 132\u00b15 46.9\u00b13.4 14.3\u00b16.3 > 15 > 15 11.6\u00b14.6 1.7\u00b10.1 0.5\u00b10.2 2.70\u00b10.05 2.79\u00b10.12 2.92\u00b10.07 3.07\u00b10.06 3.28\u00b10.27 Radiation effect on Erta-PES R 534 0 1 10 100 1000 0 1 10 100 Absorbed dose (MGy) Strength (MPa) - Deform. (%) Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 154,
+    "page": 142,
+    "text": "CERN 98\u201301/A3/P Critical property = \ufb02exural strength Radiation index (RI) = 6.5 at a mean dose rate of 110 kGy/h Material: Type Supplier: Remarks: Polysulfone Erta PSU Erta-Epec based on Udel P 3500 TIS No. R 535 UL 94: HB LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 4 4 220 220 0 0.50 1 3 10 120\u00b11 114\u00b10.3 102\u00b111 58\u00b13 19\u00b13 > 15 > 15 9.6\u00b16.7 2.08\u00b10.11 0.71\u00b10.09 2.59\u00b10.05 2.70\u00b10.05 2.75\u00b10.04 2.95\u00b10.03 3.02\u00b10.12 Radiation effect on PSU R 535 1 10 100 1000 0 0 1 10 Absorbed dose (MGy) Strength (MPa) - Deform. (%) Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 155,
+    "page": 143,
+    "text": "CERN 98\u201301/A3/P Critical property = deformation Radiation index (RI) ~ 7 at a mean dose rate of 220 kGy/h Material: Type Supplier: Remarks: Polyamide PA 6 Ertalon 6 SA Erta-Epec extruded TIS No. R 536 UL 94: V-2 LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 4.0 220 220 0.10 1 3.30 10 63.4\u00b11.7 72.7\u00b11.0 100.7\u00b10.9 109.9\u00b136 > 15 > 15 > 15 9.47\u00b16.13 1.38\u00b10.03 1.59\u00b10.05 2.37\u00b10.70 2.88\u00b10.04 Absorbed dose (MGy) Strength (MPa) - Deformation (%) Radiation effect on insulating resin R 536 1000 100 10 1 0 0 1 10 100 Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 156,
+    "page": 144,
+    "text": "CERN 98\u201301/A3/P Critical property = deformation Radiation index (RI) = 6.5 at a mean dose rate of 220 kGy/h Material: Type Supplier: Remarks: Polyamide PA 66 Ertalon 66 SA Erta-Epec extruded TIS No. R 537 UL 94: V-2 LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 4 220 230 0 1 5 10 102\u00b13 110\u00b11 125\u00b110 67\u00b116 > 15 > 15 7.7\u00b12.4 2.1\u00b10.5 2.4\u00b10.1 2.6\u00b10.1 3.0\u00b10.1 3.2\u00b10.1 Absorbed dose (MGy) Strength (MPa) - Deformation (%) Radiation effect on insulating resin R 537 0 1 10 100 1000 0 1 10 Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 157,
+    "page": 145,
+    "text": "CERN 98\u201301/A3/P Critical property = deformation Radiation index (RI) = 6.3 at a mean dose rate of 220 kGy/h Material: Type Supplier: Remarks: Polyarylate ISARYL 15 M Isonova moulded TIS No. R 542 UL 94: V-0 LOI: 33% Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 3.6 220 1.0 220 230 180 0 0.1 1 2 10 29 80 110\u00b14 107\u00b12 107\u00b13 105\u00b12 83\u00b111 31\u00b113 26\u00b15 > 12 > 12 > 12 > 12 6.1\u00b15.3 1.1\u00b10.4 0.8\u00b10.2 2.4\u00b10.1 2.4\u00b10.1 2.5\u00b10.1 2.7\u00b10.1 2.9\u00b10.1 3.1\u00b10.0 3.4\u00b10.2 Radiation effect on polyarylate R 542 0 1 10 100 1000 0 0 1 10 100 Absorbed dose (MGy) Strength (MPa) - Deformation (%) Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 158,
+    "page": 146,
+    "text": "CERN 98\u201301/A3/P Critical property = \ufb02exural stregth Radiation index (RI) = > 7.5 at a mean dose rate of 225 kGy/h Radiation index (RI) = > 6.7 at a mean dose rate of 1 kGy/h Comment: Samples don\u2019t break. Material: Type Supplier: Remarks: Polyaryl ether ketone (PAEK) Stilan/Ultrapek Raychem BASF TIS No. R 563 UL 94: n.m. LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 1 1 225 0 3 5 30 153\u00b14 153\u00b17 132\u00b12 117\u00b15 > 6 > 6 > 6 > 6 5.46\u00b10.38 5.46\u00b10.42 4.52\u00b10.22 4.12\u00b10.18 Radiation effect on PAEK - R 563 0 1 10 100 1000 0 1 10 Absorbed dose (MGy) Strength (MPa) - Deformation (%) Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 159,
+    "page": 147,
+    "text": "CERN 98\u201301/A3/P Critical property = \ufb02exural strength Radiation index (RI) = > 7.5 at a mean dose rate of 225 kGy/h Material: Type Supplier: Remarks: Polyimide Vespel SP-1 DuPont via Erta-Epec TIS No. R 568 UL 94: n.m. LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 225 0 30 91.9\u00b17.7 80.8\u00b115.2 4.18\u00b10.64 3.09\u00b10.75 2.52\u00b11.22 3.20\u00b10.07 Strength (MPa) - Deformation (%) Radiation effect on Vespel SP-1 - R 568 Absorbed dose (MGy) 0 1 10 100 1000 0 1 10 100 1000 Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 160,
+    "page": 148,
+    "text": "CERN 98\u201301/A3/P Critical property = \ufb02exural strength Radiation index (RI) > 7.5 at a mean dose rate of 225 kGy/h Material: Type Supplier: Remarks: Polyphenylsulfone (PPS) + glass \ufb01bres Ertaxel Erta-Epec contains PTFE as lubricant TIS No. R 569 UL 94: n.m. LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 225 0 30 89.3\u00b12.3 64.5\u00b12.6 3.32\u00b10.04 1.99\u00b10.09 3.29\u00b10.09 3.52\u00b10.13 Strength (MPa) - Deformation (%) Radiation effect on Ertaxek - R 569 Absorbed dose (MGy) 0 1 10 100 0 1 10 100 1000 Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 161,
+    "page": 149,
+    "text": "CERN 98\u201301/A3/P Critical property = \ufb02exural strength Radiation index (RI) 6.7 at a mean dose rate of 240 kGy/h Comments: Dotted lines correspond to long-term irradiation. Young\u2019s modulus is also affected by radiation. Material: Type Supplier: Remarks: Polyamide (PA)66 + 30% glass \ufb01bres Ertalon 66 GF 30 ERTA TIS No. R 570 UL 94: n.m. LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 0.1 1 220 240 0 0.5 2 3.4 10 197\u00b11 117\u00b18 188\u00b12 110\u00b19 71\u00b115 4.58\u00b10.31 9.95\u00b11.36 3.11\u00b10.08 4.14\u00b10.54 3.91\u00b11.07 5.76\u00b10.27 3.18\u00b10.44 6.19\u00b10.24 3.84\u00b10.30 2.52\u00b10.18 Radiation effect on Ertalon 66 GF30 - R 570 0 1 10 100 1000 0 1 10 100 Absorbed dose (MGy) Strength (MPa) - Deformation (%) Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 162,
+    "page": 150,
+    "text": "CERN 98\u201301/A3/P Critical property = deformation Radiation index (RI) = \u2248 4 at a mean dose rate of 40 kGy/h Comment: Should not be used in a radiation environment. Material: Type Supplier: Remarks: Polyoximethylene resin (POM) Ertacetal C Erta - Epec also called acetal resin TIS No. R 571 UL 94: LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 0.01 0.04 4 0 0.005 0.024 0.200 101\u00b12 101\u00b12 74\u00b13 4\u00b10.6 > 15 > 15 3.07\u00b10.21 0.15\u00b10.01 3.09\u00b10.04 2.95\u00b10.06 3.00\u00b10.14 2.72\u00b10.30 Radiation effect on Acetal resin (POM) - R 571 0 1 10 100 1000 0.00 0.01 0.10 1.00 Absorbed dose (MGy) Strength(MPa) - Deformation (%) Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 163,
+    "page": 151,
+    "text": "CERN 98\u201301/A3/P Critical property = deformation Radiation index (RI) = ~ 5.7 at a mean dose rate of 1 kGy/h Comment: Samples do not break before 0.5 MGy. Material: Type Supplier: Remarks: Polyethylene Cestidur Borolene 4505 ERTA TIS No. R 572 UL 94: n.m. LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 4 4 1 220 0 0.2 0.5 1 3.4 23.8\u00b10.2 28.7\u00b10.9 32.3\u00b10.4 28.9\u00b10.6 31.4\u00b10.7 > 15 > 15 7.90\u00b10.30 5.24\u00b10.43 4.01\u00b10.15 1.11\u00b10.06 1.47\u00b10.07 1.63\u00b10.02 1.62\u00b10.05 1.49\u00b10.06 Strength (MPa) - Deformation (%) Radiation effect on Cestidur PE - R 572 Absorbed dose (MGy) 0 1 10 0 1 10 100 Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 164,
+    "page": 152,
+    "text": "CERN 98\u201301/A3/P Critical property = deformation Radiation index (RI) = ~ 6 at a mean dose rate of 220 kGy/h Material: Type Supplier: Remarks: Polyethylene Cestidur Cestilene HD 1000 ERTA - EPEC TIS No. R 573 UL 94: n.m. LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 4 4 1 220 0 0.2 0.5 1 3.4 23.3\u00b10.5 31.2\u00b10.8 34.4\u00b11.1 38.6\u00b10.4 44.7\u00b10.8 > 15 > 15 > 15 > 15 8.6\u00b10.9 0.81\u00b10.01 1.18\u00b10.04 1.29\u00b10.06 1.56\u00b10.07 1.34\u00b10.07 Strength (MPa) 0 1 10 100 1 10 100 Absorbed dose (MGy) Radiation effect on Cestidur PE - R 573 Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 165,
+    "page": 153,
+    "text": "CERN 98\u201301/A3/P Critical property = deformation Radiation index (RI) = ~ 6.5 at a mean dose rate of 220 kGy/h Comment: Samples do not break before 3.4 MGy. Material: Type Supplier: Remarks: Polyethylene Cestidur Cestilene HD 500 ERTA - EPEC TIS No. R 574 UL 94: n.m. LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 4 4 1 220 0 0.2 0.5 1 3.4 37.1\u00b10.8 46.9\u00b10.4 57.6\u00b10.5 54.6\u00b11.7 61.7\u00b10.9 > 15 > 15 > 15 > 15 9\u00b10.3 1.69\u00b10.08 2.10\u00b10.04 2.47\u00b10.08 2.31\u00b10.10 2.02\u00b10.03 Strength (MPa) Radiation effect on Cestidur PE - R 574 0 1 10 100 1 10 100 Absorbed dose (MGy) Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 166,
+    "page": 154,
+    "text": "CERN 98\u201301/A3/P Critical property = deformation Radiation index (RI) = > 6.5 at a mean dose rate of 220 kGy/h Comment: Samples do not break before 3.4 MGy. Material: Type Supplier: Remarks: Polyethylene Cestidur ERTA - EPEC TIS No. R 575 UL 94: n.m. LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 4 4 1 220 0 0.2 0.5 1 3.4 22.7\u00b10.2 30.0\u00b10.3 33.1\u00b10.4 36.3\u00b10.2 41.7\u00b10.3 > 15 > 15 > 15 > 15 9.3\u00b10.1 0.78\u00b10.01 1.09\u00b10.04 1.20\u00b10.04 1.39\u00b10.05 1.19\u00b10.03 Strength (MPa) 10 100 1 10 100 1 0 Absorbed dose (MGy) Radiation effect on Cestidur PE - R 575 Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 167,
+    "page": 155,
+    "text": "CERN 98\u201301/A3/P Critical property = deformation Radiation index (RI) = 5.9 at a mean dose rate of 1 kGy/h Radiation index (RI) = 6.4 at a mean dose rate of 220 kGy/h Comment: Samples do not break before 1 MGy. Material: Type Supplier: Remarks: Polyethylene Cestidur Cestitech ERTA - EPEC TIS No. R 576 UL 94: n.m. LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 4 4 1 220 0 0.2 0.5 1 3.4 23.4\u00b10.6 31.1\u00b10.2 33.4\u00b11.2 34.7\u00b11.2 38.8\u00b10.6 > 14 > 14 > 14 5.46\u00b10.53 5.10\u00b10.31 0.83\u00b10.05 1.15\u00b10.05 1.26\u00b10.11 1.56\u00b10.06 1.43\u00b10.03 Radiation effect on Cestidur PE - R 576 Absorbed dose (MGy) 0 1 10 0 1 10 100 Strength (MPA) - Deformation (%) Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 168,
+    "page": 156,
+    "text": "CERN 98\u201301/A3/P Critical property = \ufb02exural strength Radiation index (RI) = > 7.5 at a mean dose rate of 225 kGy/h Material: Type Supplier: Remarks: Polyamide imide (PAI) Torlon 4203 DSM EPP TIS No. R 577 UL 94: n.m. LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 225 0 30 188\u00b13 191\u00b12 14.96\u00b10.09 15.04\u00b10.05 4.06\u00b10.03 4.27\u00b10.06 Strength (MPa) - Deformation (%) Radiation effect on Torlon 4203 - R 577 Absorbed dose (MGy) 1000 100 10 1 0 1 10 100 1000 Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 169,
+    "page": 157,
+    "text": "CERN 98\u201301/A3/P Critical property = \ufb02exural strength Radiation index (RI) = > 7.5 at a mean dose rate of 225 kGy/h Material: Type Supplier: Remarks: Polyamide imide (PAI) Torlon 4301 DSM EPP TIS No. R 578 UL 94: n.m. LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 225 0 30 182\u00b14 181\u00b14 7.88\u00b10.59 6.71\u00b10.50 6.12\u00b10.13 6.01\u00b10.11 Radiation effect on Torlon 4301 - R 578 0 1 10 100 1000 0 1 10 100 Absorbed dose (MGy) Strength (MPa) - Deformation (%) Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 170,
+    "page": 159,
+    "text": "R Reso\ufb01l trade name of Mica\ufb01l for phenolic resin, see Ref. [25]; RI < 5.7 Rilsan trade name of Atochem for polyamide; RI ~ 6 Ryton trade name of Phillips Petroleum Company for polyphenil sul\ufb01de (PPS), see Ref. [25]",
+    "chem": 1
+  },
+  {
+    "chunk_id": 171,
+    "page": 161,
+    "text": "S Samicanit trade name of Isola for Mica and glass reinforced epoxy resins, see Ref. [25] Samicapor trade name of Isola for GFRP, see epoxy resin Samicatherm trade name of ANSALDO for Mica and glass reinforced epoxy resins, see Epoxy resin and Ref. [25] Scotchcast trade name of 3M for epoxy base compounds, see epoxy Silicone resins see Ref. [25]; RI > 7.7 Siltem trade name of General Electric Plastics for polyimide-silicones copolymer also for polyetherimide-siloxane copolymer, see also polyetherimide Sintimid trade name of Lenzing& Planzee for polyimide, see polyimide Stilan trade name by Raychem for PAEK Styrene Silicone-polyimide copolymer",
+    "chem": 1
+  },
+  {
+    "chunk_id": 172,
+    "page": 162,
+    "text": "List of materials classi\ufb01ed under letter S TIS Material Type Mechanical properties number name UTS (MPa) Deform. (%) Modulus (MPa) RI 544 Silicones-polyimide copolymer Siltem 1550 70.52 > 10 1.84 6.5 418 Styrene: cross-linked copolymer PolypencoQ.200.5 89.7 4.3 3.2 > 5.7",
+    "chem": 1
+  },
+  {
+    "chunk_id": 173,
+    "page": 163,
+    "text": "CERN 98\u201301/A3/S Critical property = deformation Radiation index (RI) = > 7.7 at a mean dose rate of 220 kGy/h Material: Type Supplier: Remarks: Silicones-polymide copolymer Siltem 1550 General Electric Plastics TIS No. R 544 UL 94: V-0 LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 1 220 220 220 0 2 5 10 50 70.5\u00b10.6 71.2\u00b11.0 78.8\u00b13.2 74.8\u00b13.6 42.2\u00b11.3 > 10 > 10 > 10 1.41\u00b10.10 1.66\u00b10.03 1.84\u00b10.01 1.96\u00b10.04 1.95\u00b10.10 5.88\u00b10.33 2.72\u00b10.10 Radiation effect on Siltem - R 544 0 1 10 100 1000 0 1 10 100 Absorbed dose (MGy) Strength (MPa) - Deformation (%) Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 174,
+    "page": 164,
+    "text": "CERN 98\u201301/A3/S Critical property = deformation Radiation index (RI) = 7.0 at a mean dose rate of 160 kGy/h Radiation index (RI)= > 5.7 at a mean dose rate of 100 Gy/h Comment: Dotted lines correspond to long-term irradiation. Material: Type Supplier: Remarks: Styrene: cross-linked copolymer Polypenco Q.200.5 Cellpack translucent TIS No. R 418 UL 94: LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 0.1 0.1 160 160 160 0.0 0.2 0.5 5 10 30 89.7\u00b16.4 96.6\u00b12.8 96.6\u00b11.5 83.1\u00b18.0 73.4\u00b15.5 33.1\u00b14.7 4.3\u00b10.1 3.3\u00b10.1 3.2\u00b10.0 3.3\u00b11.0 2.3\u00b10.2 1.0\u00b10.1 3.2\u00b10.1 3.2\u00b10.1 3.3\u00b10.1 3.3\u00b10.1 3.3\u00b10.1 3.2\u00b10.1 0 1 10 100 0.0 0.1 1.0 10.0 100.0 Absorbed dose (MGy) Strength (MPa) \u2013 Deformation (%) Radiation effect on insulating resin R 418 Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 175,
+    "page": 165,
+    "text": "T Tedur trade name of Bayer for polyphenylene sul\ufb01de, see PPS Te\ufb02on trade name of Dupont for PTFE; very sensitive to radiation; not to be used in radiation environments Tefzel trade name of Dupont for ETFE Torlon trade name of Polypenco for polyamide-imide, see PAI",
+    "chem": 1
+  },
+  {
+    "chunk_id": 176,
+    "page": 167,
+    "text": "U Udel trade name of General Electric Plastics for polysulfone, see polysulfone Ultem trade name of General Electric Plastics for polyetherimide, see polyetherimide Ultraform trade name of BASF for acetal resin, see POM Ultramid trade name of BASF for polyamides Ultrapek trade name of BASF for polyaril-ether-ketone Univolt trade name of Dietzel Electro for PPO based plastics",
+    "chem": 1
+  },
+  {
+    "chunk_id": 177,
+    "page": 169,
+    "text": "V Varnish Vectra trade name of Hoechst for liquid crystal polymer, see LCP Veridur trade name of BBC Baden for Silicone resin, see Ref. [25] Vespel trade name of Dupont for polyimide, see PI Vetresit trade name of MICAFIL for cycloaliphatic-epoxy, see epoxy resin Vetronite trade name of Von Roll Isola for epoxy resins, see epoxy resin Victrex trade name of ICI for polyether (-ether)-ketone, see PEEK Vicotex trade name of CIBA-GEIGY for carbon \ufb01bre reinforced epoxy laminate, see CFRP, and Ref. [35] for behaviour at cryogenic temperature",
+    "chem": 1
+  },
+  {
+    "chunk_id": 178,
+    "page": 170,
+    "text": "List of materials classi\ufb01ed under letter V TIS Material Type Mechanical properties number name UTS (MPa) Deform. (%) Modulus (MPa) RI 519 Varnish 4.302 100 4.5 3.09 > 7",
+    "chem": 0
+  },
+  {
+    "chunk_id": 179,
+    "page": 171,
+    "text": "CERN 98\u201301/A3/V Critical property = \ufb02exural strength Radiation index (RI) = > 7.1 at a mean dose rate of 220 kGy/h Material: Type Supplier: Remarks: Varnish 4.302 Isola ex SIB 775 TIS No. R 519 UL 94: n.m. LOI: Radiation test results according to IEC Standard 544 (and ISO 178) Dose rate (kGy/h) Dose (MGy) Ultim. strength (MPa) Deformation \u03b5 (%) Modulus (GPa) 0 220 220 220 0 5 10 50 100\u00b130 122\u00b17 112\u00b137 38.6\u00b13.6 4.5\u00b11.7 4.54\u00b10.59 4.22\u00b11.77 1.60\u00b10.97 3.09\u00b10.11 3.4\u00b10.1 3.56\u00b10.02 3.79\u00b10.09 0 1 10 100 1000 0 1 10 100 Absorbed dose (MGy) Strength (MPa) \u2013 Deformation (%) Radiation effect on insulating resin R 519 Ultim. strength Deformation",
+    "chem": 1
+  },
+  {
+    "chunk_id": 180,
+    "page": 173,
+    "text": "APPENDIX 4 List of abbreviations used in the present volume (for chemical abbreviation of polymers, see Tables 2a and 2b) ASTM American Society for Testing and Materials B breadth of the samples (mm) CEI Commission Electrotechnique Internationale D maximum de\ufb02exion during the test (mm) \u03b5 deformation = (%) F de\ufb02exion interval in linear \ufb02exural curve (mm) IEC International Electrotechnical Commission ISO International Organization for Standardization L distance between supports of the \ufb02exion test = 67 mm LOI Limit of Oxygen Index (%) M \ufb02exural modulus = (MPa) P strength interval in linear \ufb02exural curve (N) Px maximum strength (N) RI radiation index (see de\ufb01nition in Section 3 of the text) S \ufb02exural strength = (MPa) T thickness of the samples (mm) TIS Technical Inspection and Safety Commission at CERN UL Underwriters\u2019 Laboratories VPI vacuum press impregnated composite \u03b5= 6 2 DT L M or E P L FB T ( ) = \u22c5 \u22c5 3 3 4 S Px L B T = \u22c5 \u22c5 3 2 2",
+    "chem": 1
+  },
+  {
+    "chunk_id": 181,
+    "page": 175,
+    "text": "APPENDIX 5 List of suppliers of base materials, of transformers, and of some users who gave samples to CERN Agro AG Korbackerweg 2, CH\u20135502 Hunzenschwil Angst & P\ufb01ster (seller) 52, route du Bois-des-Fr\u00e8res, 1219 Gen\u00e8ve-le-Lignon Ansaldo (magnet maker) 8, via Lorenzi, I\u201316152 Genova BASF D\u20136700 Ludwigshafen Bayer AG D\u2013Dormagen Cellpack AG CH\u20135610 W\u00f6len Ciba-Geigy AG CH\u20134002 Basel Ciba-Geigy Marienberg Postfach 1253, D\u20136140 Bensheim 1 Ciba-Geigy Brochier ZI Les Chartini\u00e8res, BP 27, F\u201301121 Montluel Ferrettite (DFC) ZI de Nogent, BP 6, F\u201360104 Creil Dornier GmbH D\u201388039 Friedrichshafen DuPont de Nemours 2, ch. du Pavillon, P.O. Box, 1218 Gen\u00e8ve Ebo AG Z\u00fcrichstrasse 103, CH\u20138134 Adiswil Elektro Isola AS 197 Gr\u00f8nlandsvej, DK\u20137100 Vejle Elin (magnet maker) Penzinger Strasse 76, A\u20131141 Vienna Enka AG Postfach 100149, D\u20135600 Wuppertal 1 Erta Epec Industriepark Noord, B\u20138700 Tielt FA.BA. 2, via delle Fabbriche, I\u201316158 GE-Voltri General Electric Plastics 1 Plasticslaan, P.O. Box 117, NL\u20134600 Bergen/Zoom ICI P.O. Box 6, Welwyn Garden City, Herts. AL7 1HD, UK Isola Werke CH\u20134226 Bretenbach Isovolta / Isonova A\u20132355 Wiener Neudorf L.E. Pink Eng. Ltd Rose Kiln Lane, Reading RG2 0HP, UK Mica\ufb01l AG Badenerstrasse 780, CH\u20138048 Z\u00fcrich Permali Composites 8, rue A. Fruchard, F\u201354320 Max\u00e9ville Shell Bederstrasse 66, CH\u20138002 Z\u00fcrich Sintimid Postfach, A\u20134860 Lenzing Solvay Rue de Ransbeek, B\u20131120 Bruxelles Stesalit AG CH\u20134234 Zullwil YLA 2970C Bay Vista Court, Benicia, California",
+    "chem": 1
+  },
+  {
+    "chunk_id": 182,
+    "page": 175,
+    "text": "Mica\ufb01l AG Badenerstrasse 780, CH\u20138048 Z\u00fcrich Permali Composites 8, rue A. Fruchard, F\u201354320 Max\u00e9ville Shell Bederstrasse 66, CH\u20138002 Z\u00fcrich Sintimid Postfach, A\u20134860 Lenzing Solvay Rue de Ransbeek, B\u20131120 Bruxelles Stesalit AG CH\u20134234 Zullwil YLA 2970C Bay Vista Court, Benicia, California 94510 3M GmbH Eggstrasse 93, Postfach, CH\u20138803 R\u00fcschlikon",
+    "chem": 0
+  }
+]

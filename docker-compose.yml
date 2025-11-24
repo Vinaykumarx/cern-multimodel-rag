@@ -1,0 +1,66 @@
+# version: '3.8'
+
+services:
+  # ----------------------------------------
+  # DOCLING OCR / Markdown Extraction Server
+  # ----------------------------------------
+  docling-serve:
+    image: ghcr.io/docling-project/docling-serve:latest
+    ports:
+      - "5001:5001"
+    environment:
+      DOCLING_SERVE_ENABLE_UI: "1"
+      DOCLING_SERVE_MAX_SYNC_WAIT: "600"
+    restart: unless-stopped
+
+  # ----------------------------------------
+  # MINIO S3-Compatible Storage
+  # ----------------------------------------
+  minio:
+    image: minio/minio
+    container_name: minio
+    ports:
+      - "9002:9002"
+      - "9003:9003"
+    volumes:
+      - minio_data:/data
+    environment:
+      MINIO_ROOT_USER: minioadmin
+      MINIO_ROOT_PASSWORD: minioadmin
+    command: server /data --address ":9002" --console-address ":9003"
+    restart: unless-stopped
+
+  # ----------------------------------------
+  # STREAMLIT RAG APPLICATION
+  # ----------------------------------------
+  streamlit-app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: streamlit-app
+    ports:
+      - "8501:8501"
+    depends_on:
+      - docling-serve
+      - minio
+    environment:
+      # ----------- QDRANT CLOUD SETTINGS -------------
+      QDRANT_URL: "https://b0842b9c-1158-4fda-9767-3e745a77cf33.europe-west3-0.gcp.cloud.qdrant.io"
+      QDRANT_API_KEY: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2Nlc3MiOiJtIn0.D5iASQgZQ26FJJ9ZLhUaX2RbcVuYZ-m62VA5PKDhJ9U"
+      QDRANT_COLLECTION: "cern_demo"
+
+      # ----------- MINIO SETTINGS --------------
+      MINIO_ENDPOINT: "http://minio:9002"
+      MINIO_ACCESS_KEY: "minioadmin"
+      MINIO_SECRET_KEY: "minioadmin"
+      MINIO_BUCKET: "cern-storage"
+
+      # ----------- DOCLING SERVER --------------
+      DOCLING_URL: "http://docling-serve:5001"
+    restart: unless-stopped
+
+# ----------------------------------------
+# VOLUMES
+# ----------------------------------------
+volumes:
+  minio_data:

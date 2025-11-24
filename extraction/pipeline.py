@@ -1,21 +1,34 @@
-import subprocess, sys, os
+import os
+import sys
+import subprocess
+from pathlib import Path
 
-BASE = os.path.dirname(os.path.dirname(__file__))
-print("Base:", BASE)
+BASE = Path(__file__).resolve().parent
 
 steps = [
     "extract_text.py",
-    "extract_tables.py",
     "extract_images.py",
+    "extract_tables.py",
     "extract_graphs.py",
     "caption_images.py",
-    "build_metadata.py"
+    "build_metadata.py",
 ]
 
-for s in steps:
-    p = subprocess.run([sys.executable, os.path.join(os.path.dirname(__file__), s)])
+def run_step(script):
+    print(f"[Pipeline] Running: {script}")
+    p = subprocess.run(
+        [sys.executable, str(BASE / script)],
+        env=os.environ.copy()
+    )
     if p.returncode != 0:
-        print("Step failed:", s)
-        break
+        print(f"❌ Step failed: {script}")
+        sys.exit(1)
+    print(f"[Pipeline] Completed: {script}")
 
-print("Pipeline completed.")
+
+if __name__ == "__main__":
+    print("========== CERN EXTRACTION PIPELINE ==========")
+    for s in steps:
+        run_step(s)
+
+    print("========== PIPELINE COMPLETED ==========")

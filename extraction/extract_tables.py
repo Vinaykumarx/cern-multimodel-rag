@@ -1,82 +1,35 @@
-# import pdfplumber, json
-# from pathlib import Path
-# BASE = Path(__file__).resolve().parent.parent
-
-# out_dir = BASE/'outputs'
-# out_dir.mkdir(exist_ok=True)
-
-# tables_index = []
-
-# with pdfplumber.open(str(pdf_path)) as pdf:
-#     for i, page in enumerate(pdf.pages):
-#         try:
-#             tables = page.extract_tables()
-#             for t_idx, table in enumerate(tables):
-#                 csv_path = out_dir/f"page_{i+1}_table_{t_idx+1}.csv"
-#                 with open(csv_path,'w') as cf:
-#                     for row in table:
-#                         cf.write(",".join(['' if c is None else str(c).replace("\n"," ") for c in row]) + "\n")
-#                 tables_index.append({'page': i+1, 'table_csv': str(csv_path)})
-#         except Exception as e:
-#             print("Error on page", i+1, e)
-
-# with open(out_dir/'tables_index.json','w') as f:
-#     json.dump(tables_index, f, indent=2)
-
-# print("Tables saved to", out_dir)
-
 import os
-import pdfplumber
 import json
-import csv
+import requests
 from pathlib import Path
 
-BASE = Path(__file__).resolve().parent.parent
-pdf_path = BASE / "data" / "CERN_Yellow_Report_357576.pdf"
-out_dir = BASE / "outputs"
-out_dir.mkdir(exist_ok=True)
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
+OUTPUTS = PROJECT_ROOT / "outputs"
+TABLES_DIR = OUTPUTS / "tables"
+TABLES_DIR.mkdir(exist_ok=True)
 
-tables_index = []
+PDF_PATH = os.getenv("PDF_PATH")
+DOCLING_URL = os.getenv("DOCLING_URL", "http://docling-serve:5001")
 
-PDF_ENV = os.getenv('PDF_PATH')
-if PDF_ENV:
-    pdf_path = Path(PDF_ENV)
-else:
-    pdf_path = BASE / 'data' / 'CERN_Yellow_Report_357576.pdf'
+print("[Tables] Extracting tables via Docling...")
 
-with pdfplumber.open(str(pdf_path)) as pdf:
-    for i, page in enumerate(pdf.pages):
-        try:
-            tables = page.extract_tables()
-        except Exception as e:
-            print(f"[TABLES] Error extracting tables on page {i+1}: {e}")
-            continue
+with open(PDF_PATH, "rb") as f:
+    resp = requests.post(f"{DOCLING_URL}/tables", files={"file": f})
 
-        for t_idx, table in enumerate(tables):
-            if not table:
-                continue
+resp.raise_for_status()
+data = resp.json()
 
-            csv_path = out_dir / f"page_{i+1}_table_{t_idx+1}.csv"
-            preview_rows = []
+tables = data.get("tables", [])
+index = []
 
-            with open(csv_path, "w", newline="") as cf:
-                writer = csv.writer(cf)
-                for row in table:
-                    clean = [
-                        "" if c is None else str(c).replace("\n", " ").strip()
-                        for c in row
-                    ]
-                    writer.writerow(clean)
-                    if len(preview_rows) < 5:
-                        preview_rows.append(clean)
+for t in tables:
+    filename = f"page_{t['page']}_table_{t['index']}.json"
+    out = TABLES_DIR / filename
+    with open(out, "w") as f:
+        json.dump(t["cells"], f, indent=2)
+    index.append({"page": t["page"], "table_json": str(out)})
 
-            tables_index.append({
-                "page": i + 1,
-                "table_csv": str(csv_path),
-                "preview": preview_rows
-            })
+with open(OUTPUTS / "tables_index.json", "w") as f:
+    json.dump(index, f, indent=2)
 
-with open(out_dir / "tables_index.json", "w") as f:
-    json.dump(tables_index, f, indent=2)
-
-print(f"[TABLES] Saved {len(tables_index)} tables to {out_dir}")
+print(f"[Tables] Saved {len(index)} tables → {TABLES_DIR}")

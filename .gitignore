@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual envs
+venv/
+.envrc
+
+# Streamlit
+.streamlit/
+
+# VSCode / IDE
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# LanceDB db
+lancedb/
+
+# Uploaded PDFs
+uploads/
+
+# Model caches
+models/
+.cache/
+huggingface/

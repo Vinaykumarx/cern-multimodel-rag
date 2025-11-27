@@ -1,0 +1,11 @@
+streamlit==1.51.0
+python-dotenv
+sentence-transformers
+torch
+transformers
+lancedb==0.25.3
+pyarrow<22
+numpy
+Pillow
+PyMuPDF
+tqdm
